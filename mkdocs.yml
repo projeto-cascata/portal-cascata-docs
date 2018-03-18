@@ -1,2 +1,17 @@
-site_name: My Docs
+site_name: Portal Cascata - Docs
+
+pages:
+  - Home: index.md
+  - Engenharia de Requisitos:
+    - Introdução: requisitos/requisitos.md
+    - 5W2H: requisitos/5w2h.md
+    - Rich Picture: requisitos/richpicture.md
+    - Ishikawa: requisitos/ishikawa.md
+    - Perfil de Usuário: requisitos/perfil-usuario.md
+    - Elicitação:
+      - Introdução: requisitos/elicitacao/elicitacao.md
+      - Entrevistas: requisitos/elicitacao/entrevistas.md
+      - Análise de Protocolo: requisitos/elicitacao/protocolos.md
+      - Protótipo: requisitos/elicitacao/prototipo.md
+
 theme: material
