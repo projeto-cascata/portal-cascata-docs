@@ -4,9 +4,49 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2018-03-16</lastmod>
+     <lastmod>2018-03-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
+        
+    <url>
+     <loc>/requisitos/requisitos/</loc>
+     <lastmod>2018-03-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/requisitos/5w2h/</loc>
+     <lastmod>2018-03-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/requisitos/richpicture/</loc>
+     <lastmod>2018-03-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/requisitos/ishikawa/</loc>
+     <lastmod>2018-03-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/requisitos/perfil-usuario/</loc>
+     <lastmod>2018-03-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc></loc>
+     <lastmod></lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
 </urlset>
