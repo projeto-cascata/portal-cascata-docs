@@ -1,103 +1,133 @@
 {
     "docs": [
         {
-            "location": "/",
-            "text": "Bem vindo!\n\n\nP\u00e1gina contendo documentos e artefatos adicionais gerados para o Portal do Projeto Cascata,\nimplementado como requisito parcial para aprova\u00e7\u00e3o na disciplina de Desenho de Software,\nministrada no curso de Engenharia de Software da Universidade de Bras\u00edlia.",
+            "location": "/", 
+            "text": "Bem vindo!\n\n\nP\u00e1gina contendo documentos e artefatos adicionais gerados para o Portal do Projeto Cascata,\nimplementado como requisito parcial para aprova\u00e7\u00e3o na disciplina de Desenho de Software,\nministrada no curso de Engenharia de Software da Universidade de Bras\u00edlia.", 
             "title": "Home"
-        },
+        }, 
         {
-            "location": "/#bem-vindo",
-            "text": "P\u00e1gina contendo documentos e artefatos adicionais gerados para o Portal do Projeto Cascata,\nimplementado como requisito parcial para aprova\u00e7\u00e3o na disciplina de Desenho de Software,\nministrada no curso de Engenharia de Software da Universidade de Bras\u00edlia.",
+            "location": "/#bem-vindo", 
+            "text": "P\u00e1gina contendo documentos e artefatos adicionais gerados para o Portal do Projeto Cascata,\nimplementado como requisito parcial para aprova\u00e7\u00e3o na disciplina de Desenho de Software,\nministrada no curso de Engenharia de Software da Universidade de Bras\u00edlia.", 
             "title": "Bem vindo!"
-        },
+        }, 
         {
-            "location": "/requisitos/requisitos/",
-            "text": "Engenharia de Requisitos",
+            "location": "/justificativa/", 
+            "text": "p { text-align: justify; text-indent: 30px; } \n\n\n\nJustificativa Metodol\u00f3gica\n\n\n\n\n\u201cMetodologia de desenvolvimento \u00e9 um conjunto de pr\u00e1ticas recomendadas para o desenvolvimento de softwares, sendo que essas pr\u00e1ticas, geralmente, passam por fases ou passos, que s\u00e3o subdivis\u00f5es do processo para orden\u00e1-lo e melhor gerenci\u00e1-lo\u201d. (Sommerville, 2000).\n\n\n\n\nA etapa de defini\u00e7\u00e3o de uma abordagem \u00e9 de suma import\u00e2ncia para qualquer empresa, afinal, esta depende de aspectos fundamentais, tais como:  qual o perfil do cliente, como ser\u00e3o feitas as tomadas de decis\u00e3o, como ser\u00e3o realizados projetos, separa\u00e7\u00e3o de setores, como ser\u00e1 feita a organiza\u00e7\u00e3o dos funcion\u00e1rios e at\u00e9 mesmo como ser\u00e1 o processo de trabalho de tais.\n\n\nNo n\u00edvel de projeto a escolha de uma metodologia possui tamb\u00e9m um grande impacto, podendo definir os pap\u00e9is (Scrum Master, Product Owner, L\u00edder de time e etc.), os artefatos que ser\u00e3o produzidos e como ser\u00e1 a intera\u00e7\u00e3o com o cliente, e at\u00e9 entre os pr\u00f3prios membros. Abaixo ser\u00e3o abordadas duas diferentes metodologias e seus frameworks:\n\n\nMetodologias Tradicionais:\n\n\nO foco principal das metodologias tradicionais \u00e9 a previsibilidade dos requisitos do sistema, que traz a grande vantagem de tornar os projetos completamente planejados, facilitando a ger\u00eancia do mesmo, mantendo sempre uma linha, caracterizando o processo como bastante rigoroso. \n[5]\n\n\nDeste tipo de metodologia, o framework mais utilizado hoje em dia \u00e9 o RUP \n[5]\n. Esta metodologia \u00e9 dividida em quatro fases: Concep\u00e7\u00e3o, Elabora\u00e7\u00e3o, Constru\u00e7\u00e3o e Transi\u00e7\u00e3o. Cada uma  delas com focos espec\u00edficos, abrangendo todo o ciclo de vida de um software.\n\n\nO RUP \u00e9 um processo iterativo, ou seja, atividades similares podem ocorrer em diferentes ciclos de desenvolvimento, ainda mais se tratando de altera\u00e7\u00f5es no projeto.\n\n\nUm ponto marcante do RUP s\u00e3o os seus artefatos, que s\u00e3o produtos feitos e usados durante e depois do desenvolvimento do projeto. Estes s\u00e3o geralmente documentos, diagramas e modelagens.\n\n\nMetodologias \u00c1geis:\n\n\nMetodologias \u00e1geis s\u00e3o caracterizadas pelo fato de serem muito adaptativas e focadas em pessoas. Parte do princ\u00edpio que o cliente deve estar junto ao processo de desenvolvimento e assim aprender mais sobre suas necessidades conforme o andamento do projeto, reavaliando suas necessidades e prioridades.\n\n\nH\u00e1 muitos frameworks classificados como \u00e1geis, que possuem princ\u00edpios e prop\u00f3sitos ligeiramente diferentes, tais como o Extreme Programming (XP), que \u00e9 focado na produ\u00e7\u00e3o de c\u00f3digo com maior qualidade e no menor tempo poss\u00edvel, e o Scrum, que parte do fundamento de que um bom projeto deve ser focado nas pessoas envolvidas nele (seus integrantes e o cliente) e na visibilidade e transpar\u00eancia de informa\u00e7\u00f5es. Um framework mais atual \u00e9 o SAFe, que utiliza do Scrum e possui grande escalabilidade.\n\n\nO SAFe \u00e9 uma metodologia \u00e1gil que foi criada focando em grandes projetos, que tem como objetivo gerenciar v\u00e1rios times, que trabalham para entregar uma parte do produto (PSI). Estes \u00e9 separado em tr\u00eas partes:    \n\n\n\n\nPortf\u00f3lio:\n Setor que organiza a empresa e de forma que o trabalho seja focado em um objetivo, definindo quais ser\u00e3o as pr\u00f3ximas tarefas a serem executadas e medidas que ser\u00e3o tomadas. Tamb\u00e9m \u00e9 respons\u00e1vel pela aloca\u00e7\u00e3o de recursos e garantia de retorno dos projetos.\n\n\nPrograma:\n \u00c9 onde os times de desenvolvedores e outros recursos (como DevpOps) s\u00e3o direcionados para os objetivos definidos no portf\u00f3lio. Esta fase \u00e9 organizada de acordo com o Trem de Entregas \u00c1geis (ART), um modelo de trabalho que define datas, elimina empecilhos e auxilia na transpar\u00eancia, fazendo com que o processo de trabalho seja o mais r\u00e1pido poss\u00edvel.\n\n\nTime:\n \u00c9 composto por desenvolvedores (geralmente de 4 a 7) e um Scrum Master, o qual \u00e9 respons\u00e1vel por fazer que o time realize seu trabalho sem problemas. H\u00e1 tamb\u00e9m a presen\u00e7a de um \u00fanico Product Owner que orienta a produ\u00e7\u00e3o dos times, para que eles supram as necessidades dos seus clientes (este papel pode ser desempenhado pelo pr\u00f3prio cliente). O time, al\u00e9m do produto, possui artefatos definidos que devem ser entregues (como sprint backlog, sprint planing, entre outros) e eventos (stand-up meetings, sprints e etc).\n\n\n\n\n\nAn\u00e1lise Comparativa: Tradicional X \u00c1gil\n\n\nA utiliza\u00e7\u00e3o de abordagens, como j\u00e1 falado, \u00e9 uma quest\u00e3o situacional da equipe, empresa projeto e outros fatores. Os principais aspectos que devem ser levados em considera\u00e7\u00e3o s\u00e3o:\n\n\n\n\n\n\n\n\nAspecto\n\n\nMetodologias \u00c1geis\n\n\nMetodologias Tradicionais\n\n\n\n\n\n\n\n\n\n\nAmbiente de Mercado\n\n\nPrefer\u00eancias do usu\u00e1rio e op\u00e7\u00f5es de solu\u00e7\u00f5es mudam frequentemente.\n\n\nCondi\u00e7\u00f5es do mercado s\u00e3o est\u00e1veis e previs\u00edveis.\n\n\n\n\n\n\nEnvolvimento do Usu\u00e1rio e Cliente\n\n\nColabora\u00e7\u00e3o estreita e r\u00e1pido feedback s\u00e3o poss\u00edveis. Usu\u00e1rios conseguem visualizar melhor o que querem de acordo com o progresso do projeto.\n\n\nRequisitos s\u00e3o claros desde o in\u00edcio e se mant\u00e9m est\u00e1veis. Clientes n\u00e3o est\u00e3o dispon\u00edveis para colaborar constantemente.\n\n\n\n\n\n\nNecessidade de Inova\u00e7\u00e3o e Conhecimento da Equipe\n\n\nProblemas s\u00e3o complexos e solu\u00e7\u00f5es desconhecidas pela equipe. Especifica\u00e7\u00f5es do produto podem mudar. Colabora\u00e7\u00e3o multifuncional \u00e9 vital.\n\n\nTrabalho similar j\u00e1 foi feito antes, tendo solu\u00e7\u00e3o clara. Especifica\u00e7\u00f5es detalhadas e planos de trabalho s\u00e3o confi\u00e1veis para serem seguidos.\n\n\n\n\n\n\nModulariza\u00e7\u00e3o do Trabalho\n\n\nDesenvolvimento incremental \u00e9 valorizado e podem ser usados pelo usu\u00e1rio. Mudan\u00e7as tardias s\u00e3o gerenci\u00e1veis.\n\n\nClientes n\u00e3o podem come\u00e7ar a testar partes do produto antes de finalizado. Mudan\u00e7as tardias s\u00e3o caras ou imposs\u00edveis.\n\n\n\n\n\n\nImpacto de erros provis\u00f3rios\n\n\nProporcionam aprendizado para a equipe.\n\n\nPodem ser catastr\u00f3ficas.\n\n\n\n\n\n\n\n\nO IBM Certified IT Specialist, Moacyr Mello, em seu texto \u201cUm Caminho Seguro para o Processo de Desenvolvimento - SAFe (Scaled Agile Framework\u00ae)\u201d \n[4]\n cita que o framework SAFe d\u00e1 \u00eanfase no gerenciamento de requisitos; e este foi, inclusive, idealizado por Dean Lenffingwell, respons\u00e1vel por uma famosa ferramenta de gest\u00e3o de requisitos nos anos 90. Os conceitos de hist\u00f3rias de usu\u00e1rio e \u00e9picos presentes nesse framework  ampliam a forma de capturar requisitos, melhor adequados \u00e0 \u00eanfase em colabora\u00e7\u00e3o, flexibilidade e itera\u00e7\u00f5es de projeto mais curtas.\n\n\n\u00c9 importante adaptar corretamente o processo de desenvolvimento para as necessidades reais do projeto. A quantidade de cerim\u00f4nias, precis\u00e3o e controle devem ser detalhadas de acordo com uma variedade de fatores, incluindo tamanho e distribui\u00e7\u00e3o da equipe, quantidade de restri\u00e7\u00f5es impostas e a fase no qual o projeto se encontra. \n[2]\n\n\n\n\nRefer\u00eancias:\n\n\n\n\nRigby, Darrel K. et al. Embracing Agile. Dispon\u00edvel em: \nhttps://hbr.org/2016/05/embracing-agile\n . Acesso em: 17 de mar\u00e7o de 2018.\n\n\nCorr\u00eaa, George Marsicano. Processo Tradicional. \n\n\nSchiel, Ulchir. Rational Unified Process. Dispon\u00edvel em:  \nhttp://www.wthreex.com/rup/\n Acesso em: 17 de mar\u00e7o de 2018. \n\n\nMello, Moacyr. Um Caminho Seguro para o Processo de Desenvolvimento -SAFe(ScaledAgileFramework\u00ae).Dispin\u00edvel em: \nhttps://www.ibm.com/developerworks/community/blogs/rationalbrasil/entry/um_caminho_seguro_para_o_processo_de_desenvolvimento_safe_scaled_agile_framework?lang=en\n. Acesso em 23 de mar\u00e7o de 2017.\n Acessado em: 17 de mar\u00e7o de 2018.\n\n\nSantos, Domingos de A. Desenvolvimento de Software: Processos \u00c1geis ou Tradicionais? Uma vis\u00e3o cr\u00edtica. Dispon\u00edvel em: \nhttp://www.enacomp.com.br/2010/cd/artigos/completos/enacomp2010_4.pdf\n. Acessado em: 17 de mar\u00e7o de 2018.", 
+            "title": "Justificativa Metodol\u00f3gica"
+        }, 
+        {
+            "location": "/justificativa/#justificativa-metodologica", 
+            "text": "\u201cMetodologia de desenvolvimento \u00e9 um conjunto de pr\u00e1ticas recomendadas para o desenvolvimento de softwares, sendo que essas pr\u00e1ticas, geralmente, passam por fases ou passos, que s\u00e3o subdivis\u00f5es do processo para orden\u00e1-lo e melhor gerenci\u00e1-lo\u201d. (Sommerville, 2000).   A etapa de defini\u00e7\u00e3o de uma abordagem \u00e9 de suma import\u00e2ncia para qualquer empresa, afinal, esta depende de aspectos fundamentais, tais como:  qual o perfil do cliente, como ser\u00e3o feitas as tomadas de decis\u00e3o, como ser\u00e3o realizados projetos, separa\u00e7\u00e3o de setores, como ser\u00e1 feita a organiza\u00e7\u00e3o dos funcion\u00e1rios e at\u00e9 mesmo como ser\u00e1 o processo de trabalho de tais.  No n\u00edvel de projeto a escolha de uma metodologia possui tamb\u00e9m um grande impacto, podendo definir os pap\u00e9is (Scrum Master, Product Owner, L\u00edder de time e etc.), os artefatos que ser\u00e3o produzidos e como ser\u00e1 a intera\u00e7\u00e3o com o cliente, e at\u00e9 entre os pr\u00f3prios membros. Abaixo ser\u00e3o abordadas duas diferentes metodologias e seus frameworks:", 
+            "title": "Justificativa Metodol\u00f3gica"
+        }, 
+        {
+            "location": "/justificativa/#metodologias-tradicionais", 
+            "text": "O foco principal das metodologias tradicionais \u00e9 a previsibilidade dos requisitos do sistema, que traz a grande vantagem de tornar os projetos completamente planejados, facilitando a ger\u00eancia do mesmo, mantendo sempre uma linha, caracterizando o processo como bastante rigoroso.  [5]  Deste tipo de metodologia, o framework mais utilizado hoje em dia \u00e9 o RUP  [5] . Esta metodologia \u00e9 dividida em quatro fases: Concep\u00e7\u00e3o, Elabora\u00e7\u00e3o, Constru\u00e7\u00e3o e Transi\u00e7\u00e3o. Cada uma  delas com focos espec\u00edficos, abrangendo todo o ciclo de vida de um software.  O RUP \u00e9 um processo iterativo, ou seja, atividades similares podem ocorrer em diferentes ciclos de desenvolvimento, ainda mais se tratando de altera\u00e7\u00f5es no projeto.  Um ponto marcante do RUP s\u00e3o os seus artefatos, que s\u00e3o produtos feitos e usados durante e depois do desenvolvimento do projeto. Estes s\u00e3o geralmente documentos, diagramas e modelagens.", 
+            "title": "Metodologias Tradicionais:"
+        }, 
+        {
+            "location": "/justificativa/#metodologias-ageis", 
+            "text": "Metodologias \u00e1geis s\u00e3o caracterizadas pelo fato de serem muito adaptativas e focadas em pessoas. Parte do princ\u00edpio que o cliente deve estar junto ao processo de desenvolvimento e assim aprender mais sobre suas necessidades conforme o andamento do projeto, reavaliando suas necessidades e prioridades.  H\u00e1 muitos frameworks classificados como \u00e1geis, que possuem princ\u00edpios e prop\u00f3sitos ligeiramente diferentes, tais como o Extreme Programming (XP), que \u00e9 focado na produ\u00e7\u00e3o de c\u00f3digo com maior qualidade e no menor tempo poss\u00edvel, e o Scrum, que parte do fundamento de que um bom projeto deve ser focado nas pessoas envolvidas nele (seus integrantes e o cliente) e na visibilidade e transpar\u00eancia de informa\u00e7\u00f5es. Um framework mais atual \u00e9 o SAFe, que utiliza do Scrum e possui grande escalabilidade.  O SAFe \u00e9 uma metodologia \u00e1gil que foi criada focando em grandes projetos, que tem como objetivo gerenciar v\u00e1rios times, que trabalham para entregar uma parte do produto (PSI). Estes \u00e9 separado em tr\u00eas partes:       Portf\u00f3lio:  Setor que organiza a empresa e de forma que o trabalho seja focado em um objetivo, definindo quais ser\u00e3o as pr\u00f3ximas tarefas a serem executadas e medidas que ser\u00e3o tomadas. Tamb\u00e9m \u00e9 respons\u00e1vel pela aloca\u00e7\u00e3o de recursos e garantia de retorno dos projetos.  Programa:  \u00c9 onde os times de desenvolvedores e outros recursos (como DevpOps) s\u00e3o direcionados para os objetivos definidos no portf\u00f3lio. Esta fase \u00e9 organizada de acordo com o Trem de Entregas \u00c1geis (ART), um modelo de trabalho que define datas, elimina empecilhos e auxilia na transpar\u00eancia, fazendo com que o processo de trabalho seja o mais r\u00e1pido poss\u00edvel.  Time:  \u00c9 composto por desenvolvedores (geralmente de 4 a 7) e um Scrum Master, o qual \u00e9 respons\u00e1vel por fazer que o time realize seu trabalho sem problemas. H\u00e1 tamb\u00e9m a presen\u00e7a de um \u00fanico Product Owner que orienta a produ\u00e7\u00e3o dos times, para que eles supram as necessidades dos seus clientes (este papel pode ser desempenhado pelo pr\u00f3prio cliente). O time, al\u00e9m do produto, possui artefatos definidos que devem ser entregues (como sprint backlog, sprint planing, entre outros) e eventos (stand-up meetings, sprints e etc).", 
+            "title": "Metodologias \u00c1geis:"
+        }, 
+        {
+            "location": "/justificativa/#analise-comparativa-tradicional-x-agil", 
+            "text": "A utiliza\u00e7\u00e3o de abordagens, como j\u00e1 falado, \u00e9 uma quest\u00e3o situacional da equipe, empresa projeto e outros fatores. Os principais aspectos que devem ser levados em considera\u00e7\u00e3o s\u00e3o:     Aspecto  Metodologias \u00c1geis  Metodologias Tradicionais      Ambiente de Mercado  Prefer\u00eancias do usu\u00e1rio e op\u00e7\u00f5es de solu\u00e7\u00f5es mudam frequentemente.  Condi\u00e7\u00f5es do mercado s\u00e3o est\u00e1veis e previs\u00edveis.    Envolvimento do Usu\u00e1rio e Cliente  Colabora\u00e7\u00e3o estreita e r\u00e1pido feedback s\u00e3o poss\u00edveis. Usu\u00e1rios conseguem visualizar melhor o que querem de acordo com o progresso do projeto.  Requisitos s\u00e3o claros desde o in\u00edcio e se mant\u00e9m est\u00e1veis. Clientes n\u00e3o est\u00e3o dispon\u00edveis para colaborar constantemente.    Necessidade de Inova\u00e7\u00e3o e Conhecimento da Equipe  Problemas s\u00e3o complexos e solu\u00e7\u00f5es desconhecidas pela equipe. Especifica\u00e7\u00f5es do produto podem mudar. Colabora\u00e7\u00e3o multifuncional \u00e9 vital.  Trabalho similar j\u00e1 foi feito antes, tendo solu\u00e7\u00e3o clara. Especifica\u00e7\u00f5es detalhadas e planos de trabalho s\u00e3o confi\u00e1veis para serem seguidos.    Modulariza\u00e7\u00e3o do Trabalho  Desenvolvimento incremental \u00e9 valorizado e podem ser usados pelo usu\u00e1rio. Mudan\u00e7as tardias s\u00e3o gerenci\u00e1veis.  Clientes n\u00e3o podem come\u00e7ar a testar partes do produto antes de finalizado. Mudan\u00e7as tardias s\u00e3o caras ou imposs\u00edveis.    Impacto de erros provis\u00f3rios  Proporcionam aprendizado para a equipe.  Podem ser catastr\u00f3ficas.     O IBM Certified IT Specialist, Moacyr Mello, em seu texto \u201cUm Caminho Seguro para o Processo de Desenvolvimento - SAFe (Scaled Agile Framework\u00ae)\u201d  [4]  cita que o framework SAFe d\u00e1 \u00eanfase no gerenciamento de requisitos; e este foi, inclusive, idealizado por Dean Lenffingwell, respons\u00e1vel por uma famosa ferramenta de gest\u00e3o de requisitos nos anos 90. Os conceitos de hist\u00f3rias de usu\u00e1rio e \u00e9picos presentes nesse framework  ampliam a forma de capturar requisitos, melhor adequados \u00e0 \u00eanfase em colabora\u00e7\u00e3o, flexibilidade e itera\u00e7\u00f5es de projeto mais curtas.  \u00c9 importante adaptar corretamente o processo de desenvolvimento para as necessidades reais do projeto. A quantidade de cerim\u00f4nias, precis\u00e3o e controle devem ser detalhadas de acordo com uma variedade de fatores, incluindo tamanho e distribui\u00e7\u00e3o da equipe, quantidade de restri\u00e7\u00f5es impostas e a fase no qual o projeto se encontra.  [2]", 
+            "title": "An\u00e1lise Comparativa: Tradicional X \u00c1gil"
+        }, 
+        {
+            "location": "/justificativa/#referencias", 
+            "text": "Rigby, Darrel K. et al. Embracing Agile. Dispon\u00edvel em:  https://hbr.org/2016/05/embracing-agile  . Acesso em: 17 de mar\u00e7o de 2018.  Corr\u00eaa, George Marsicano. Processo Tradicional.   Schiel, Ulchir. Rational Unified Process. Dispon\u00edvel em:   http://www.wthreex.com/rup/  Acesso em: 17 de mar\u00e7o de 2018.   Mello, Moacyr. Um Caminho Seguro para o Processo de Desenvolvimento -SAFe(ScaledAgileFramework\u00ae).Dispin\u00edvel em:  https://www.ibm.com/developerworks/community/blogs/rationalbrasil/entry/um_caminho_seguro_para_o_processo_de_desenvolvimento_safe_scaled_agile_framework?lang=en . Acesso em 23 de mar\u00e7o de 2017.  Acessado em: 17 de mar\u00e7o de 2018.  Santos, Domingos de A. Desenvolvimento de Software: Processos \u00c1geis ou Tradicionais? Uma vis\u00e3o cr\u00edtica. Dispon\u00edvel em:  http://www.enacomp.com.br/2010/cd/artigos/completos/enacomp2010_4.pdf . Acessado em: 17 de mar\u00e7o de 2018.", 
+            "title": "Refer\u00eancias:"
+        }, 
+        {
+            "location": "/requisitos/requisitos/", 
+            "text": "Engenharia de Requisitos", 
             "title": "Introdu\u00e7\u00e3o"
-        },
+        }, 
         {
-            "location": "/requisitos/requisitos/#engenharia-de-requisitos",
-            "text": "",
+            "location": "/requisitos/requisitos/#engenharia-de-requisitos", 
+            "text": "", 
             "title": "Engenharia de Requisitos"
-        },
+        }, 
         {
-            "location": "/requisitos/5w2h/",
-            "text": "5W2H",
+            "location": "/requisitos/5w2h/", 
+            "text": "5W2H", 
             "title": "5W2H"
-        },
+        }, 
         {
-            "location": "/requisitos/5w2h/#5w2h",
-            "text": "",
+            "location": "/requisitos/5w2h/#5w2h", 
+            "text": "", 
             "title": "5W2H"
-        },
+        }, 
         {
-            "location": "/requisitos/richpicture/",
-            "text": "Rich Picture",
+            "location": "/requisitos/richpicture/", 
+            "text": "Rich Picture", 
             "title": "Rich Picture"
-        },
+        }, 
         {
-            "location": "/requisitos/richpicture/#rich-picture",
-            "text": "",
+            "location": "/requisitos/richpicture/#rich-picture", 
+            "text": "", 
             "title": "Rich Picture"
-        },
+        }, 
         {
-            "location": "/requisitos/ishikawa/",
-            "text": "Diagrama de Ishikawa",
+            "location": "/requisitos/ishikawa/", 
+            "text": "Diagrama de Ishikawa", 
             "title": "Ishikawa"
-        },
+        }, 
         {
-            "location": "/requisitos/ishikawa/#diagrama-de-ishikawa",
-            "text": "",
+            "location": "/requisitos/ishikawa/#diagrama-de-ishikawa", 
+            "text": "", 
             "title": "Diagrama de Ishikawa"
-        },
+        }, 
         {
-            "location": "/requisitos/perfil-usuario/",
-            "text": "Perfil de Usu\u00e1rios",
+            "location": "/requisitos/perfil-usuario/", 
+            "text": "Perfil de Usu\u00e1rios", 
             "title": "Perfil de Usu\u00e1rio"
-        },
+        }, 
         {
-            "location": "/requisitos/perfil-usuario/#perfil-de-usuarios",
-            "text": "",
+            "location": "/requisitos/perfil-usuario/#perfil-de-usuarios", 
+            "text": "", 
             "title": "Perfil de Usu\u00e1rios"
-        },
+        }, 
         {
-            "location": "/requisitos/elicitacao/elicitacao/",
-            "text": "Elicita\u00e7\u00e3o de Requisitos",
+            "location": "/requisitos/elicitacao/elicitacao/", 
+            "text": "Elicita\u00e7\u00e3o de Requisitos", 
             "title": "Introdu\u00e7\u00e3o"
-        },
+        }, 
         {
-            "location": "/requisitos/elicitacao/elicitacao/#elicitacao-de-requisitos",
-            "text": "",
+            "location": "/requisitos/elicitacao/elicitacao/#elicitacao-de-requisitos", 
+            "text": "", 
             "title": "Elicita\u00e7\u00e3o de Requisitos"
-        },
+        }, 
         {
-            "location": "/requisitos/elicitacao/entrevistas/",
-            "text": "Entrevistas",
+            "location": "/requisitos/elicitacao/entrevistas/", 
+            "text": "Entrevistas", 
             "title": "Entrevistas"
-        },
+        }, 
         {
-            "location": "/requisitos/elicitacao/entrevistas/#entrevistas",
-            "text": "",
+            "location": "/requisitos/elicitacao/entrevistas/#entrevistas", 
+            "text": "", 
             "title": "Entrevistas"
-        },
+        }, 
         {
-            "location": "/requisitos/elicitacao/protocolos/",
-            "text": "An\u00e1lise de Protocolo",
+            "location": "/requisitos/elicitacao/protocolos/", 
+            "text": "An\u00e1lise de Protocolo", 
             "title": "An\u00e1lise de Protocolo"
-        },
+        }, 
         {
-            "location": "/requisitos/elicitacao/protocolos/#analise-de-protocolo",
-            "text": "",
+            "location": "/requisitos/elicitacao/protocolos/#analise-de-protocolo", 
+            "text": "", 
             "title": "An\u00e1lise de Protocolo"
-        },
+        }, 
         {
-            "location": "/requisitos/elicitacao/prototipo/",
-            "text": "Prot\u00f3tipo",
+            "location": "/requisitos/elicitacao/prototipo/", 
+            "text": "Prot\u00f3tipo", 
             "title": "Prot\u00f3tipo"
-        },
+        }, 
         {
-            "location": "/requisitos/elicitacao/prototipo/#prototipo",
-            "text": "",
+            "location": "/requisitos/elicitacao/prototipo/#prototipo", 
+            "text": "", 
             "title": "Prot\u00f3tipo"
         }
     ]
