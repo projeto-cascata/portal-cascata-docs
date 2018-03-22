@@ -6,4 +6,4 @@
 
 ## Visão do Usuário - Bernardo
 
-<p align=center><img width=300 src="https://github.com/projeto-cascata/portal-cascata-docs/blob/master/assets/richPictures/rpBernardoUsuario.png"></p>
+![Visão do usuário do sistema](../img/richPictures/rpBernardoUsuario.png)
