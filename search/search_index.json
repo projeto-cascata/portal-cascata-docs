@@ -67,7 +67,7 @@
         },
         {
             "location": "/requisitos/richpicture/",
-            "text": "Rich Picture\n\n\n-- Explica\u00e7\u00e3o do Rich Picture e sua import\u00e2ncia aqui -- \n\n\nVis\u00e3o do Usu\u00e1rio - Bernardo",
+            "text": "Rich Picture\n\n\n-- Explica\u00e7\u00e3o do Rich Picture e sua import\u00e2ncia aqui --\n\n\nVis\u00e3o do Usu\u00e1rio - Bernardo\n\n\n\n\nRich Picture com foco nas funcionalidades do sistema - Let\u00edcia",
             "title": "Rich Picture"
         },
         {
@@ -79,6 +79,11 @@
             "location": "/requisitos/richpicture/#visao-do-usuario-bernardo",
             "text": "",
             "title": "Vis\u00e3o do Usu\u00e1rio - Bernardo"
+        },
+        {
+            "location": "/requisitos/richpicture/#rich-picture-com-foco-nas-funcionalidades-do-sistema-leticia",
+            "text": "",
+            "title": "Rich Picture com foco nas funcionalidades do sistema - Let\u00edcia"
         },
         {
             "location": "/requisitos/ishikawa/",
