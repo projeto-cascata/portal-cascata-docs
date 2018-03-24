@@ -1,6 +1,6 @@
 # Entrevistas
 
-## Entrevista #1 - Luísa, Gerente de RH do Projeto
+## Entrevista #1 - Luísa, Diretora de RH do Projeto
 
 *Realizada em 23/03/2018 por Bernardo, Clarissa e Felipe e transcrita integralmente.*
 
@@ -80,7 +80,7 @@
 
 **Luísa:** É, ou alguma coisa parecida com isso.
 
-**Felipe:** E dentro desse contexto, quais funções que você exerciria dentro dessa plataforma?
+**Felipe:** E dentro desse contexto, quais funções que você exerceria dentro dessa plataforma?
 
 **Luísa:** Acho que controle de frequência, eu não sei muito bem como funcionaria.
 
@@ -96,4 +96,93 @@
 
 **Luísa:** Alguma coisa importante? Acho que não.
 
-**Clarissa:** Tudo bem então, eu vou parar por aqui. [Fim da Gravação]
+**Clarissa:** Tudo bem então, muito obrigada, Luísa. [Fim da Gravação]
+
+## Entrevista #2 - Lorena, Diretora de Pedagogia do Projeto e Professora
+*Realizada em 23/03/2018 por Bernardo, Clarissa e Felipe e transcrita integralmente.*
+
+**Clarissa:** Qual o seu nome e qual o seu cargo dentro do projeto?
+
+**Lorena:** Lorena, sou diretora de pedagogia e professora de física.
+
+**Clarissa:** O que é e quais são os objetivos do Projeto Cascata?
+
+**Lorena:** O projeto é para auxiliar na desigualdade no ensino da rede pública para a rede privada, proporcionar uma educação melhor para quem não tem condição.
+
+**Clarissa:** Quais são as principais atividades realizadas dentro do seu cargo?
+
+**Lorena:** Tudo que envolve o aluno. Desde o processo seletivo do aluno, dos termos de adesão, termos de divulgação da imagem deles, caso necessário, a parte de conduta.
+
+**Clarissa:** Quem são os membros internos do seu setor?
+
+**Lorena:** Neste momento, o Lucas e o Pedro.
+
+**Felipe:** O que eles fazem? Quais as funções de um membro interno do seu setor?
+
+**Lorena:** Até então tudo que nós fizemos foi em conjunto, nós fizemos as mesmas coisas, então não ficou tipo "você vai fazer isso, você vai fazer aquilo".
+
+**Clarissa:** Quais são as principais dificuldades encontradas no dia-a-dia nas atividades do seu setor?
+
+**Lorena:** A falta de experiência para fazer esses termos que a gente tem que procurar semelhantes, a gente não é muito bom nessa parte de direito administrativo, enfim. E também o processo seletivo de alunos, de como fazer a escolha de alunos.
+
+**Felipe:** Como é feito o processo seletivo de alunos atualmente?
+
+**Lorena:** A primeira vez que nós fizemos, bem no início, não houve seleção. Foi apenas: quem tivesse interesse em participar, podia participar, só que assim teve uma evasão muito grande. Da segunda vez nós tentamos fazer uma prova, só que não deu muito certo. Então, estávamos pensando em fazer uma entrevista e também ter um contato maior com o pai, porque antes a gente só pedia a assinatura do aluno para ele participar, agora a gente quer que os pais também participem desse processo.
+
+**Clarissa:** Como é feito o registro de frequência de alunos atualmente?
+
+**Lorena:** Chamada oral quando dava tempo, ou passando a folha para os alunos assinarem. Mas a maioria das vezes é chamada oral mesmo, e aí no final do dia a gente passava para uma planilha no *Drive*.
+
+**Clarissa:** Como são transmitidas notícias e informações para os alunos?
+
+**Lorena:** *Facebook* [risos]. Grupo do *Facebook*, na maioria das vezes.
+
+**Clarissa:** Como são organizados os materiais de cada disciplina atualmente?
+
+**Lorena:** Cada professor organiza o que vai dar. No início do semestre a gente fez uma divisão do conteúdo, se programou pro ano inteiro e aí cada um dava o seu conteúdo de acordo com o que foi planejado.
+
+**Clarissa:** Mas aí cada professor tem o conteúdo que posta em algum lugar para os alunos terem acesso, certo?
+
+**Lorena:** Isso.
+
+**Felipe:** Agora a gente tem algumas outras perguntas que estão um pouco mais relacionadas a plataforma que a gente pretende introduzir. Como você espera que a plataforma vai melhorar o funcionamento do projeto de uma forma geral?
+
+**Lorena:** Eu acho que tem que ser para simplificar. No momento a gente não tem nada muito concreto sobre como fazer as coisas e acho que ficou muito livre pra todo mundo fazer da forma que é mais conveniente para si, só que a forma como um faz às vezes não é mais conveniente para o outro. Eu acho que talvez determinando um meio só para fazer cada coisa facilita.
+
+**Felipe:** Tornar algo mais metódico?
+
+**Lorena:** Isso.
+
+**Felipe:** Como você espera que ela melhore para você, para as suas funções, especificamente?
+
+**Lorena:** Registro de faltas, presença dos alunos. É o meu maior terror, de verdade. [risos]
+
+**Felipe:** Qual a maior dificuldade que tem atualmente com o registro de faltas?
+
+**Lorena:** Deixando cada um fazendo ficava muito difícil para atualizar no final. Às vezes a gente esquece mesmo, ou então acabava acumulando assim, de repente tinha que fazer o registro do mês inteiro. Ou então quando a gente passava a folha para assinar, a gente nunca tinha controle de quem estava assinando para o amiguinho e sempre tinha muito mais gente assinado do que gente na sala, coisas do gênero. E a gente também não conseguia disponibilizar essa informação para os alunos, era difícil dar esse *feedback*.
+
+**Felipe:** E o que vocês já tentaram fazer para melhorar isso, além da chamada oral?
+
+**Lorena:** A gente começou a divulgar o percentual de faltas e falando que eles não poderiam continuar efetivamente no projeto, e com o passar do tempo foi dando certo, quem tinha menos de 75% de presença ou não tinha o termo assinado realmente não estava mais frequentando o projeto. O problema maior era a dificuldade da chamada.
+
+**Felipe:** A chamada era feita em cada aula?
+
+**Lorena:** Não. Aí entrou mais um problema. No início era, só que acabava tomando muito tempo porque a turma era muito grande, aí no final ficou só o último professor fazia. Aí acontecia de um pessoal sair mais cedo por causa do ônibus, e a gente tinha que ficar de olho porque eram muitas exceções e não estava dando certo.
+
+**Felipe:** Mas você acha que organizando outras coisas do processo seletivo, como você disse antes, o processo seletivo estava muito aberto e vocês estavam tendo muitos problemas de evasão, melhorando esse processo isso resolveria o problema?
+
+**Lorena:** Isso. Eu acho que diminui a quantidade de alunos e aumenta a quantidade de alunos interessados. A evasão fica menor, fica melhor de gerenciar isso.
+
+**Felipe:** O que você consideraria mais essencial de uma forma geral para ter em uma versão inicial do sistema?
+
+**Lorena:** Para mim, eu queria ter um lugar para lançar as presenças e, eu realmente não entendo nada de *software* nem a viabilidade das coisas, se eu puder pegar todos os termos de adesão e puder digitalizar e deixar tudo isso anexado ou se cada aluno tivesse um perfil e eu pudesse ver a situação do termo dele, as presenças. Queria poder publicar avisos, notícias, essas coisas.
+
+**Felipe:** Só mais uma coisa, você acha que os alunos deveriam conseguir acessar a própria presença e o que mais eles poderiam fazer no site?
+
+**Lorena:** Acho que seria legal também se eles pudessem justificar faltas de maneira formalizada. Também tem alguns alunos que pedem declarações de participação do projeto, se tivesse algum lugar para fazer isso automaticamente seria legal.
+
+**Felipe:** Entendi. É isso então, muito obrigado pela ajuda.
+
+**Lorena:** Imagina, qualquer dúvida pode me procurar.
+
+**Clarissa:** Obrigada, Lorena. [Fim da gravação]
