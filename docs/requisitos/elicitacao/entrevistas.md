@@ -1,4 +1,6 @@
 # Entrevistas
+<p align = justify>
+Com o intuito de esclarecer e pontuar expectativas dos membros do projeto em relação ao sistema a ser desenvolvido, o time realizou entrevistas com as partes interessadas que detinham de mais experiência do projeto, buscando conhecer diferentes pontos de vista. As entrevistas foram mistas, de forma que houvesse perguntas pré-estabelecidas de acordo com a função de cada entrevistado, mas também houvesse a oportunidade de explorar os assuntos abordados de acordo com dúvidas que surgiam ao longo das respostas obtidas. As perguntas foram preparadas pensando em incluir informações que partiam desde o entendimento do que é o projeto e o seu contexto, seus problemas e dificuldades até como os entrevistados acreditam que a plataforma pode ajudá-los a melhorar o funcionamento da iniciativa.
 
 ## Entrevista #1 - Luísa, Diretora de RH do Projeto
 
@@ -186,3 +188,4 @@
 **Lorena:** Imagina, qualquer dúvida pode me procurar.
 
 **Clarissa:** Obrigada, Lorena. [Fim da gravação]
+</p>
