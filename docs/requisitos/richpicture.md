@@ -11,3 +11,7 @@
 ## Rich Picture com foco nas funcionalidades do sistema - Letícia
 
 ![Foco nas funcionalidades](../img/richPictures/rpLeticiaFuncionalidades.png)
+
+## Contexto Externo - Felipe
+
+![Contexto Externo](../img/richPictures/rpFelipeContextoExterno.png)
