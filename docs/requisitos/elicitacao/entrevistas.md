@@ -1,3 +1,4 @@
+<style> p { text-align: justify; text-indent: 30px; } </style>
 # Entrevistas
 
 ## Entrevista #1 - Luísa, Diretora de RH do Projeto
