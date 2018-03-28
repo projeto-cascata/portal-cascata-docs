@@ -188,3 +188,59 @@
 **Lorena:** Imagina, qualquer dúvida pode me procurar.
 
 **Clarissa:** Obrigada, Lorena. [Fim da gravação]
+
+## Entrevista #3 - Jessica, Diretora Administrativa
+
+*Realizada em 24/03/2018 por Clarissa e Felipe e transcrita integralmente.*
+
+**Clarissa:** Qual seu nome e qual seu cargo dentro do Projeto Cascata?
+
+**Jessica:** Meu nome é Jessica, e atualmente eu sou Diretora Administrativa do Projeto Cascata.
+
+**Clarissa:** Quais as principais atividades realizadas dentro do seu cargo?
+
+**Jessica:** A Diretoria Administrativa fica responsável pelos gastos financeiros, realização de atas, de documentos, fiscalização do projeto de forma geral, ver se estão todos de acordo e se tem conhecimento do Estatuto. Também a parte de legalização do Projeto diante dos setores externos como UnB ou qualquer outro vínculo de patrocínio externo. Documentação, então, qualquer documentação de membros, entrega de certificados, tudo isso é responsabilidade da Diretoria Administrativa. Todo e qualquer relatório das atividades do projeto, das reuniões, é responsabilidade da Diretoria Administrativa-Financeira.
+
+**Clarissa:** Quem são os membros internos do seu setor?
+
+**Jessica:** Os membros internos do meu setor me auxiliam nas atas, na documentação, caso seja necessário alguma assinatura de professor, ou entregar alguma documentação. Também na parte de elaboração de documentos mais simples, e atividades que exigem menor rigor. Eles me auxiliaram na criação do Estatuto, e desempenham as atividades que não necessitam de um grau de conhecimento muito alto.
+
+**Clarissa:** Quais as principais dificuldades encontradas no dia-a-dia das atividades realizadas no seu setor?
+
+**Jessica:** A transparência para os outros setores. Como a gente fica responsável por essa parte da legalização do projeto, em relação aos outros órgãos, então os outros membros não tem noção de a que pé estão essas coisas. Por exemplo, eu tive que insistir para que todos tivessem conhecimento do estatuto, essas coisas deveriam ser implícitas. Algums membros estavam perdidos sobre a questão de projeto de extensão, então eu tinha que fazer um papel bem manual mesmo de ter que falar com um por um de coisas que seriam simples, que eu acredito que poderiam ser melhoradas nessa parte de comunicação com os outros.
+
+**Clarissa:** Agora sobre o projeto em si. Na sua visão, o que é e quais os objetivos do Projeto Cascata?
+
+**Jessica:** O Projeto Cascata é uma iniciativa voluntária de alunos do ensino superior que fornecem meios e ajuda para os alunos do ensino médio, alunos de baixa renda que necessitam de apoio educacional, para eles conseguirem ter acesso ao ensino superior gratuito e de qualidade. Na minha visão os objetivos do Projeto Cascata são esses. Como eu participei da criação dele, essa foi a premissa do Projeto Cascata, era uma iniciativa totalmente voluntária para fornecer aulas de reforço e aulas preparatórias para os exames de acesso ao ensino superior.
+
+**Clarissa:** Quais as diferentes funções exercidas pelos membros do Projeto?
+
+**Jessica:** O Projeto atualmente é dividido em atividades internas e externas. A gente tem a Diretoria Administrativa-Financeira, Diretoria de RH, Diretoria de Marketing, Diretoria de Conteúdo e de Pedagogia. E a Presidência. Eu já falei da Administrativa-Financeira. o RH cuida da parte de processo seletivo e o controle efetividade dos membros, se eles estão participando e sendo frequentes às atividades do projeto. Isso também inclui os professores, então o RH também cuida dessa presença dos professores em sala. Acaba que os professores tem uma carga maior de envolvimento com o projeto, porque eles ficam tanto na parte externa quanto interna. O marketing é encarregado da publicação das atividades do projeto, então ele cuida da atividade visual, identidade visual do projeto. Então os cartazes, imagens, divulgação dos processos seletivos isso é atividade do Marketing. A Pedagogia controla basicamente os alunos, então ela é responsável pelo controle de alunos, quantidade de alunos, processo seletivo dos alunos. A Presidência fica encarregada de manter a sinergia dos membros e das diretorias. A Diretoria de Conteúdo fica responsável pela elaboração de provas, elaboração do cronograma de aulas. Os professores elaboram o que vão dar em sala, mas a ementa das matérias é responsabilidade da Diretoria de Conteúdo. Impressão de material também, as provas, apostilas, o material de apoio, a criação do material de apoio, isso é o pessoal do Conteúdo que é responsável. 
+
+**Felipe:** Agora nós vamos fazer algumas perguntas sobre a plataforma e as suas expectativas sobre ela. Pra começar, como você espera que a plataforma melhore o funcionamento do projeto?
+
+**Jessica:** O que eu espero da plataforma? Que melhore a comunicação entre os membros, no quesito de transparência, eu acho que isso é fundamental. Eu acho que a presença é um fator fundamental, tanto interna quanto externamente. Isso vai ser extremamente importante para os membros terem essa noção da presença deles, de membros e alunos. Outra coisa também, como a palavra chave é transparência, que os alunos tenham uma plataforma exclusiva do Projeto para terem acesso a conteúdo, ao desempenho deles, para melhorar a parte de comunicação entre os membros, tanto interno quanto externo.
+
+**Felipe:** E como você espera que ela seja capaz de melhorar o seu trabalho no projeto, especificamente?
+
+**Jessica:** Acredito que seria fundamental na plataforma essa parte de notícias. Eu gostaria muito que tivesse um meio de atualização de notícias. Vou falar de modo geral como eu imagino a plataforma. Você entra com um login, e esse login vai dizer se você é aluno ou membro interno, então já faz uma filtragem. Com esse filtro você já realiza uma separação de informação. Por exemplo, não é de interesse do aluno saber, digamos, sobre informações de reunião. Então quando você faz esse login, você entra, o aluno vai receber notícias que cabem a ele, como aluno. E os outros membros receberão essas notícias como cabem a eles. Isso eu acredito que seja fundamental. E de modo geral, seria nesse quesito mesmo de poder filtrar as informações, as notícias. Por exemplo, o aluno já teria a disponibilidade de baixar os arquivos, baixar as provas, ver sua quantidade de faltas. Outra coisa que imaginei que não estaria fora de escopo seria um "faltômetro". Conforme os professores forem atualizando essas chamadas dos alunos iria aparecer lá quantas faltas ele já tem, e faria o cálculo do quanto ele ainda pode ter de faltas. Como um sistema de sinais, verde, amarelo e vermelho. Você não pode faltar mais, então sinal vermelho. Você ainda tem direito a duas faltas, sinal amarelo, por exemplo. E você não faltou nada, verde. E isso também voltado pros membros. Por exemplo, você está há tantos dias fora das suas atividades. E aí quem poderia fazer essa manutenação seriam os diretores, porque os diretores que ficam responsáveis por essas chamadas. E o RH ficaria responsável pela chamada de um modo geral, por atualizar essas informações. Eu acredito que de um modo geral seria isso, para não ficar uma plataforma com muitas peculiaridades.
+
+**Felipe:** Quais funções você deverá ter dentro da plataforma?
+
+**Jessica:** Como eu sou uma das pessoas com mais responsabilidades dentro do projeto, que tenta manter a equipe unida e informada sobre tudo, eu acredito que grande parte da manutenção do site vá ficar comigo e com o pessoal do Marketing. Justamente atualizando essas informações dos membros internos, informações no geral, eu acredito que isso vá acabar caindo nas mãos e na responsabilidade do pessoal do Administrativo. Na verdade eu até prefiro que seja assim, que esteja na mão do Administrativo para poder manusear e com o RH para ter essas outras finalidades, de penalidade mesmo.
+
+**Clarissa:** Então haveria um administrador do site que, nesse caso, seria você?
+
+**Jessica:** Eu acredito que o administrador do site seriam duas pessoas responsáveis por manusear essas informações. Eu falo agora assumindo essa responsabilidade, mas é claro que ela também poderia ser repassada para outras pessoas. Mas para não virar uma bagunça de todo mundo ter direito a mexer, deveria ser limitado. Ter uma ou duas, três pessoas no máximo para manusear essas informações. Até porque, se você deixar para mais, você tem muita inconsistência de informação, outras pessoas podem manipular essas informações, o que não é de interesse. Então sim, teria um administrador.
+
+**Clarissa:** Entendi. Então o presidente, quais funções ele teria dentro da plataforma? Seria algo no mesmo nível de um diretor?
+
+**Jessica:** O Presidente na verdade é só um nome figurativo, mas ele tem as mesmas funções, os mesmos direitos e deveres dos outros diretores. A maior responsabilidade de manutenção da plataforma deveria, deve e será do Presidente. Se ele não conseguir atualizar essas funções sozinho, caberá a ele designar função para os outros membros. Mas como eu disse, é ideal que não passe de três administradores na plataforma.
+
+**Clarissa:** Tem mais alguma coisa que você acha relevante nos dizer e que nós podemos ter deixado passar nas perguntas?
+
+**Jessica:** Não não. Acho que foi abordada a minha ideia.
+
+**Clarissa:** Ok. Muito obrigada, Jessica!
+
+**Felipe:** Obrigado, Jessica! [Fim da Gravação]
