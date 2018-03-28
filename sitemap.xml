@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2018-03-26</lastmod>
+     <lastmod>2018-03-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,7 +12,15 @@
     
     <url>
      <loc>/justificativa/</loc>
-     <lastmod>2018-03-26</lastmod>
+     <lastmod>2018-03-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/cronograma/</loc>
+     <lastmod>2018-03-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -21,31 +29,31 @@
         
     <url>
      <loc>/requisitos/requisitos/</loc>
-     <lastmod>2018-03-26</lastmod>
+     <lastmod>2018-03-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/requisitos/5w2h/</loc>
-     <lastmod>2018-03-26</lastmod>
+     <lastmod>2018-03-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/requisitos/richpicture/</loc>
-     <lastmod>2018-03-26</lastmod>
+     <lastmod>2018-03-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/requisitos/ishikawa/</loc>
-     <lastmod>2018-03-26</lastmod>
+     <lastmod>2018-03-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/requisitos/perfil-usuario/</loc>
-     <lastmod>2018-03-26</lastmod>
+     <lastmod>2018-03-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
