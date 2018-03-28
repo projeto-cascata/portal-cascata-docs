@@ -3,6 +3,7 @@ site_name: Portal Cascata - Docs
 pages:
   - Home: index.md
   - Justificativa Metodológica: justificativa.md
+  - Cronograma: cronograma.md
   - Engenharia de Requisitos:
     - Introdução: requisitos/requisitos.md
     - 5W2H: requisitos/5w2h.md
