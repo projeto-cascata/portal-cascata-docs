@@ -1,5 +1,8 @@
 # Rich Picture
 
+| Data | Versão | Descrição | Autor(es) |
+|:----:|:------:|:---------:|:---------:|
+|22/03/2018|1.0| Adição do Rich Picture de da Visão do Usuário | Bernardo Henrique |
 
 -- Explicação do Rich Picture e sua importância aqui --
 

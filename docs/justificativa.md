@@ -1,5 +1,10 @@
 <style> p { text-align: justify; text-indent: 30px; } </style>
 
+| Data | Versão | Descrição | Autor(es) |
+|:----:|:------:|:---------:|:---------:|
+|18/03/2018|1.0| Justificativa Metodológica, Metodologias Tradicionais, Metodologias Ágeis, Análise Comparativa | Bernardo Henrique |
+
+
 # **Justificativa Metodológica**
 
 > “Metodologia de desenvolvimento é um conjunto de práticas recomendadas para o desenvolvimento de softwares, sendo que essas práticas, geralmente, passam por fases ou passos, que são subdivisões do processo para ordená-lo e melhor gerenciá-lo”. (Sommerville, 2000).
