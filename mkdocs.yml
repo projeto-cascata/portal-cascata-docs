@@ -4,6 +4,7 @@ pages:
   - Home: index.md
   - Justificativa Metodológica: justificativa.md
   - Engenharia de Requisitos:
+    - Documento de Visão: requisitos/visao.md
     - Introdução: requisitos/requisitos.md
     - Rich Picture: requisitos/richpicture.md
     - 5W2H: requisitos/5w2h.md

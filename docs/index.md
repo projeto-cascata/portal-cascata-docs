@@ -6,6 +6,20 @@ Página contendo documentos e artefatos adicionais gerados para o Portal do Proj
 implementado como requisito parcial para aprovação na disciplina de Desenho de *Software*,
 ministrada no curso de Engenharia de *Software* da Universidade de Brasília.
 
+<br>
+## Grupo 05
+
+| Integrante                    | Matrícula  |
+| :---------------------------: | ---------- |
+|  Bernardo Henrique Rosa Lima  | 14/0131973 |
+|    Bruna Pinos de Oliveira    | 15/0119984 |
+|     Clarissa Lima Borges      | 15/0007973 |
+|  Daniel Lucas Assunção Teles  | 12/0114411 |
+| Felipe de Oliveira Hargreaves | 15/0009313 |
+|      Halê Valente Silva       | 13/0010014 |
+|    Letícia de Souza Santos    | 15/0015160 |
+|     Mariana Nunes Pícolo      | 15/0017502 | -->
+
 
 ![Projeto Cascata](../img/LogoVertical_Fbranca.png)  
 
