@@ -8,11 +8,11 @@
 # Análise de Protocolo
 
 
-> "Um dos métodos mais usados e simples para recolher dados de maneira exepcional é entrevistando os próprios especialistas" K. Anderson Ericsson, 2016.
+> "Um dos métodos mais usados e simples para recolher dados de maneira excepcional é entrevistando os próprios especialistas" K. Anderson Ericsson, 2016.
 
-O uso da instrospecção, técnica se baseia em imaginar que tipo de sistema seria ideal para executar certa tarefa, foi e ainda é muito utilizado para e elicitação de requisitos. Porém, ao invés de tentar imaginar como seria estre processo, uma opção é a analise de protocolo. Neste método, os entrevistados devem "pensar em voz alta" como é o processo que ele executa para exercer certa tarefa, sendo assim, o entrevistador saberá realmente como como acontece o fluxo de ações do sistema, sem juízo de valor.
+O uso da instrospecção, técnica baseada em imaginar que tipo de sistema seria ideal para executar certa tarefa, foi e ainda é muito utilizado para e elicitação de requisitos. Porém, ao invés de tentar imaginar como seria estre processo, uma opção é a analise de protocolo. Neste método, os entrevistados devem "pensar em voz alta" como é o processo que ele executa para exercer certa tarefa, sendo assim, o entrevistador saberá realmente como como acontece o fluxo de ações do sistema, sem juízo de valor.
 
-Abaixo podemos ver alguns processos do projeto cascata. Os  quatro primeiros são a adesão de novos membros (professores voluntários), controle de frequência dos professores, marcar reuniões e dar noticias aos membros, que foi descrito pela Diretora de RH, e os ultimos, descrito pela Diretora da Pedagogia.
+Abaixo podemos ver alguns processos do Projeto Cascata. Os  quatro primeiros são a adesão de novos membros (professores voluntários), controle de frequência dos professores, marcar reuniões e dar noticias aos membros, que foi descrito pela Diretora de RH, e os últimos, descritos pela Diretora da Pedagogia.
 
 ### **Adesão de Novos Membros**
     1. Acesso Google Drive.
