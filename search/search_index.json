@@ -87,7 +87,7 @@
         },
         {
             "location": "/requisitos/richpicture/",
-            "text": "Rich Picture\n\n\n\n\n\n\n\n\nData\n\n\nVers\u00e3o\n\n\nDescri\u00e7\u00e3o\n\n\nAutor(es)\n\n\n\n\n\n\n\n\n\n\n22/03/2018\n\n\n1.0\n\n\nAdi\u00e7\u00e3o do Rich Picture de da Vis\u00e3o do Usu\u00e1rio\n\n\nBernardo Henrique\n\n\n\n\n\n\n\n\n-- Explica\u00e7\u00e3o do Rich Picture e sua import\u00e2ncia aqui --\n\n\nVis\u00e3o do Usu\u00e1rio - Bernardo\n\n\n\n\nRich Picture com foco nas funcionalidades do sistema - Let\u00edcia",
+            "text": "Rich Picture\n\n\n\n\n\n\n\n\nData\n\n\nVers\u00e3o\n\n\nDescri\u00e7\u00e3o\n\n\nAutor(es)\n\n\n\n\n\n\n\n\n\n\n22/03/2018\n\n\n1.0\n\n\nAdi\u00e7\u00e3o do Rich Picture de da Vis\u00e3o do Usu\u00e1rio\n\n\nBernardo Henrique\n\n\n\n\n\n\n\n\n-- Explica\u00e7\u00e3o do Rich Picture e sua import\u00e2ncia aqui --\n\n\nVis\u00e3o do Usu\u00e1rio - Bernardo\n\n\n\n\nRich Picture com foco nas funcionalidades do sistema - Let\u00edcia\n\n\n\n\nContexto Externo - Felipe",
             "title": "Rich Picture"
         },
         {
@@ -104,6 +104,11 @@
             "location": "/requisitos/richpicture/#rich-picture-com-foco-nas-funcionalidades-do-sistema-leticia",
             "text": "",
             "title": "Rich Picture com foco nas funcionalidades do sistema - Let\u00edcia"
+        },
+        {
+            "location": "/requisitos/richpicture/#contexto-externo-felipe",
+            "text": "",
+            "title": "Contexto Externo - Felipe"
         },
         {
             "location": "/requisitos/ishikawa/",
