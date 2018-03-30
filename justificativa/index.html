@@ -70,7 +70,7 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="drawer"></label>
     
-      <a href="#justificativa-metodologica" tabindex="1" class="md-skip">
+      <a href="#introducao-a-problematica" tabindex="1" class="md-skip">
         Skip to content
       </a>
     
@@ -187,59 +187,9 @@
       
     
     
-      <label class="md-nav__link md-nav__link--active" for="toc">
-        Justificativa Metodológica
-      </label>
-    
     <a href="./" title="Justificativa Metodológica" class="md-nav__link md-nav__link--active">
       Justificativa Metodológica
     </a>
-    
-      
-<nav class="md-nav md-nav--secondary">
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="toc">Table of contents</label>
-    <ul class="md-nav__list" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#metodologias-tradicionais" title="Metodologias Tradicionais:" class="md-nav__link">
-    Metodologias Tradicionais:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#metodologias-ageis" title="Metodologias Ágeis:" class="md-nav__link">
-    Metodologias Ágeis:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#analise-comparativa-tradicional-x-agil" title="Análise Comparativa: Tradicional X Ágil" class="md-nav__link">
-    Análise Comparativa: Tradicional X Ágil
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#referencias" title="Referências:" class="md-nav__link">
-    Referências:
-  </a>
-  
-</li>
-      
-      
-      
-      
-      
-    </ul>
-  
-</nav>
     
   </li>
 
@@ -429,43 +379,6 @@
     
   
   
-    <label class="md-nav__title" for="toc">Table of contents</label>
-    <ul class="md-nav__list" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#metodologias-tradicionais" title="Metodologias Tradicionais:" class="md-nav__link">
-    Metodologias Tradicionais:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#metodologias-ageis" title="Metodologias Ágeis:" class="md-nav__link">
-    Metodologias Ágeis:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#analise-comparativa-tradicional-x-agil" title="Análise Comparativa: Tradicional X Ágil" class="md-nav__link">
-    Análise Comparativa: Tradicional X Ágil
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#referencias" title="Referências:" class="md-nav__link">
-    Referências:
-  </a>
-  
-</li>
-      
-      
-      
-      
-      
-    </ul>
-  
 </nav>
                   </div>
                 </div>
@@ -497,6 +410,10 @@
 </tr>
 </tbody>
 </table>
+<h1 id="introducao-a-problematica"><strong>Introdução a Problemática</strong></h1>
+<p>Os interessados para a execução do produto são os membros do Projeto Cascata. Este projeto surgiu da ideia de ingressos da Universidade de Brasília, campus Gama, que viram a dificuldade de alguns alunos da rede de escolas públicas em conseguir material e cursos preparatórios para o vestibular, desta forma estes universitários, de forma voluntária, trabalham de maneira a ministrar aulas e expor materiais para ajudar os alunos carentes no processo de estudo para o vestibular.</p>
+<p>Com o atendimento de vários alunos e voluntários por este projeto, ficou claro para eles a necessidade de controlar a distribuição de materiais e a frequência dos alunos e dos membros internos e divulgar informações para estes.</p>
+<p>Logo, o produto pedido é uma plataforma para acesso dos membros voluntários, para justificar suas faltas e controlar a frequência dos alunos, sendo esses recursos restritos, além de divulgação de informativos para a comunidade. Assim, necessitamos uma metodologia de projeto, para fazer com que o produto seja entregue da melhor maneira possível, tanto para a equipe quanto para o cliente. </p>
 <h1 id="justificativa-metodologica"><strong>Justificativa Metodológica</strong></h1>
 <blockquote>
 <p>“Metodologia de desenvolvimento é um conjunto de práticas recomendadas para o desenvolvimento de softwares, sendo que essas práticas, geralmente, passam por fases ou passos, que são subdivisões do processo para ordená-lo e melhor gerenciá-lo”. (Sommerville, 2000).</p>
@@ -508,6 +425,15 @@
 <p>Deste tipo de metodologia, o framework mais utilizado hoje em dia é o RUP <sub><sup>[5]</sup></sub>. Esta metodologia é dividida em quatro fases: Concepção, Elaboração, Construção e Transição. Cada uma  delas com focos específicos, abrangendo todo o ciclo de vida de um software.</p>
 <p>O RUP é um processo iterativo, ou seja, atividades similares podem ocorrer em diferentes ciclos de desenvolvimento, ainda mais se tratando de alterações no projeto.</p>
 <p>Um ponto marcante do RUP são os seus artefatos, que são produtos feitos e usados durante e depois do desenvolvimento do projeto. Estes são geralmente documentos, diagramas e modelagens.</p>
+<p>Para melhor funcionamento do projeto, decidimos adequar a nossa metodologia os artefatos comumente utilizados pelo RUP. Os artefatos escolhidos foram:</p>
+<ul>
+<li>Documento de Visão: descreve, em linguagem natural o problema proposto, a solução e seus possíveis concorrentes e também é listado
+  os requisitos funcionais que devem ser atentidos para o funcionamento do sistema e a satisfação do cliente;</li>
+<li>Documento de Arquitetura: relata a arquitetura que deve ser aderir para a melhor estruturação do produto de software;</li>
+<li>Diagrama de Classe: que nos dá a visão de implementação do projeto;</li>
+<li>Diagramas de Caso de Uso: que representa o fluxo de funcionamento de um requisito específico, assim como seus atores;</li>
+<li>Diagrama de Sequência: retrata a interação entre componentes, mas está focado na sequência de mensagens, suas entradas e saídas. </li>
+</ul>
 <h3 id="metodologias-ageis"><strong>Metodologias Ágeis:</strong></h3>
 <p>Metodologias ágeis são caracterizadas pelo fato de serem muito adaptativas e focadas em pessoas. Parte do princípio que o cliente deve estar junto ao processo de desenvolvimento e assim aprender mais sobre suas necessidades conforme o andamento do projeto, reavaliando suas necessidades e prioridades.</p>
 <p>Há muitos frameworks classificados como ágeis, que possuem princípios e propósitos ligeiramente diferentes, tais como o Extreme Programming (XP), que é focado na produção de código com maior qualidade e no menor tempo possível, e o Scrum, que parte do fundamento de que um bom projeto deve ser focado nas pessoas envolvidas nele (seus integrantes e o cliente) e na visibilidade e transparência de informações. Um framework mais atual é o SAFe, que utiliza do Scrum e possui grande escalabilidade.</p>
@@ -515,9 +441,14 @@
 <ul>
 <li><strong>Portfólio:</strong> Setor que organiza a empresa e de forma que o trabalho seja focado em um objetivo, definindo quais serão as próximas tarefas a serem executadas e medidas que serão tomadas. Também é responsável pela alocação de recursos e garantia de retorno dos projetos.</li>
 <li><strong>Programa:</strong> É onde os times de desenvolvedores e outros recursos (como DevpOps) são direcionados para os objetivos definidos no portfólio. Esta fase é organizada de acordo com o Trem de Entregas Ágeis (ART), um modelo de trabalho que define datas, elimina empecilhos e auxilia na transparência, fazendo com que o processo de trabalho seja o mais rápido possível.</li>
-<li><strong>Time:</strong> É composto por desenvolvedores (geralmente de 4 a 7) e um Scrum Master, o qual é responsável por fazer que o time realize seu trabalho sem problemas. Há também a presença de um único Product Owner que orienta a produção dos times, para que eles supram as necessidades dos seus clientes (este papel pode ser desempenhado pelo próprio cliente). O time, além do produto, possui artefatos definidos que devem ser entregues (como sprint backlog, sprint planing, entre outros) e eventos (stand-up meetings, sprints e etc).
-<br></br><br></br></li>
+<li><strong>Time:</strong> É composto por desenvolvedores (geralmente de 4 a 7) e um Scrum Master, o qual é responsável por fazer que o time realize seu trabalho sem problemas. Há também a presença de um único Product Owner que orienta a produção dos times, para que eles supram as necessidades dos seus clientes (este papel pode ser desempenhado pelo próprio cliente). O time, além do produto, possui artefatos definidos que devem ser entregues (como sprint backlog, sprint planing, entre outros) e eventos (stand-up meetings, sprints e etc).</li>
 </ul>
+<p>Como dito, esta metodologia possui a característica de ser escalável e de ser possível a adaptação para diversas equipes. Para o desenvolvimento do produto de software proposto, foi decidido que concentraremos os integrantes do grupo na parte de <b>Time</b> do SAFe, assim como utilizaremos as práticas adotas por equipes nesse fase que é o <i>ScrumXP</i>.</p>
+<p>O <i>ScrumXP</i> é uma combinação de práticas de duas metodologias diferentes, , que encaixam muito bem para equipes auto-organizáveis do SAFe. Esta possui os papéis encontrados no <i>Scrum</i>, como <i>Product Owner</i>, caracterizado como representante do cliente na equipe e responsável pelo o produto de software e único que pode classificar uma história de usuário como concluída. O <i>Scrum Master</i>, que lida com o <b>Time</b> e mantem o desenvolvimento, tratando com os empecilhos caso ocorra. Do <i>Scrum</i> também se leva alguns artefatos, como as <i>Histórias de Usuário</i> que são os requisitos coletados do cliente escritas de maneira a ser possível atribuir valores, assim definir prioridades de execução, e também a atividade de <b>Iterações (Sprints)</b>, que nada mais é do que intevalos de tempo definidos pela equipe para realizar histórias de usuário seleciodas pelo <i>Product Owner</i>,.</p>
+<p>Atrelado ao <i>Scrum</i>, temos a <i>XP (Extreme Programming)</i>, que disponhe de práticas como <i>Feedback</i>, ou seja, a comunicação entre a equipe para reportar acontecimentos que ocorreram durante a iteração, a <i> Programação Pareada</i> e a <i>Integração e Entrefa Contínua</i>.</p>
+<p>Para finalizar, O SAFe adota estas práticas juntamente como o <i>Kanban</i>, que organiza as tarefas da equipe em um quadro geralmente dividido em tarefas a fazer, que estão acontecendo e aquelas que já foram terminadas, orientando assim o <i>Time</i>.</p>
+<p>Especifico desta metodologia, levaremos sua estruturação de setores </p>
+<p><br></br><br></br></p>
 <h3 id="analise-comparativa-tradicional-x-agil"><strong>Análise Comparativa: Tradicional X Ágil</strong></h3>
 <p>A utilização de abordagens, como já falado, é uma questão situacional da equipe, empresa projeto e outros fatores. Os principais aspectos que devem ser levados em consideração são:</p>
 <table>
@@ -558,14 +489,18 @@
 </table>
 <p>O IBM Certified IT Specialist, Moacyr Mello, em seu texto “Um Caminho Seguro para o Processo de Desenvolvimento - SAFe (Scaled Agile Framework®)” <sub><sup>[4]</sup></sub> cita que o framework SAFe dá ênfase no gerenciamento de requisitos; e este foi, inclusive, idealizado por Dean Lenffingwell, responsável por uma famosa ferramenta de gestão de requisitos nos anos 90. Os conceitos de histórias de usuário e épicos presentes nesse framework  ampliam a forma de capturar requisitos, melhor adequados à ênfase em colaboração, flexibilidade e iterações de projeto mais curtas.</p>
 <p>É importante adaptar corretamente o processo de desenvolvimento para as necessidades reais do projeto. A quantidade de cerimônias, precisão e controle devem ser detalhadas de acordo com uma variedade de fatores, incluindo tamanho e distribuição da equipe, quantidade de restrições impostas e a fase no qual o projeto se encontra. <sub><sup>[2]</sup></sub></p>
-<p><br></p>
+<p>Portanto, como consequência destas metologias apresentadas, o problema proposto e equipe disponível para a execução do projeto, foi delineado que a junção de artefatos e procedimentos de ambas, assim como citado anteriormente.
+<br></p>
 <h2 id="referencias"><strong>Referências:</strong></h2>
 <ol>
 <li>Rigby, Darrel K. et al. Embracing Agile. Disponível em: <a href="https://hbr.org/2016/05/embracing-agile">https://hbr.org/2016/05/embracing-agile</a> . Acesso em: 17 de março de 2018.</li>
 <li>Corrêa, George Marsicano. Processo Tradicional. </li>
 <li>Schiel, Ulchir. Rational Unified Process. Disponível em:  <a href="http://www.wthreex.com/rup/">http://www.wthreex.com/rup/</a> Acesso em: 17 de março de 2018. </li>
-<li>Mello, Moacyr. Um Caminho Seguro para o Processo de Desenvolvimento -SAFe(ScaledAgileFramework®).Dispinível em: <a href="https://www.ibm.com/developerworks/community/blogs/rationalbrasil/entry/um_caminho_seguro_para_o_processo_de_desenvolvimento_safe_scaled_agile_framework?lang=en">https://www.ibm.com/developerworks/community/blogs/rationalbrasil/entry/um_caminho_seguro_para_o_processo_de_desenvolvimento_safe_scaled_agile_framework?lang=en</a>. Acesso em 23 de março de 2017.&gt; Acessado em: 17 de março de 2018.</li>
+<li>Mello, Moacyr. Um Caminho Seguro para o Processo de Desenvolvimento -SAFe(ScaledAgileFramework®).Dispinível em: <a href="https://www.ibm.com/developerworks/community/blogs/rationalbrasil/entry/um_caminho_seguro_para_o_processo_de_desenvolvimento_safe_scaled_agile_framework?lang=en">https://www.ibm.com/developerworks/community/blogs/rationalbrasil/entry/um_caminho_seguro_para_o_processo_de_desenvolvimento_safe_scaled_agile_framework?lang=en</a>. Acesso em 23 de março de 2017.&gt; Acessasdo em: 17 de março de 2018.</li>
 <li>Santos, Domingos de A. Desenvolvimento de Software: Processos Ágeis ou Tradicionais? Uma visão crítica. Disponível em: <a href="http://www.enacomp.com.br/2010/cd/artigos/completos/enacomp2010_4.pdf">http://www.enacomp.com.br/2010/cd/artigos/completos/enacomp2010_4.pdf</a>. Acessado em: 17 de março de 2018.</li>
+<li>Scaled Agile Framework, ScrumXP. Diponível em: http://www.scaledagile.com/permissions-form/https://www.scaledagileframework.com/scrumxp/.  Acessado em: 29 de março de 2018.</li>
+<li>Scaled Agile Framework, Agile Team. Diponível em: http://www.scaledagile.com/permissions-form/https://www.scaledagileframework.com/agile-teams/.  Acessado em: 29 de março de 2018.</li>
+<li>Programação Extrema.  Diponível em: https://github.com/fga-gpp-mds/A-Disciplina/wiki/Programa%C3%A7%C3%A3o-Extrema-(XP). Acessado em: 29 de março de 2018.</li>
 </ol>
                 
                   
