@@ -2,6 +2,7 @@
 
 # Perfil de Usuários
 
+## Perfil de Usuários
 O Projeto Cascata em seu contexto possui diferentes cargos, com diferentes atribuições e responsabilidades. O Projeto funciona com setores especializados em cada demanda, e, dentro desta divisão, existem hierarquias. No funcionamento atual do projeto, podemos entender as diferentes hierarquias e setores de acordo com a representação visual abaixo:
 
 ![Papeis do Sistema](../img/setores_hierarquias.png)

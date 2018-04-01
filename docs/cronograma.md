@@ -5,6 +5,7 @@
 |23/03/2018|1.0|Criação do corpo do Cronograma| Letícia de Souza|
 |27/03/2018|1.2|Preenchimento do Cronograma|Letícia, Bruna, Felipe, Mariana, Clarissa, Halê, Bernardo|
 
+---
 
 ## Cronograma do Projeto
 
