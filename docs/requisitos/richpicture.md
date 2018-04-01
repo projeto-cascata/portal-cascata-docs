@@ -5,9 +5,8 @@
 |22/03/2018|1.0| Adição do Rich Picture da Visão do Usuário | Bernardo Henrique |
 |23/03/2018|1.0| Adição do Rich Picture das funcionalidades do sistema | Leticia de Souza|
 |24/03/2018|1.0| Adição do Rich Picture de Contexto Externo | Felipe Hargreaves |
-|31/03/2018|2.0| Adição do Rich Picture da Organização Interna | Mariana Pícolo |   
-
----
+|31/03/2018|2.0| Adição do Rich Picture da Organização Interna | Mariana Pícolo |
+|01/04/2018|2.0| Adição do Rich Picture dos Alunos | Bruna Pinos |
 
 *Rich pictures* são representações visuais que buscam entender o contexto de determinada atividade.
 
@@ -27,3 +26,7 @@
 ## Organização Interna - Mariana
 
 ![Organização Interna](../img/richPictures/rpMarianaOrganizacao.png)
+
+## Rich Picture com foco no Aluno - Bruna
+
+![Foco no aluno](../img/richPictures/rpBrunaAlunos.png)
