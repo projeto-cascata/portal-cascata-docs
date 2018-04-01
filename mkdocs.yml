@@ -3,11 +3,10 @@ site_name: Portal Cascata - Docs
 pages:
   - Home: index.md
   - Justificativa Metodológica: justificativa.md
-  - Cronograma: cronograma.md
   - Engenharia de Requisitos:
     - Introdução: requisitos/requisitos.md
-    - 5W2H: requisitos/5w2h.md
     - Rich Picture: requisitos/richpicture.md
+    - 5W2H: requisitos/5w2h.md
     - Ishikawa: requisitos/ishikawa.md
     - Perfil de Usuário: requisitos/perfil-usuario.md
     - Elicitação:
@@ -15,5 +14,8 @@ pages:
       - Entrevistas: requisitos/elicitacao/entrevistas.md
       - Análise de Protocolo: requisitos/elicitacao/protocolos.md
       - Protótipo: requisitos/elicitacao/prototipo.md
+  - Gerenciamento do Projeto:
+     - Cronograma: cronograma.md
+  - Épicos: requisitos/epicos.md
 
 theme: material
