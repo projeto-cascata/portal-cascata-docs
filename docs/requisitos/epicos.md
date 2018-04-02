@@ -7,7 +7,6 @@
 |:----:|:------:|:---------:|:---------:|
 |31/03/2018|1.0| Elaboração do Documento | Todos |
 |02/04/2018|1.1| Correções no E03 | Clarissa Borges |
----  
 
 Foram definidos três épicos para o Portal Cascata:
 

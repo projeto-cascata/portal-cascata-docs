@@ -18,8 +18,10 @@ pages:
       - Protótipo: requisitos/elicitacao/prototipo.md
   - Gerenciamento do Projeto:
      - Cronograma: cronograma.md
-  - Épicos: requisitos/epicos.md
   - Folha de Estilo: folha_estilo.md
+  - Backlogs:
+     - Épicos: requisitos/epicos.md
+     - Features: requisitos/features.md
 
 theme: material
 
