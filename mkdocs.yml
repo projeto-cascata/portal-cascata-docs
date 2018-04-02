@@ -22,3 +22,6 @@ pages:
   - Folha de Estilo: folha_estilo.md
 
 theme: material
+
+markdown_extensions:
+  - codehilite
