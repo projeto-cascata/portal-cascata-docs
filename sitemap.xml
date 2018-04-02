@@ -44,6 +44,18 @@
     </url>
         
     <url>
+     <loc>/requisitos/nfr/</loc>
+     <lastmod>2018-04-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/requisitos/istar/</loc>
+     <lastmod>2018-04-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>/requisitos/perfil-usuario/</loc>
      <lastmod>2018-04-01</lastmod>
      <changefreq>daily</changefreq>
