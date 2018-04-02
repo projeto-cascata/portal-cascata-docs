@@ -9,6 +9,7 @@ pages:
     - 5W2H: requisitos/5w2h.md
     - Ishikawa: requisitos/ishikawa.md
     - NFR Framework: requisitos/nfr.md
+    - I*: requisitos/istar.md
     - Perfil de Usuário: requisitos/perfil-usuario.md
     - Elicitação:
       - Introdução: requisitos/elicitacao/elicitacao.md
