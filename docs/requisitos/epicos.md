@@ -6,14 +6,14 @@
 | Data | Versão | Descrição | Autor(es) |
 |:----:|:------:|:---------:|:---------:|
 |31/03/2018|1.0| Elaboração do Documento | Todos |
-
+|02/04/2018|1.1| Correções no E03 | Clarissa Borges |
 ---  
 
 Foram definidos três épicos para o Portal Cascata:
 
 - E01 - Gerenciamento de Usuários   
 - E02 - Gerenciamento de Notícias    
-- E03 - Gerenciamento de Materiais
+- E03 - Gerenciamento de Disciplinas
 
 ## E01 - Gerenciamento de Usuários
 
@@ -66,23 +66,23 @@ Foram definidos três épicos para o Portal Cascata:
 |Fora do Escopo| Compartilhar notícias em redes sociais. |
 
 
-## E03 - Gerenciamento de Materiais
+## E03 - Gerenciamento de Disciplinas
 
-| **Caso de Negócio**    |   **E03 Gerenciamento de Materiais**   |   
+| **Caso de Negócio**    |   **E03 Gerenciamento de Disciplinas**   |   
 |:---:| :---|
 |Para| o Projeto Cascata|
-|Que| não consegue disponibilizar de forma eficiente os conteúdos das aulas, e materiais didáticos elaborados previamente pelos professores|
+|Que| não consegue disponibilizar de forma eficiente os conteúdos das disciplinas, e materiais didáticos elaborados previamente pelos professores|
 |A(O)| Portal Cascata|
 |É uma| Aplicação *Web*|
 |Que| organiza os materiais do projeto|
-|Diferente| de agora que são postados por cada professor no grupo do *facebook*|
-|Nossa Solução| cria uma página para organizar os materiais disponibilizados.|   
+|Diferente| de agora que são postados por cada professor no grupo do *Facebook*|
+|Nossa Solução| cria uma página para organizar os materiais disponibilizados de acordo com as disciplinas.|   
 
 > **Escopo - Gerenciamento de Materiais**
 
 | |    |   
 |:---:| :---|
-|No Escopo| Disponibilizar acesso para materiais;|
-|Fora do Escopo| Fazer *upload* de arquivos; |
+|No Escopo| Disponibilizar acesso para conteúdos de acordo com a disciplina e a frente a que pertencem;|
+|Fora do Escopo| Edição do conteúdo diretamente pela plataforma. |
 
 
