@@ -12,7 +12,7 @@
 ---   
 ## Diagrama de Ishikawa
 
-> "Um diagrama de Ishikawa, também conhecido como diagrama de causa e efeito ou diagrama de espinha de peixe, é frequentemente usado no gerenciamento de qualidade em indústrias de manufatura". (WONG, Kam Cheong, 2011).
+> "Um diagrama de Ishikawa, também conhecido como diagrama de causa e efeito ou diagrama de espinha de peixe, é frequentemente usado no gerenciamento de qualidade com o intuito de evidenciar várias causas de um determinado efeito, fluindo da esquerda para a direita". (WONG, Kam Cheong, 2011).
 
 A elaboração do diagrama a seguir visou auxiliar na gerência e Controle da Qualidade do produto, identificando causas para um efeito problema, no caso do Projeto Cascata, a falta de comunicação no projeto.
 
