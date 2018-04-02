@@ -17,7 +17,8 @@ pages:
       - Análise de Protocolo: requisitos/elicitacao/protocolos.md
       - Protótipo: requisitos/elicitacao/prototipo.md
   - Gerenciamento do Projeto:
-     - Cronograma: cronograma.md
+     - Cronograma: gerenciamento/cronograma.md
+     - Plano de Gerenciamento de Riscos: gerenciamento/riscos.md
   - Épicos: requisitos/epicos.md
 
 theme: material
