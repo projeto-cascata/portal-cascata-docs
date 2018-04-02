@@ -8,6 +8,7 @@ pages:
     - Rich Picture: requisitos/richpicture.md
     - 5W2H: requisitos/5w2h.md
     - Ishikawa: requisitos/ishikawa.md
+    - NFR Framework: requisitos/nfr.md
     - Perfil de Usuário: requisitos/perfil-usuario.md
     - Elicitação:
       - Introdução: requisitos/elicitacao/elicitacao.md
