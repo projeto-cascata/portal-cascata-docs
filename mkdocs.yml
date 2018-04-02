@@ -24,6 +24,9 @@ pages:
      - Features: requisitos/features.md
      - Histórias de Usuários: requisitos/backlogproduct.md
 
+    - Modelagem:
+      - Cenários: requisitos/modelagem/cenarios.md
+      - Léxicos: requisitos/modelagem/lexicos.md
 theme: material
 
 markdown_extensions:
