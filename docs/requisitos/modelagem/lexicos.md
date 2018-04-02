@@ -27,7 +27,7 @@
 |:---------:|---------|
 | Sinônimos | Membro, Voluntário |
 | Noção | Pessoa inscrita como voluntário do Projeto Cascata responsável por ministrar as aulas| 
-| Impacto | Pessoa se candidata a membro; Professor ministra a aula; Professor marca presença ao alunos; Membros frequentam a reunião |
+| Impacto | Pessoa se candidata a membro; Professor ministra a aula; Professor marca presença ao alunos; Membros frequentam a reunião; Professor divulga o conteúdo |
 | Classificação | Pessoa |
 
 ## Google Drive
@@ -36,7 +36,7 @@
 |:---------:|---------|
 | Sinônimos | Drive |
 | Noção | Espaço de armazenamento em nuvem para manter documentos internos aos membros.|
-| Impacto | Pessoa se candidata a membro; Atualizar a Planilha de Frequência; Pessoa se inscreve no Projeto |
+| Impacto | Pessoa se candidata a membro; Atualizar a Planilha de Frequência; Pessoa se inscreve no Projeto; Alunos acessam os materiais; Professor disponibiliza o conteúdo |
 | Classificação | Objeto |
 
 ## Notícia
@@ -45,7 +45,7 @@
 |:---------:|---------|
 | Sinônimos | informação, Aviso |
 | Noção | Informações importantes que devem ser conhecidas por todos os integrantes(alunos e membros) do projeto.|
-| Impacto | Divulgação de Notícia |
+| Impacto | Membros divulgam a notícia |
 | Classificação | Objeto |
 
 ## Material
@@ -54,7 +54,7 @@
 |:---------:|---------|
 | Sinônimos | Conteúdos, textos bases, referências, videos|
 | Noção | Toda informação atrelada ao conteúdo passado pelo professor que é relevante aos estudos dos alunos|
-| Impacto | Divulgação de Material; Acesso ao Material|
+| Impacto | Membros divulgam a notícia; Alunos acessam os materiais; Professor divulga o conteúdo|
 | Classificação | Objeto |
 
 ## Termo de Voluntariado
@@ -74,7 +74,7 @@ do projeto |
 | Sinônimos | Divulgar, postar|
 | Noção | Ação de divulgar conhecimento, materiais ou notícias aos integrantes do projeto. Normalmente nos grupos
 dos integrantes, tais como o do Facebook e Whatsapp |
-| Impacto | Divulgação de Material; Divulgação de Notícia |
+| Impacto | Professor divulga o conteúdo; Membros divulgam a notícia; Alunos acessam os materiais |
 | Classificação | Verbo |
 
 ## Grupo
@@ -84,7 +84,7 @@ dos integrantes, tais como o do Facebook e Whatsapp |
 | Sinônimos | Grupo do Whatsapp, Grupo do Facebook, Whatsapp, Facebook, "Face" |
 | Noção | Lugar reservado para os integrantes do Projeto interagir entre si, com notícias, documentos e outras coisas. Estes grupos estão
 situados nas redes sociais Facebook e Whatsapp |
-| Impacto | Divulgação de Notícias, Divulgação de Material, Pessoa se candidata a membro |
+| Impacto | Professor divulga o conteúdo; Membros divulgam a notícia; Pessoa; Pessoa se candidata a membro; Pessoa se inscreve no Projeto |
 | Classificação | Objeto |
 
 ## Chamada
@@ -103,7 +103,7 @@ confirmando sua presença em certa aula |
 |:---------:|---------|
 | Sinônimos | Membro, integrante, voluntário |
 | Noção | Membro que assume cargo de direção dentro do Projeto Cascata |
-| Impacto | - |
+| Impacto | Pessoa se candidata a membro |
 | Classificação | Pessoa |
 
 ## Termo de Adesão
@@ -121,7 +121,7 @@ confirmando sua presença em certa aula |
 |:---------:|---------|
 | Sinônimos | - |
 | Noção | Encontro entre membros do projeto para tratar assuntos internos |
-| Impacto | Marcar a reunião |
+| Impacto | Membros frequentam a reunião |
 | Classificação | Objeto |
 
 ## RH
@@ -139,7 +139,7 @@ confirmando sua presença em certa aula |
 |:---------:|---------|
 | Sinônimos | Ausência |
 | Noção | Ato de não comparecer a aulas ou reuniões. Tanto membros, quanto alunos faltam. |
-| Impacto | Justificar a falta |
+| Impacto | Membro justifica a falta |
 | Classificação | Objeto |
 
 ## Pedagogia
@@ -184,7 +184,7 @@ confirmando sua presença em certa aula |
 |:---------:|---------|
 | Sinônimos | Planilha de Frequência |
 | Noção | Documento/planilha onde arquiva-se as frequências e faltas dos membros |
-| Impacto | - |
+| Impacto | Membro justifica a falta |
 | Classificação | Objeto | 
 
 ## Estatuto
@@ -193,7 +193,7 @@ confirmando sua presença em certa aula |
 |:---------:|---------|
 | Sinônimos | - |
 | Noção | Documento que descreve as condutas esperadas dos membros voluntários do projeto, assim como seus deveres e direitos |
-| Impacto | - |
+| Impacto | Membro justifica a falta |
 | Classificação | Objeto |
 
 ## Advertência
@@ -202,7 +202,7 @@ confirmando sua presença em certa aula |
 |:---------:|---------|
 | Sinônimos | Penalidade |
 | Noção | Gerar punição aqueles membros que descumpriram alguma regra imposta pelo estatuto, como por exemplo falta excessiva |
-| Impacto | - |
+| Impacto | Membro justifica a falta |
 | Classificação | Objeto | 
 
 ## Processo Seltivo
@@ -211,5 +211,5 @@ confirmando sua presença em certa aula |
 |:---------:|---------|
 | Sinônimos | PS |
 | Noção | Procedimento de selecionar canditados a voluntários que estejam aptos a trabalharem no Projeto |
-| Impacto | - |
+| Impacto | Pessoa se candidata a membro |
 | Classificação | Objeto |
