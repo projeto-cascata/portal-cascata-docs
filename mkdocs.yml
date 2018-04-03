@@ -22,6 +22,7 @@ pages:
   - Backlogs:
      - Épicos: requisitos/epicos.md
      - Features: requisitos/features.md
+     - Histórias de Usuários: requisitos/backlogproduct.md
 
 theme: material
 
