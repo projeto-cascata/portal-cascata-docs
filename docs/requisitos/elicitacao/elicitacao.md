@@ -15,21 +15,21 @@ Existe uma grande variedade de técnicas especializadas para o processo de elici
 Cabe ao Engenheiro de Requisitos avaliar e determinar quais técnicas são mais adequadas de se aplicar dado o contexto de um determinado projeto.
 Para a elicitação do Portal Cascata, foram escolhidas as técnicas de Entrevista, Análise de Protocolo e Prototipação, detalhadas a seguir.
 
-## Entrevistas 
+## Entrevistas
 De acordo com Sommervile[[1]](#referências), entrevistas são parte da maioria dos processos de engenharia de requisitos e são uma boa forma de se obter uma compreensão global sobre as ações dos *stakeholders*, as dificuldades enfrentadas pelos mesmos e de que forma eles poderão interagir com o novo sistema. As entrevistas podem ser de dois tipos:
 
 1. Fechadas, em que o conjunto e ordem de perguntas é estabelecido previamente.
 2. Abertas, onde não há uma agenda predefinida, e as questões são exploradas durante a própria entrevista.
 
-A abordagem escolhida pela equipe foi um misto destes dois formatos, com algumas perguntas predefinidas mas ao mesmo tempo proporcionando abertura para novos questionamentos durante a execução da entrevista. 
+A abordagem escolhida pela equipe foi um misto destes dois formatos, com algumas perguntas predefinidas mas ao mesmo tempo proporcionando abertura para novos questionamentos durante a execução da entrevista.
 
-Foram realizadas diversas entrevistas com membros de setores variados do Projeto, de forma a se obter um número maior de perspectivas diferentes sobre o contexto e a solução a se desenvolver. As mesmas podem ser acessadas na íntegra [aqui](./entrevistas.md).
+Foram realizadas diversas entrevistas com membros de setores variados do Projeto, de forma a se obter um número maior de perspectivas diferentes sobre o contexto e a solução a se desenvolver. Estas podem ser acessadas na íntegra [aqui](./entrevistas.md).
 
 ## Análise de Protocolo
-[Adicionar texto e links]
+A análise de protocolo é uma técnica criada no contexto da construção de sistemas especialistas com o objetivo de elicitar a performance do especialista, isto é, elicitar o modo como o especialista se comporta diante de uma determinada situação.  A técnica é aplicada juntando-se a observação da performance do especialista e solicitando-se que o mesmo descreva o que está sendo feito. Para acessar a análise de protocolo do Projeto Cascata, clique [aqui](./protocolos.md).
 
 ## Prototipação
-[Adicionar texto e links]
+A criação de modelos representativos permite demonstrar como um produto ou serviço deveria funcionar na prática e validar hipóteses junto aos usuários. Ao criar essa demonstração, a equipe esclarece e afunila suas ideias, em uma troca contínua de insights. Para visualizar os protótipos desenvolvidos, clique [aqui](./prototipo.md).
 
 ## Referências
 - [1] SOMMERVILLE, I., Engenharia de Software, 9ª Edição. São Paulo: Pearson Prentice Hall, 2011.
