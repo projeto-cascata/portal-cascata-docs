@@ -21,6 +21,7 @@ Segundo o Guia PMBOK®, o plano de gerenciamento dos custos define o formato e e
 ## **2. Processo de Gerenciamento de Custos**
 Este tópico deverá definir os processos e técnicas que serão utilizadas para gerenciar os custos do Projeto Cascata. Para realizar este processo de forma organizada, será baseado no PmBok e organizado em quatro etapas: planejar, estimar, determinar e controlar os custos. 
 
+
 ### **2.1 Medição de Custos**
 Para a análise dos custos será utilizada uma estimativa conhecida como Program Evaluation and Review Technique (PERT). Esta estimativa tem como foco mitigar os erros causados pela falta de certeza dos valores reais dos gastos do projeto e os riscos relacionados.
 
@@ -62,7 +63,14 @@ Assim, após aplicarmos o PERT, temos como resultado de gastos finais com recurs
 |:------:|:---------:|:---------:|:---------:|
 | 10,33 horas | R$33,84 | R$2.797,44 | <b>R$44.759,04</b> |
 
-### **2.3 Ferramentas**
+
+### **2.3 Equipamentos**
+Os equipamentos de trabalho da equipe são notebooks, abaixo temos uma relação com as marcas, modelos e preço do notebook de cada integrante do grupo:
+
+![Equipamentos](../img/gerenciamento/notebooks.png)
+
+
+### **2.4 Ferramentas**
 Todas as ferramentas utilizadas no projeto são gratuitas, sendo assim não influenciam no custo total do projeto. Abaixo temos a relação com todas as ferramentas utilizadas:
 
 | Ferramenta | Objetivo |
@@ -73,7 +81,7 @@ Todas as ferramentas utilizadas no projeto são gratuitas, sendo assim não infl
 | MkDocs   | Plataforma para organização da doumentação |
 | Trello   | Organização Interna da Equipe |
 
-### **2.4 Transporte e Locação de Espaço**
+### **2.5 Transporte e Locação de Espaço**
 As reuniões do projeto não são feitas presencialmente, sendo assim não há necessidade de locação de espaço ou transporte, assim estes fatores não acarretam custo ao projeto.
 
 
@@ -84,9 +92,10 @@ O projeto está em andamento, sendo assim é possível fazer apenas a estimativa
 | Despesa | Custo (R$) |
 | :--------: | :------: |
 | Recursos Humanos | 44.759,04 |
+| Equipamentos | 42.359,00 |
 | Ferramentas | 0 |
 | Transporte e Locação de Espaço | 0 |
-| <b> TOTAL </b> | <b> 44.759,04 </b> |
+| <b> TOTAL </b> | <b> 87.118,04 </b> |
 
 <br>
 ## **Referências**
