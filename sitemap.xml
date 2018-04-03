@@ -81,18 +81,32 @@
 
     
     <url>
-     <loc>/requisitos/epicos/</loc>
+     <loc>/folha_estilo/</loc>
      <lastmod>2018-04-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
+        
     <url>
-     <loc>/folha_estilo/</loc>
+     <loc>/requisitos/epicos/</loc>
      <lastmod>2018-04-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>/requisitos/features/</loc>
+     <lastmod>2018-04-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/requisitos/backlogproduct/</loc>
+     <lastmod>2018-04-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
 </urlset>
