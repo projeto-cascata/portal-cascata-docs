@@ -4,7 +4,7 @@
 
 | Data | Versão | Descrição | Autor(es) |
 |:----:|:------:|:---------:|:---------:|
-|02/04/2018| 0.1 |  | Bernardo Henrique |  
+|02/04/2018| 1.0 | Introdução, Processo de Gerenciamento de Tempo, Regras para medição do Desempenho, Cronograma | Bernardo Henrique |  
 
 ## **1. Introdução**
 O Gerenciamento de Tempo de um projeto não é nada mais que estabelecar políticas, procedimentos e documentação para planejar, desenvolver, gerenciar, executar e controlar procedimentos, atividades, e documentação. Segundo o PmBok, este plano tem como objetivo guiar todo o ciclo de vida do software, garantindo que não hajam atrasos.
@@ -34,7 +34,37 @@ A seleção desta unidade determina o nível de detalhe e, assim, esforço na co
 "Depois de ter um cronograma do projeto pronto é importante lembrar que o seu plano não é um documento estático, ao contrário, é um veículo de comunicação dinâmico; portanto o objetivo é reportar a informação contida no plano de uma maneira fácil de entender sob a perspectiva de um observador de fora" <sup><sup>[2]<sup><sup>
 
 
+<br>
+## **3. Regras para a Medição de Desempenho**
 
+É fundamental o acompanhamento do desempenho do projeto. Ao realizar esta atividade, pode-se:
+
+* Utilizar dados a fim de definir o quão atrasado ou adiantado o projeto está.
+* Analisar o grau de eficácia do planejamento do projeto.
+* Aperfeiçoar o replanejamento do cronograma, baseando-se em dados históricos.
+* Melhorar o controle para atingir o desempenho previamente definido.
+
+Existem diversos métodos para análise de desempenho. Nesse projeto utilizaremos o Gerenciamento de Valor Agregado (GVA). Ele baseia-se na Variação do Cronograma e no Índice de Desempenho de Prazos. 
+
+O Índice de Desempenho de Prazos (Schedule Performance Index ou SPI) é calculado pela razão entre o Valor Agregado (VA) e o Valor Planejado (VP).
+
+SPI = VA / VP
+
+O resultado obtido indica a eficácia do planejamento, e pode ser interpretada como:
+
+* SPI < 1 - Sinal de atraso no projeto.
+* SPI = 1 - Eficácia plena no planejamento
+* SPI > 1 - Sinal de adiantamento no projeto.
+
+Deve-se notar que após algumas sprints será possível ter acesso a valores de Burndown e alguns SPI's, no caso de constantes atrasos com SPI's abaixo de zero e Burndowns que não acompanham a meta, deve-se considerar algumas estratégias para melhorar o desempenho da equipe.
+
+
+<br>
+## **4. Cronograma**
+O cronograma do Projeto Cascta pode ser encontrado acessado [este link](../gerenciamento/cronograma.md).
+
+
+<br>
 ## **Referências**
 [1] PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK 5a. ed. - EUA: Project Management Institute, 2013.
 
