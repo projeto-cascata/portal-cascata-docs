@@ -27,6 +27,9 @@
 | 28/03 | 0.1    | Criação e estruturação do documento | Daniel Teles      |
 | 28/03 | 0.2    | Introdução: Finalidade e Escopo     | Bernardo Henrique |
 | 29/03 | 0.3    | Posicionamento                      | Felipe Hargreaves |
+| 02/04 | 0.4    | Visão geral do produto                      | Mariana Pícolo |  
+
+---
 
 ## Sumário
 
@@ -162,4 +165,18 @@ Devido à necessidade de comunicação e compartilhamento de notícias e informa
     <td><b>nosso produto</b></td>
     <td>integra as principais demandas do projeto em uma plataforma unificada, atendendo às suas necessidades específicas de forma personalizada.</td>
   </tr>
-</table>
+</table>   
+
+## **4. Descrições dos Usuários**
+### **4.1.  Resumo dos Usuários**
+
+## ** 5. Visão Geral do Produto**
+### ** 5.1. Perspectiva do Produto**
+
+O sistema centralizará as responsabilidades das diretorias e da presidência do Projeto Cascata, facilitando o monitoramento de frequência, divulgação de material e de notícias. Também fornece suporte aos alunos, exibindo seu *status* de frequência, e acesso aos materiais didáticos elaborados pelos professores do projeto.   
+### **5.2. Resumo das Capacidades**   
+| **Benefício para o Cliente** | **Recursos de Suporte** |
+|:----:|:----:|
+| Organização das informações dos alunos e membros  | Centralização dos controles de frequência dos alunos/membros internos, com geração de relatórios de faltas, e relatórios sobre os alunos   |
+| Organização e centralização do material didático disponibilizado aos alunos | Divulgação de material didático elaborado pelos professores participantes do projeto através do sistema, com a possibilidade de *download* para os alunos |
+| Controle e centralização da divulgação de notícias |O sistema será capaz de controlar o nível de acesso das notícias, quando necessário, retringindo os níveis de acesso a alunos ou membros internos. Também notificará os usuários sobre notícias mais recentes |
