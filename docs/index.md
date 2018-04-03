@@ -7,7 +7,7 @@ implementado como requisito parcial para aprovação na disciplina de Desenho de
 ministrada no curso de Engenharia de *Software* da Universidade de Brasília.
 
 
-![Projeto Cascata](../img/LogoVertical_Fbranca.png)  
+![Projeto Cascata](./img/LogoVertical_Fbranca.png)  
 
 |               **Nome**            |    **E-mail**     |    **Github**   |
 | :---------------------------: | :----------: |:----------:|
