@@ -206,3 +206,96 @@
     <td class="tg-us36"></td>
   </tr>
 </table>
+
+## E03 Gerenciamento de Disciplinas
+### E03FE01 Manter Disciplinas
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-ksxu{font-weight:bold;background-color:#0b5394;color:#ffffff;border-color:inherit}
+.tg .tg-us36{border-color:inherit;vertical-align:top}
+.tg .tg-qaq2{background-color:#3d85c6;color:#ffffff;border-color:inherit;vertical-align:top}
+.tg .tg-etgb{font-weight:bold;background-color:#0b5394;color:#ffffff;border-color:inherit;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-ksxu">ID</th>
+    <th class="tg-etgb">História de Usuário</th>
+    <th class="tg-etgb">Pontos</th>
+  </tr>
+  <tr>
+    <td class="tg-qaq2">US27</td>
+    <td class="tg-us36">Eu, como administrador, desejo criar uma disciplina para que os materiais desta disciplina estejam contidos dentro dela.</td>
+    <td class="tg-us36"></td>
+  </tr>
+  <tr>
+    <td class="tg-qaq2">US28</td>
+    <td class="tg-us36">Eu, como administrador, desejo criar uma frente para organizar a disciplina de acordo com as suas divisões.</td>
+    <td class="tg-us36"></td>
+  </tr>
+  <tr>
+    <td class="tg-qaq2">US29</td>
+    <td class="tg-us36">Eu, como administrador, desejo editar uma disciplina para que ela esteja atualizada e corrigida.</td>
+    <td class="tg-us36"></td>
+  </tr>
+  <tr>
+    <td class="tg-qaq2">US30</td>
+    <td class="tg-us36">Eu, como administrador, desejo editar uma frente para que ela esteja atualizada e corrigida.</td>
+    <td class="tg-us36"></td>
+  </tr>
+  <tr>
+    <td class="tg-qaq2">US31</td>
+    <td class="tg-us36">Eu, como administrador, desejo remover uma disciplina para que uma disciplina que esteja fora do contexto do projeto não esteja mais cadastrada no sistema.</td>
+    <td class="tg-us36"></td>
+  </tr>
+  <tr>
+    <td class="tg-qaq2">US32</td>
+    <td class="tg-us36">Eu, como administrador, desejo remover uma frente para que uma frente que esteja fora do contexto do projeto não esteja mais cadastrada no sistema.</td>
+    <td class="tg-us36"></td>
+  </tr>
+  <tr>
+    <td class="tg-qaq2">US33</td>
+    <td class="tg-us36">Eu, como usuário, desejo ver uma tela com as disciplinas ministradas para ter acesso aos seus materiais.</td>
+    <td class="tg-us36"></td>
+  </tr>
+</table>
+
+### E03FE02 Manter Materiais
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-ksxu{font-weight:bold;background-color:#0b5394;color:#ffffff;border-color:inherit}
+.tg .tg-us36{border-color:inherit;vertical-align:top}
+.tg .tg-qaq2{background-color:#3d85c6;color:#ffffff;border-color:inherit;vertical-align:top}
+.tg .tg-etgb{font-weight:bold;background-color:#0b5394;color:#ffffff;border-color:inherit;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-ksxu">ID</th>
+    <th class="tg-etgb">História de Usuário</th>
+    <th class="tg-etgb">Pontos</th>
+  </tr>
+  <tr>
+    <td class="tg-qaq2">US34</td>
+    <td class="tg-us36">Eu, como usuário, desejo ver uma tela com os materiais das frentes para baixar os materiais.</td>
+    <td class="tg-us36"></td>
+  </tr>
+  <tr>
+    <td class="tg-qaq2">US35</td>
+    <td class="tg-us36">Eu, como professor, desejo publicar um material da minha disciplina para que os alunos possam baixá-lo.</td>
+    <td class="tg-us36"></td>
+  </tr>
+  <tr>
+    <td class="tg-qaq2">US36</td>
+    <td class="tg-us36">Eu, como membro do Conteúdo, desejo publicar um material em uma disciplina para que os alunos possam baixá-lo.</td>
+    <td class="tg-us36"></td>
+  </tr>
+  <tr>
+    <td class="tg-qaq2">US37</td>
+    <td class="tg-us36">Eu, como autor de material, desejo apagar um material para dispensar um material publicado equivocadamente.</td>
+    <td class="tg-us36"></td>
+  </tr>
+</table>
