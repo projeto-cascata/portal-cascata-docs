@@ -57,13 +57,28 @@
         },
         {
             "location": "/requisitos/requisitos/",
-            "text": "Engenharia de Requisitos",
+            "text": "Engenharia de Requisitos\n\n\nHist\u00f3rico de Revis\u00e3o\n\n\n\n\n\n\n\n\nData\n\n\nVers\u00e3o\n\n\nDescri\u00e7\u00e3o\n\n\nAutor(es)\n\n\n\n\n\n\n\n\n\n\n03/04/2018\n\n\n1.0\n\n\nElabora\u00e7\u00e3o do Documento\n\n\nHal\u00ea\n\n\n\n\n\n\n\n\n\n\nIntrodu\u00e7\u00e3o\n\n\nRequisitos s\u00e3o as bases para todo projeto, definindo o que as partes interessadas de um novo sistema necessitam e tamb\u00e9m o que o sistema deve fazer para satisfazer as suas necessidades. Os requisitos guiam as atividades do projeto e normalmente s\u00e3o expressos em linguagem natural para que todos possam obter o entendimento.\n\n\nAl\u00e9m dos requisitos definirem os problemas e solu\u00e7\u00f5es tamb\u00e9m devemos definir os riscos e prover solu\u00e7\u00f5es satisfat\u00f3rias casos esses riscos venham a falhar. Dessa forma, os requisitos definem as bases para o planejamento do projeto, para o gerenciamento de riscos, os testes de aceita\u00e7\u00e3o e tamb\u00e9m para o controle de mudan\u00e7as.\n\n\nDessa forma, podemos afirmar que a engenharia de requisitos \u00e9 um processo que engloba todas as atividades que contribuem para a produ\u00e7\u00e3o de um documento de requisitos e sua manuten\u00e7\u00e3o ao longo do tempo. Portanto, \u00e9 o processo pelo qual os requisitos de um produto de software s\u00e3o coletados, analisados, documentados e gerenciados ao longo de todo o ciclo de vida do software.\n\n\nRefer\u00eancias\n\n\n[1] PRESSMAN, Roger, Engenharia de Software, McGraw-Hill, 6\u00aa edi\u00e7\u00e3o, 2006.",
             "title": "Introdu\u00e7\u00e3o"
         },
         {
             "location": "/requisitos/requisitos/#engenharia-de-requisitos",
             "text": "",
             "title": "Engenharia de Requisitos"
+        },
+        {
+            "location": "/requisitos/requisitos/#historico-de-revisao",
+            "text": "Data  Vers\u00e3o  Descri\u00e7\u00e3o  Autor(es)      03/04/2018  1.0  Elabora\u00e7\u00e3o do Documento  Hal\u00ea",
+            "title": "Hist\u00f3rico de Revis\u00e3o"
+        },
+        {
+            "location": "/requisitos/requisitos/#introducao",
+            "text": "Requisitos s\u00e3o as bases para todo projeto, definindo o que as partes interessadas de um novo sistema necessitam e tamb\u00e9m o que o sistema deve fazer para satisfazer as suas necessidades. Os requisitos guiam as atividades do projeto e normalmente s\u00e3o expressos em linguagem natural para que todos possam obter o entendimento.  Al\u00e9m dos requisitos definirem os problemas e solu\u00e7\u00f5es tamb\u00e9m devemos definir os riscos e prover solu\u00e7\u00f5es satisfat\u00f3rias casos esses riscos venham a falhar. Dessa forma, os requisitos definem as bases para o planejamento do projeto, para o gerenciamento de riscos, os testes de aceita\u00e7\u00e3o e tamb\u00e9m para o controle de mudan\u00e7as.  Dessa forma, podemos afirmar que a engenharia de requisitos \u00e9 um processo que engloba todas as atividades que contribuem para a produ\u00e7\u00e3o de um documento de requisitos e sua manuten\u00e7\u00e3o ao longo do tempo. Portanto, \u00e9 o processo pelo qual os requisitos de um produto de software s\u00e3o coletados, analisados, documentados e gerenciados ao longo de todo o ciclo de vida do software.",
+            "title": "Introdu\u00e7\u00e3o"
+        },
+        {
+            "location": "/requisitos/requisitos/#referencias",
+            "text": "[1] PRESSMAN, Roger, Engenharia de Software, McGraw-Hill, 6\u00aa edi\u00e7\u00e3o, 2006.",
+            "title": "Refer\u00eancias"
         },
         {
             "location": "/requisitos/richpicture/",
@@ -102,7 +117,7 @@
         },
         {
             "location": "/requisitos/5w2h/",
-            "text": "p { text-align: justify; text-indent: 30px; } \n\n\n\n5W2H - Projeto Cascata\n\n\nHist\u00f3rico de Revis\u00e3o\n\n\n\n\n\n\n\n\nData\n\n\nVers\u00e3o\n\n\nDescri\u00e7\u00e3o\n\n\nAutor(es)\n\n\n\n\n\n\n\n\n\n\n21/03/2018\n\n\n1.0\n\n\nElabora\u00e7\u00e3o do Documento\n\n\nHal\u00ea, Mariana\n\n\n\n\n\n\n\n\n\n\n5W2H\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat\n\n\nDesenvolver um sistema para os participantes do Projeto Cascata. Esta funcionar\u00e1 como uma plataforma de ensino, fornecendo acesso \u00e0 materiais did\u00e1ticos e acompanhamento pedag\u00f3gico.\n\n\n\n\n\n\nWhy\n\n\nPara facilitar aos membros internos a disponibiliza\u00e7\u00e3o de conte\u00fado, o controle de frequ\u00eancia, da parte dos participantes, e o acesso dos alunos aos materiais.\n\n\n\n\n\n\nWho\n\n\nO grupo 5, da disciplina Arquitetura e Desenho de Software, ser\u00e1 respons\u00e1vel pelo projeto.\n\n\n\n\n\n\nWhere\n\n\nUniversidade de Bras\u00edlia, Campus Gama.\n\n\n\n\n\n\nWhen\n\n\nNo decorrer da disciplina de Arquitetura e Desenho de Software, durante o primeiro semestre de 2018.\n\n\n\n\n\n\nHow\n\n\nCria\u00e7\u00e3o do sistema utilizando as pr\u00e1ticas mais adequadas de arquitetura e projetos aprendidas em sala de aula.\n\n\n\n\n\n\nHow Much\n\n\nCustos ainda ser\u00e3o apurados.\n\n\n\n\n\n\n\n\nRefer\u00eancias\n\n\n\n\n5W2H - PLANO DE A\u00c7\u00c3O PARA EMPREENDEDORES. Dispon\u00edvel em: \nhttps://m.sebrae.com.br/Sebrae/Portal%20Sebrae/Anexos/5W2H.pdf\n. Acesso em 21 de mar\u00e7o de 2018.",
+            "text": "p { text-align: justify; text-indent: 30px; } \n\n\n\n5W2H - Projeto Cascata\n\n\nHist\u00f3rico de Revis\u00e3o\n\n\n\n\n\n\n\n\nData\n\n\nVers\u00e3o\n\n\nDescri\u00e7\u00e3o\n\n\nAutor(es)\n\n\n\n\n\n\n\n\n\n\n21/03/2018\n\n\n1.0\n\n\nElabora\u00e7\u00e3o do Documento\n\n\nHal\u00ea, Mariana\n\n\n\n\n\n\n03/04/2018\n\n\n1.1\n\n\nAdi\u00e7\u00e3o de Texto Introdut\u00f3rio\n\n\nHal\u00ea\n\n\n\n\n\n\n\n\n\n\nIntrodu\u00e7\u00e3o\n\n\nO 5W2H \u00e9 uma ferramenta administrativa que pode ser utilizada em qualquer empresa quando existe um objetivo a ser alcan\u00e7ado de forma organizada e planejada, descriminando como ser\u00e3o realizadas as a\u00e7\u00f5es, porqu\u00ea, por quem, quando, onde e quanto ir\u00e1 custar para a empresa.\n\n\nPlanilha\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat\n\n\nDesenvolver um sistema para os participantes do Projeto Cascata. Esta funcionar\u00e1 como uma plataforma de ensino, fornecendo acesso \u00e0 materiais did\u00e1ticos e acompanhamento pedag\u00f3gico.\n\n\n\n\n\n\nWhy\n\n\nPara facilitar aos membros internos a disponibiliza\u00e7\u00e3o de conte\u00fado, o controle de frequ\u00eancia, da parte dos participantes, e o acesso dos alunos aos materiais.\n\n\n\n\n\n\nWho\n\n\nO grupo 5, da disciplina Arquitetura e Desenho de Software, ser\u00e1 respons\u00e1vel pelo projeto.\n\n\n\n\n\n\nWhere\n\n\nUniversidade de Bras\u00edlia, Campus Gama.\n\n\n\n\n\n\nWhen\n\n\nNo decorrer da disciplina de Arquitetura e Desenho de Software, durante o primeiro semestre de 2018.\n\n\n\n\n\n\nHow\n\n\nCria\u00e7\u00e3o do sistema utilizando as pr\u00e1ticas mais adequadas de arquitetura e projetos aprendidas em sala de aula.\n\n\n\n\n\n\nHow Much\n\n\nCustos ainda ser\u00e3o apurados.\n\n\n\n\n\n\n\n\nRefer\u00eancias\n\n\n\n\n\n\n5W2H - PLANO DE A\u00c7\u00c3O PARA EMPREENDEDORES. Dispon\u00edvel em: \nhttps://m.sebrae.com.br/Sebrae/Portal%20Sebrae/Anexos/5W2H.pdf\n. Acesso em 21 de mar\u00e7o de 2018.\n\n\n\n\n\n\nPlanilha 5W2H \u2013 O QUE \u00c9, COMO FAZER E QUANDO UTILIZAR. Dispon\u00edvel em: \nhttps://www.prolucroconsultoria.com.br/blog/planilha-5w2h-o-que-e-como-fazer-e-quando-utilizar/\n. Acesso em 3 de abril de 2018.",
             "title": "5W2H"
         },
         {
@@ -112,17 +127,22 @@
         },
         {
             "location": "/requisitos/5w2h/#historico-de-revisao",
-            "text": "Data  Vers\u00e3o  Descri\u00e7\u00e3o  Autor(es)      21/03/2018  1.0  Elabora\u00e7\u00e3o do Documento  Hal\u00ea, Mariana",
+            "text": "Data  Vers\u00e3o  Descri\u00e7\u00e3o  Autor(es)      21/03/2018  1.0  Elabora\u00e7\u00e3o do Documento  Hal\u00ea, Mariana    03/04/2018  1.1  Adi\u00e7\u00e3o de Texto Introdut\u00f3rio  Hal\u00ea",
             "title": "Hist\u00f3rico de Revis\u00e3o"
         },
         {
-            "location": "/requisitos/5w2h/#5w2h",
+            "location": "/requisitos/5w2h/#introducao",
+            "text": "O 5W2H \u00e9 uma ferramenta administrativa que pode ser utilizada em qualquer empresa quando existe um objetivo a ser alcan\u00e7ado de forma organizada e planejada, descriminando como ser\u00e3o realizadas as a\u00e7\u00f5es, porqu\u00ea, por quem, quando, onde e quanto ir\u00e1 custar para a empresa.",
+            "title": "Introdu\u00e7\u00e3o"
+        },
+        {
+            "location": "/requisitos/5w2h/#planilha",
             "text": "What  Desenvolver um sistema para os participantes do Projeto Cascata. Esta funcionar\u00e1 como uma plataforma de ensino, fornecendo acesso \u00e0 materiais did\u00e1ticos e acompanhamento pedag\u00f3gico.    Why  Para facilitar aos membros internos a disponibiliza\u00e7\u00e3o de conte\u00fado, o controle de frequ\u00eancia, da parte dos participantes, e o acesso dos alunos aos materiais.    Who  O grupo 5, da disciplina Arquitetura e Desenho de Software, ser\u00e1 respons\u00e1vel pelo projeto.    Where  Universidade de Bras\u00edlia, Campus Gama.    When  No decorrer da disciplina de Arquitetura e Desenho de Software, durante o primeiro semestre de 2018.    How  Cria\u00e7\u00e3o do sistema utilizando as pr\u00e1ticas mais adequadas de arquitetura e projetos aprendidas em sala de aula.    How Much  Custos ainda ser\u00e3o apurados.",
-            "title": "5W2H"
+            "title": "Planilha"
         },
         {
             "location": "/requisitos/5w2h/#referencias",
-            "text": "5W2H - PLANO DE A\u00c7\u00c3O PARA EMPREENDEDORES. Dispon\u00edvel em:  https://m.sebrae.com.br/Sebrae/Portal%20Sebrae/Anexos/5W2H.pdf . Acesso em 21 de mar\u00e7o de 2018.",
+            "text": "5W2H - PLANO DE A\u00c7\u00c3O PARA EMPREENDEDORES. Dispon\u00edvel em:  https://m.sebrae.com.br/Sebrae/Portal%20Sebrae/Anexos/5W2H.pdf . Acesso em 21 de mar\u00e7o de 2018.    Planilha 5W2H \u2013 O QUE \u00c9, COMO FAZER E QUANDO UTILIZAR. Dispon\u00edvel em:  https://www.prolucroconsultoria.com.br/blog/planilha-5w2h-o-que-e-como-fazer-e-quando-utilizar/ . Acesso em 3 de abril de 2018.",
             "title": "Refer\u00eancias"
         },
         {
@@ -177,7 +197,7 @@
         },
         {
             "location": "/requisitos/istar/",
-            "text": "I* - Modelagem Intencional\n\n\nHist\u00f3rico de Revis\u00f5es\n\n\n\n\n\n\n\n\nData\n\n\nVers\u00e3o\n\n\nDescri\u00e7\u00e3o\n\n\nAutor(es)\n\n\n\n\n\n\n\n\n\n\n01/04/2018\n\n\n1.0\n\n\nCria\u00e7\u00e3o da p\u00e1gina e adi\u00e7\u00e3o da descri\u00e7\u00e3o e refer\u00eancias\n\n\nLet\u00edcia\n\n\n\n\n\n\n\n\nO termo I* refere-se ao conceito de intencionalidade distribu\u00edda, sendo assim, esse framework prop\u00f5e uma abordagem orientada a agentes para a engenharia de requisitos, centrando-se nas caracter\u00edsticas intencionais do agente. Os agentes atribuem propriedades intencionais entre si e racionam sobre relacionamentos estrat\u00e9gicos. As depend\u00eancias entre os agentes geram oportunidades e vulnerabilidades. As depend\u00eancias s\u00e3o analisadas usando uma abordagem de racioc\u00ednio qualitativo. Os agentes consideram configura\u00e7\u00f5es alternativas de depend\u00eancias para avaliar seu posicionamento estrat\u00e9gico  em um contexto.\n\n\ni* - Strategic Dependency Model - SD\n\n\n\n\nSD Principal\n\n\n\n\ni* - Strategic Rationale Model - SR\n\n\n\n\nRefer\u00eancias\n\n\n1.CS Toronto. i* an agent- and goal-oriented modelling framework. Dispon\u00edvel Aqui. Acesso em: 1 de outubro de 2017.",
+            "text": "I* - Modelagem Intencional\n\n\nHist\u00f3rico de Revis\u00f5es\n\n\n\n\n\n\n\n\nData\n\n\nVers\u00e3o\n\n\nDescri\u00e7\u00e3o\n\n\nAutor(es)\n\n\n\n\n\n\n\n\n\n\n01/04/2018\n\n\n1.0\n\n\nCria\u00e7\u00e3o da p\u00e1gina e adi\u00e7\u00e3o da descri\u00e7\u00e3o e refer\u00eancias\n\n\nLet\u00edcia\n\n\n\n\n\n\n02/04/2018\n\n\n1.1\n\n\nAdi\u00e7\u00e3o do Strategic Rationale Model\n\n\nLet\u00edcia\n\n\n\n\n\n\n\n\nO termo I* refere-se ao conceito de intencionalidade distribu\u00edda, sendo assim, esse framework prop\u00f5e uma abordagem orientada a agentes para a engenharia de requisitos, centrando-se nas caracter\u00edsticas intencionais do agente. Os agentes atribuem propriedades intencionais entre si e racionam sobre relacionamentos estrat\u00e9gicos. As depend\u00eancias entre os agentes geram oportunidades e vulnerabilidades. As depend\u00eancias s\u00e3o analisadas usando uma abordagem de racioc\u00ednio qualitativo. Os agentes consideram configura\u00e7\u00f5es alternativas de depend\u00eancias para avaliar seu posicionamento estrat\u00e9gico  em um contexto.\n\n\ni* - Strategic Rationale Model - SR\n\n\n\n\nRefer\u00eancias\n\n\n1.CS Toronto. i* an agent- and goal-oriented modelling framework. Dispon\u00edvel Aqui. Acesso em: 1 de outubro de 2017.\n\n\n\n\n[Open Acess] Leite, Julio Cesar Sampaio do Prado. Livro Vivo- Engenharia de Requisitos. http://livrodeengenhariaderequisitos.blogspot.com.br/ (\u00fatimo acesso: 2018)",
             "title": "I*"
         },
         {
@@ -187,18 +207,8 @@
         },
         {
             "location": "/requisitos/istar/#historico-de-revisoes",
-            "text": "Data  Vers\u00e3o  Descri\u00e7\u00e3o  Autor(es)      01/04/2018  1.0  Cria\u00e7\u00e3o da p\u00e1gina e adi\u00e7\u00e3o da descri\u00e7\u00e3o e refer\u00eancias  Let\u00edcia     O termo I* refere-se ao conceito de intencionalidade distribu\u00edda, sendo assim, esse framework prop\u00f5e uma abordagem orientada a agentes para a engenharia de requisitos, centrando-se nas caracter\u00edsticas intencionais do agente. Os agentes atribuem propriedades intencionais entre si e racionam sobre relacionamentos estrat\u00e9gicos. As depend\u00eancias entre os agentes geram oportunidades e vulnerabilidades. As depend\u00eancias s\u00e3o analisadas usando uma abordagem de racioc\u00ednio qualitativo. Os agentes consideram configura\u00e7\u00f5es alternativas de depend\u00eancias para avaliar seu posicionamento estrat\u00e9gico  em um contexto.",
+            "text": "Data  Vers\u00e3o  Descri\u00e7\u00e3o  Autor(es)      01/04/2018  1.0  Cria\u00e7\u00e3o da p\u00e1gina e adi\u00e7\u00e3o da descri\u00e7\u00e3o e refer\u00eancias  Let\u00edcia    02/04/2018  1.1  Adi\u00e7\u00e3o do Strategic Rationale Model  Let\u00edcia     O termo I* refere-se ao conceito de intencionalidade distribu\u00edda, sendo assim, esse framework prop\u00f5e uma abordagem orientada a agentes para a engenharia de requisitos, centrando-se nas caracter\u00edsticas intencionais do agente. Os agentes atribuem propriedades intencionais entre si e racionam sobre relacionamentos estrat\u00e9gicos. As depend\u00eancias entre os agentes geram oportunidades e vulnerabilidades. As depend\u00eancias s\u00e3o analisadas usando uma abordagem de racioc\u00ednio qualitativo. Os agentes consideram configura\u00e7\u00f5es alternativas de depend\u00eancias para avaliar seu posicionamento estrat\u00e9gico  em um contexto.",
             "title": "Hist\u00f3rico de Revis\u00f5es"
-        },
-        {
-            "location": "/requisitos/istar/#i-strategic-dependency-model-sd",
-            "text": "",
-            "title": "i* - Strategic Dependency Model - SD"
-        },
-        {
-            "location": "/requisitos/istar/#sd-principal",
-            "text": "",
-            "title": "SD Principal"
         },
         {
             "location": "/requisitos/istar/#i-strategic-rationale-model-sr",
@@ -207,7 +217,7 @@
         },
         {
             "location": "/requisitos/istar/#referencias",
-            "text": "1.CS Toronto. i* an agent- and goal-oriented modelling framework. Dispon\u00edvel Aqui. Acesso em: 1 de outubro de 2017.",
+            "text": "1.CS Toronto. i* an agent- and goal-oriented modelling framework. Dispon\u00edvel Aqui. Acesso em: 1 de outubro de 2017.   [Open Acess] Leite, Julio Cesar Sampaio do Prado. Livro Vivo- Engenharia de Requisitos. http://livrodeengenhariaderequisitos.blogspot.com.br/ (\u00fatimo acesso: 2018)",
             "title": "Refer\u00eancias"
         },
         {
@@ -232,7 +242,7 @@
         },
         {
             "location": "/requisitos/elicitacao/elicitacao/",
-            "text": "Elicita\u00e7\u00e3o de Requisitos\n\n\nA descoberta ou elicita\u00e7\u00e3o de requisitos \u00e9 o processo atrav\u00e9s do qual se re\u00fanem informa\u00e7\u00f5es sobre o sistema requerido e os sistemas existentes e se separam dessas informa\u00e7\u00f5es os requisitos de usu\u00e1rio e do sistema (SOMMERVILLE, 2011)\n[1]\n. De acordo com o a 3\u00aa edi\u00e7\u00e3o do Guia SWEBOK\n[2]\n, \u00e9 uma atividade fundamentalmente humana, onde se identificam os \nstakeholders\n e se estabelecem as rela\u00e7\u00f5es entre o time de desenvolvimento e o cliente. Para isso, \u00e9 necess\u00e1ria comunica\u00e7\u00e3o efetiva entre as diversas partes interessadas no projeto.\n\n\nExiste uma grande variedade de t\u00e9cnicas especializadas para o processo de elicita\u00e7\u00e3o de requisitos. Cada uma possui abordagens espec\u00edficas e \u00e9 interessante que se fa\u00e7a uso de mais de uma t\u00e9cnica, de forma a se obter um amplo n\u00famero de pontos de vista das partes interessadas e afetadas pelo sistema. Existe ampla literatura sobre essas t\u00e9cnicas, sendo algumas das mais comuns (IEEE, 2004)\n[2]\n (GOUGEN and LINDE, 1993)\n[3]\n :\n\n\n\n\nIntrospec\u00e7\u00e3o\n\n\nObserva\u00e7\u00e3o\n\n\nEntrevistas\n\n\nQuestion\u00e1rios\n\n\nAn\u00e1lise de Protocolo e Discurso\n\n\nBrainstorming\n\n\nPrototipa\u00e7\u00e3o\n\n\n\n\nCabe ao Engenheiro de Requisitos avaliar e determinar quais t\u00e9cnicas s\u00e3o mais adequadas de se aplicar dado o contexto de um determinado projeto.\nPara a elicita\u00e7\u00e3o do Portal Cascata, foram escolhidas as t\u00e9cnicas de Entrevista, An\u00e1lise de Protocolo e Prototipa\u00e7\u00e3o, detalhadas a seguir.\n\n\nEntrevistas\n\n\nDe acordo com Sommervile\n[1]\n, entrevistas s\u00e3o parte da maioria dos processos de engenharia de requisitos e s\u00e3o uma boa forma de se obter uma compreens\u00e3o global sobre as a\u00e7\u00f5es dos \nstakeholders\n, as dificuldades enfrentadas pelos mesmos e de que forma eles poder\u00e3o interagir com o novo sistema. As entrevistas podem ser de dois tipos:\n\n\n\n\nFechadas, em que o conjunto e ordem de perguntas \u00e9 estabelecido previamente.\n\n\nAbertas, onde n\u00e3o h\u00e1 uma agenda predefinida, e as quest\u00f5es s\u00e3o exploradas durante a pr\u00f3pria entrevista.\n\n\n\n\nA abordagem escolhida pela equipe foi um misto destes dois formatos, com algumas perguntas predefinidas mas ao mesmo tempo proporcionando abertura para novos questionamentos durante a execu\u00e7\u00e3o da entrevista. \n\n\nForam realizadas diversas entrevistas com membros de setores variados do Projeto, de forma a se obter um n\u00famero maior de perspectivas diferentes sobre o contexto e a solu\u00e7\u00e3o a se desenvolver. As mesmas podem ser acessadas na \u00edntegra \naqui\n.\n\n\nAn\u00e1lise de Protocolo\n\n\n[Adicionar texto e links]\n\n\nPrototipa\u00e7\u00e3o\n\n\n[Adicionar texto e links]\n\n\nRefer\u00eancias\n\n\n\n\n[1] SOMMERVILLE, I., Engenharia de Software, 9\u00aa Edi\u00e7\u00e3o. S\u00e3o Paulo: Pearson Prentice Hall, 2011.\n\n\n[2] IEEE. Swebok v.3. 2004.\n\n\n[3] GOGUEN, Joseph A.; LINDE, Charlotte. Techniques for requirements elicitation. Requirements Engineering, 1993., Proceedings of IEEE International Symposium on. IEEE, 1993.",
+            "text": "Elicita\u00e7\u00e3o de Requisitos\n\n\nA descoberta ou elicita\u00e7\u00e3o de requisitos \u00e9 o processo atrav\u00e9s do qual se re\u00fanem informa\u00e7\u00f5es sobre o sistema requerido e os sistemas existentes e se separam dessas informa\u00e7\u00f5es os requisitos de usu\u00e1rio e do sistema (SOMMERVILLE, 2011)\n[1]\n. De acordo com o a 3\u00aa edi\u00e7\u00e3o do Guia SWEBOK\n[2]\n, \u00e9 uma atividade fundamentalmente humana, onde se identificam os \nstakeholders\n e se estabelecem as rela\u00e7\u00f5es entre o time de desenvolvimento e o cliente. Para isso, \u00e9 necess\u00e1ria comunica\u00e7\u00e3o efetiva entre as diversas partes interessadas no projeto.\n\n\nExiste uma grande variedade de t\u00e9cnicas especializadas para o processo de elicita\u00e7\u00e3o de requisitos. Cada uma possui abordagens espec\u00edficas e \u00e9 interessante que se fa\u00e7a uso de mais de uma t\u00e9cnica, de forma a se obter um amplo n\u00famero de pontos de vista das partes interessadas e afetadas pelo sistema. Existe ampla literatura sobre essas t\u00e9cnicas, sendo algumas das mais comuns (IEEE, 2004)\n[2]\n (GOUGEN and LINDE, 1993)\n[3]\n :\n\n\n\n\nIntrospec\u00e7\u00e3o\n\n\nObserva\u00e7\u00e3o\n\n\nEntrevistas\n\n\nQuestion\u00e1rios\n\n\nAn\u00e1lise de Protocolo e Discurso\n\n\nBrainstorming\n\n\nPrototipa\u00e7\u00e3o\n\n\n\n\nCabe ao Engenheiro de Requisitos avaliar e determinar quais t\u00e9cnicas s\u00e3o mais adequadas de se aplicar dado o contexto de um determinado projeto.\nPara a elicita\u00e7\u00e3o do Portal Cascata, foram escolhidas as t\u00e9cnicas de Entrevista, An\u00e1lise de Protocolo e Prototipa\u00e7\u00e3o, detalhadas a seguir.\n\n\nEntrevistas\n\n\nDe acordo com Sommervile\n[1]\n, entrevistas s\u00e3o parte da maioria dos processos de engenharia de requisitos e s\u00e3o uma boa forma de se obter uma compreens\u00e3o global sobre as a\u00e7\u00f5es dos \nstakeholders\n, as dificuldades enfrentadas pelos mesmos e de que forma eles poder\u00e3o interagir com o novo sistema. As entrevistas podem ser de dois tipos:\n\n\n\n\nFechadas, em que o conjunto e ordem de perguntas \u00e9 estabelecido previamente.\n\n\nAbertas, onde n\u00e3o h\u00e1 uma agenda predefinida, e as quest\u00f5es s\u00e3o exploradas durante a pr\u00f3pria entrevista.\n\n\n\n\nA abordagem escolhida pela equipe foi um misto destes dois formatos, com algumas perguntas predefinidas mas ao mesmo tempo proporcionando abertura para novos questionamentos durante a execu\u00e7\u00e3o da entrevista.\n\n\nForam realizadas diversas entrevistas com membros de setores variados do Projeto, de forma a se obter um n\u00famero maior de perspectivas diferentes sobre o contexto e a solu\u00e7\u00e3o a se desenvolver. Estas podem ser acessadas na \u00edntegra \naqui\n.\n\n\nAn\u00e1lise de Protocolo\n\n\nA an\u00e1lise de protocolo \u00e9 uma t\u00e9cnica criada no contexto da constru\u00e7\u00e3o de sistemas especialistas com o objetivo de elicitar a performance do especialista, isto \u00e9, elicitar o modo como o especialista se comporta diante de uma determinada situa\u00e7\u00e3o.  A t\u00e9cnica \u00e9 aplicada juntando-se a observa\u00e7\u00e3o da performance do especialista e solicitando-se que o mesmo descreva o que est\u00e1 sendo feito. Para acessar a an\u00e1lise de protocolo do Projeto Cascata, clique \naqui\n.\n\n\nPrototipa\u00e7\u00e3o\n\n\nA cria\u00e7\u00e3o de modelos representativos permite demonstrar como um produto ou servi\u00e7o deveria funcionar na pr\u00e1tica e validar hip\u00f3teses junto aos usu\u00e1rios. Ao criar essa demonstra\u00e7\u00e3o, a equipe esclarece e afunila suas ideias, em uma troca cont\u00ednua de insights. Para visualizar os prot\u00f3tipos desenvolvidos, clique \naqui\n.\n\n\nRefer\u00eancias\n\n\n\n\n[1] SOMMERVILLE, I., Engenharia de Software, 9\u00aa Edi\u00e7\u00e3o. S\u00e3o Paulo: Pearson Prentice Hall, 2011.\n\n\n[2] IEEE. Swebok v.3. 2004.\n\n\n[3] GOGUEN, Joseph A.; LINDE, Charlotte. Techniques for requirements elicitation. Requirements Engineering, 1993., Proceedings of IEEE International Symposium on. IEEE, 1993.",
             "title": "Introdu\u00e7\u00e3o"
         },
         {
@@ -242,17 +252,17 @@
         },
         {
             "location": "/requisitos/elicitacao/elicitacao/#entrevistas",
-            "text": "De acordo com Sommervile [1] , entrevistas s\u00e3o parte da maioria dos processos de engenharia de requisitos e s\u00e3o uma boa forma de se obter uma compreens\u00e3o global sobre as a\u00e7\u00f5es dos  stakeholders , as dificuldades enfrentadas pelos mesmos e de que forma eles poder\u00e3o interagir com o novo sistema. As entrevistas podem ser de dois tipos:   Fechadas, em que o conjunto e ordem de perguntas \u00e9 estabelecido previamente.  Abertas, onde n\u00e3o h\u00e1 uma agenda predefinida, e as quest\u00f5es s\u00e3o exploradas durante a pr\u00f3pria entrevista.   A abordagem escolhida pela equipe foi um misto destes dois formatos, com algumas perguntas predefinidas mas ao mesmo tempo proporcionando abertura para novos questionamentos durante a execu\u00e7\u00e3o da entrevista.   Foram realizadas diversas entrevistas com membros de setores variados do Projeto, de forma a se obter um n\u00famero maior de perspectivas diferentes sobre o contexto e a solu\u00e7\u00e3o a se desenvolver. As mesmas podem ser acessadas na \u00edntegra  aqui .",
+            "text": "De acordo com Sommervile [1] , entrevistas s\u00e3o parte da maioria dos processos de engenharia de requisitos e s\u00e3o uma boa forma de se obter uma compreens\u00e3o global sobre as a\u00e7\u00f5es dos  stakeholders , as dificuldades enfrentadas pelos mesmos e de que forma eles poder\u00e3o interagir com o novo sistema. As entrevistas podem ser de dois tipos:   Fechadas, em que o conjunto e ordem de perguntas \u00e9 estabelecido previamente.  Abertas, onde n\u00e3o h\u00e1 uma agenda predefinida, e as quest\u00f5es s\u00e3o exploradas durante a pr\u00f3pria entrevista.   A abordagem escolhida pela equipe foi um misto destes dois formatos, com algumas perguntas predefinidas mas ao mesmo tempo proporcionando abertura para novos questionamentos durante a execu\u00e7\u00e3o da entrevista.  Foram realizadas diversas entrevistas com membros de setores variados do Projeto, de forma a se obter um n\u00famero maior de perspectivas diferentes sobre o contexto e a solu\u00e7\u00e3o a se desenvolver. Estas podem ser acessadas na \u00edntegra  aqui .",
             "title": "Entrevistas"
         },
         {
             "location": "/requisitos/elicitacao/elicitacao/#analise-de-protocolo",
-            "text": "[Adicionar texto e links]",
+            "text": "A an\u00e1lise de protocolo \u00e9 uma t\u00e9cnica criada no contexto da constru\u00e7\u00e3o de sistemas especialistas com o objetivo de elicitar a performance do especialista, isto \u00e9, elicitar o modo como o especialista se comporta diante de uma determinada situa\u00e7\u00e3o.  A t\u00e9cnica \u00e9 aplicada juntando-se a observa\u00e7\u00e3o da performance do especialista e solicitando-se que o mesmo descreva o que est\u00e1 sendo feito. Para acessar a an\u00e1lise de protocolo do Projeto Cascata, clique  aqui .",
             "title": "An\u00e1lise de Protocolo"
         },
         {
             "location": "/requisitos/elicitacao/elicitacao/#prototipacao",
-            "text": "[Adicionar texto e links]",
+            "text": "A cria\u00e7\u00e3o de modelos representativos permite demonstrar como um produto ou servi\u00e7o deveria funcionar na pr\u00e1tica e validar hip\u00f3teses junto aos usu\u00e1rios. Ao criar essa demonstra\u00e7\u00e3o, a equipe esclarece e afunila suas ideias, em uma troca cont\u00ednua de insights. Para visualizar os prot\u00f3tipos desenvolvidos, clique  aqui .",
             "title": "Prototipa\u00e7\u00e3o"
         },
         {
@@ -476,19 +486,239 @@
             "title": "Processo Seltivo"
         },
         {
-            "location": "/cronograma/",
+            "location": "/gerenciamento/cronograma/",
             "text": "Hist\u00f3rico de Revis\u00f5es\n\n\n\n\n\n\n\n\nData\n\n\nVers\u00e3o\n\n\nDescri\u00e7\u00e3o\n\n\nAutor(es)\n\n\n\n\n\n\n\n\n\n\n23/03/2018\n\n\n1.0\n\n\nCria\u00e7\u00e3o do corpo do Cronograma\n\n\nLet\u00edcia de Souza\n\n\n\n\n\n\n27/03/2018\n\n\n1.2\n\n\nPreenchimento do Cronograma\n\n\nLet\u00edcia, Bruna, Felipe, Mariana, Clarissa, Hal\u00ea, Bernardo\n\n\n\n\n\n\n\n\n\n\nCronograma do Projeto\n\n\n\n\n\n\n\n\nDescri\u00e7\u00e3o\n\n\nDatas\n\n\n\n\n\n\n\n\n\n\nDefinir Metodologia\n\n\n12/03\n\n\n\n\n\n\nDefinir Artefatos\n\n\n16/03\n\n\n\n\n\n\nJustificativa Metodol\u00f3gica\n\n\n18/03\n\n\n\n\n\n\nModelagem do Processo\n\n\n18/03\n\n\n\n\n\n\n5W2H\n\n\n22/03\n\n\n\n\n\n\nDiagrama de Ishikawa\n\n\n23/03\n\n\n\n\n\n\nEntrevistas\n\n\n24/03\n\n\n\n\n\n\nAn\u00e1lise de Protocolo\n\n\n24/03\n\n\n\n\n\n\nDefinir Perfis de Usu\u00e1rio\n\n\n25/03\n\n\n\n\n\n\nDocumento de Vis\u00e3o\n\n\n29/03\n\n\n\n\n\n\nRich Picture\n\n\n30/03\n\n\n\n\n\n\nDefinir a Tecnologia\n\n\n30/03\n\n\n\n\n\n\nFolha de Estilo\n\n\n30/03\n\n\n\n\n\n\nDiagrama de Classes\n\n\n01/04\n\n\n\n\n\n\nDiagrama de Sequ\u00eancia\n\n\n01/04\n\n\n\n\n\n\nDocumento de Arquitetura\n\n\n01/04\n\n\n\n\n\n\nIStar\n\n\n02/04\n\n\n\n\n\n\nNFR\n\n\n02/04\n\n\n\n\n\n\nProt\u00f3tipo de Alta Fidelidade\n\n\n03/04\n\n\n\n\n\n\nL\u00e9xico\n\n\n04/04\n\n\n\n\n\n\nCen\u00e1rio\n\n\nA definir\n\n\n\n\n\n\nEpic Backlog\n\n\n04/04\n\n\n\n\n\n\nRoadmap\n\n\n04/04",
             "title": "Cronograma"
         },
         {
-            "location": "/cronograma/#historico-de-revisoes",
+            "location": "/gerenciamento/cronograma/#historico-de-revisoes",
             "text": "Data  Vers\u00e3o  Descri\u00e7\u00e3o  Autor(es)      23/03/2018  1.0  Cria\u00e7\u00e3o do corpo do Cronograma  Let\u00edcia de Souza    27/03/2018  1.2  Preenchimento do Cronograma  Let\u00edcia, Bruna, Felipe, Mariana, Clarissa, Hal\u00ea, Bernardo",
             "title": "Hist\u00f3rico de Revis\u00f5es"
         },
         {
-            "location": "/cronograma/#cronograma-do-projeto",
+            "location": "/gerenciamento/cronograma/#cronograma-do-projeto",
             "text": "Descri\u00e7\u00e3o  Datas      Definir Metodologia  12/03    Definir Artefatos  16/03    Justificativa Metodol\u00f3gica  18/03    Modelagem do Processo  18/03    5W2H  22/03    Diagrama de Ishikawa  23/03    Entrevistas  24/03    An\u00e1lise de Protocolo  24/03    Definir Perfis de Usu\u00e1rio  25/03    Documento de Vis\u00e3o  29/03    Rich Picture  30/03    Definir a Tecnologia  30/03    Folha de Estilo  30/03    Diagrama de Classes  01/04    Diagrama de Sequ\u00eancia  01/04    Documento de Arquitetura  01/04    IStar  02/04    NFR  02/04    Prot\u00f3tipo de Alta Fidelidade  03/04    L\u00e9xico  04/04    Cen\u00e1rio  A definir    Epic Backlog  04/04    Roadmap  04/04",
             "title": "Cronograma do Projeto"
+        },
+        {
+            "location": "/gerenciamento/riscos/",
+            "text": "p { text-align: justify; text-indent: 30px; } \n\n\n\nGerenciamento de Riscos\n\n\n\n\n\n\n\n\nData\n\n\nVers\u00e3o\n\n\nDescri\u00e7\u00e3o\n\n\nAutor(es)\n\n\n\n\n\n\n\n\n\n\n02/04/2018\n\n\n0.1\n\n\nAbertuda do Documento, Introdu\u00e7\u00e3o, Estrutura de Riscos, Identificando os Riscos, Controle de Risco\n\n\nBernardo Henrique\n\n\n\n\n\n\n\n\n1. Introdu\u00e7\u00e3o\n\n\nEste artefato tem como objetivos identificar os riscos durante o andamento do Projeto Cascata. Estes ser\u00e3o apresentados, a an\u00e1lise ocorrer\u00e1 de forma qualitativa e quantitativa, apresentando as causas, solu\u00e7\u00f5es e  grau de impacto. Com estas an\u00e1lises, buscar\u00e1 mitigar os impactos destes riscos no projeto.\n\n\n\n\n2. Estrutura de Riscos\n\n\nOs riscos de um projeto pode ser separados em quatros grandes \u00e1reas, abaixo pode-se observar a EAR do projeto.\n\n\n  \n\n\n2.1 T\u00e9cnico\n\n\n\n\nTecnologias:\n Referente \u00e0s tecnologias e ferramentas utilizadas no projeto, como dificuldade de aprendizado da tecnologia.\n\n\nRequisitos:\n Referente aos requisitos do projeto, como levantamento err\u00f4neo dos requisitos.\n\n\nQualidade:\n Refente \u00e0 qualidade do produto, como usabilidade.\n\n\n\n\n2.2 Organizacional\n\n\n\n\nPrioriza\u00e7\u00e3o:\n Referente \u00e0 possibilidade de erros caso a prioriza\u00e7\u00e3o dos m\u00f3dulos do projeto n\u00e3o seja feita de forma correta.\n\n\nDependencias:\n Referente \u00e0 possibilidade de erros caso a dependencia entre os m\u00f3dulos n\u00e3o seja feita de forma correta.\n\n\nRecursos Humanos:\n Referente \u00e0 mau gest\u00e3o dos integrantes do projeto.\n\n\n\n\n2.3 Ger\u00eancia de Projetos\n\n\n\n\nComunica\u00e7\u00e3o:\n Referente \u00e0 falha de comunica\u00e7\u00e3o da equipe.\n\n\nPlanejamento:\n Referente \u00e0s falhas de planejamento do projeto.\n\n\nEstimativa:\n Referente \u00e0 m\u00e1 estimativa da capacidade de trabalho da equipe.\n\n\n\n\n2.4 Externo\n\n\n\n\nMercado:\n Referente \u00e0s condi\u00e7\u00f5es do mercado em que o produto est\u00e1 inserido.\n\n\nAmbiente:\n Referente ao ambiente que em qual o projeto est\u00e1 inserido, neste caso o acad\u00eamico.\n\n\nCliente:\n Refere-se aos riscos relacionados  ao cliente, como aprova\u00e7\u00e3o do produto.\n\n\n\n\n\n\n3. An\u00e1lise Quantitavas e Qualitativas\n\n\nA an\u00e1lise quantitativa de riscos ser\u00e1 feita em tr\u00eas passos: primeiramente analisar\u00e1 a probabilidade de acontecimento. Depois ser\u00e1 analisado o impacto que este risco poder\u00e1 trazer ao projeto. Assim, para definir-se a prioridade com que o risco dever\u00e1 ser tratado, ser\u00e1 feita uma matriz tra\u00e7ando sua probabilidade e impacto, gerando em uma pontua\u00e7\u00e3o para cadas risco.\n\n\n3.1 Probabilidade\n\n\n\n\n\n\n\n\nProbabilidade\n\n\nPorcentagem\n\n\nPeso\n\n\n\n\n\n\n\n\n\n\nMuita baixa\n\n\n0 - 20\n\n\n1\n\n\n\n\n\n\nBaixa\n\n\n21 -40\n\n\n2\n\n\n\n\n\n\nM\u00e9dia\n\n\n41-60\n\n\n3\n\n\n\n\n\n\nAlta\n\n\n61-80\n\n\n4\n\n\n\n\n\n\nMuito Alta\n\n\n81-100\n\n\n5\n\n\n\n\n\n\n\n\n3.2 Impacto\n\n\n\n\n\n\n\n\nProbabilidade\n\n\nImpacto\n\n\nPeso\n\n\n\n\n\n\n\n\n\n\nMuita baixo\n\n\nInexpressivo\n\n\n1\n\n\n\n\n\n\nBaixo\n\n\nPouco\n\n\n2\n\n\n\n\n\n\nM\u00e9dio\n\n\nConsider\u00e1vel\n\n\n3\n\n\n\n\n\n\nAlto\n\n\nGrande\n\n\n4\n\n\n\n\n\n\nMuito Alto\n\n\nInviabiliza o Projeto\n\n\n5\n\n\n\n\n\n\n\n\n3.3 Prioridade\n\n\nA tabela abaixo representa a pontua\u00e7\u00e3o de um risco, a qual definir\u00e1 sua prioridade:\n\n\n\n\n\n\n\n\nProb./Imp.\n\n\nMuito Baixo\n\n\nBaixo\n\n\nM\u00e9dio\n\n\nAlto\n\n\nMuito Alto\n\n\n\n\n\n\n\n\n\n\nBaixa\n\n\n1\n\n\n2\n\n\n3\n\n\n4\n\n\n5\n\n\n\n\n\n\nMuito Baixa\n\n\n2\n\n\n4\n\n\n6\n\n\n8\n\n\n10\n\n\n\n\n\n\nM\u00e9dia\n\n\n3\n\n\n6\n\n\n9\n\n\n12\n\n\n15\n\n\n\n\n\n\nAlta\n\n\n4\n\n\n8\n\n\n12\n\n\n16\n\n\n20\n\n\n\n\n\n\nMuito Alta\n\n\n5\n\n\n10\n\n\n15\n\n\n20\n\n\n25\n\n\n\n\n\n\n\n\nA prioridade ser\u00e1 definida em tr\u00eas n\u00edveis: Alta, M\u00e9dia e Baixa, de acordo com as pontua\u00e7\u00f5es e na seguinta estrutura:\n\n\n\n\n\n\n\n\nPrioridade\n\n\nPontua\u00e7\u00e3o\n\n\n\n\n\n\n\n\n\n\nBaixa\n\n\n1-5\n\n\n\n\n\n\nM\u00e9dia\n\n\n6-14\n\n\n\n\n\n\nAlta\n\n\n15-25\n\n\n\n\n\n\n\n\n\n\n4. Identificando os Riscos\n\n\n4.1 Riscos T\u00e9cnicos\n\n\n\n\n\n\n\n\nID\n\n\nRisco\n\n\nPossibilidade\n\n\nImpacto\n\n\nMonitoramento\n\n\nPrioridade\n\n\n\n\n\n\n\n\n\n\nR01\n\n\nDificuldade de aprendizado da tecnologia\n\n\nBaixa (2)\n\n\nM\u00e9dio (3)\n\n\nPareamento\n\n\nM\u00e9dia\n\n\n\n\n\n\nR02\n\n\nDificuldade elicitar requisitos\n\n\nM\u00e9dia (3)\n\n\nAlto (4)\n\n\nAplica\u00e7\u00e3o de tecnicas de elicita\u00e7\u00e3o, prototipa\u00e7\u00e3o e contato constante com o cliente\n\n\nM\u00e9dia\n\n\n\n\n\n\nR03\n\n\nMudan\u00e7a de Escopo\n\n\nM\u00e9dio (3)\n\n\nAlto (4)\n\n\nContato com o cliente\n\n\nM\u00e9dia\n\n\n\n\n\n\nR04\n\n\nInterface com baixa qualidade\n\n\nMuito Baixa (1)\n\n\nM\u00e9dio (2)\n\n\nPrototipa\u00e7\u00e3o\n\n\nBaixa\n\n\n\n\n\n\n\n\n4.2 Riscos Organizacionais\n\n\n\n\n\n\n\n\nID\n\n\nRisco\n\n\nPossibilidade\n\n\nImpacto\n\n\nMonitoramento\n\n\nPrioridade\n\n\n\n\n\n\n\n\n\n\nR05\n\n\nDesist\u00eancia de membros da equipe\n\n\nM\u00e9dia (3)\n\n\nMuito Alto (4)\n\n\n-\n\n\nAlta\n\n\n\n\n\n\nR06\n\n\nDepend\u00eancia de Tarefas\n\n\nMuito Alta (5)\n\n\nM\u00e9dio (3)\n\n\nReuni\u00f5es de Equipe\n\n\nAlta\n\n\n\n\n\n\nR07\n\n\nPrioriza\u00e7\u00e3o Err\u00f4nea\n\n\nBaixa (1)\n\n\nM\u00e9dio (3)\n\n\nReuni\u00f5es de Equipe\n\n\nBaixa\n\n\n\n\n\n\nR08\n\n\nFalha de Comunica\u00e7\u00e3o entre a Equipe\n\n\nM\u00e9dia (3)\n\n\nM\u00e9dio (3)\n\n\nDaily Meetings\n\n\nM\u00e9dia\n\n\n\n\n\n\n\n\n4.3 Riscos de Ger\u00eancia de Projeto\n\n\n\n\n\n\n\n\nID\n\n\nRisco\n\n\nPossibilidade\n\n\nImpacto\n\n\nMonitoramento\n\n\nPrioridade\n\n\n\n\n\n\n\n\n\n\nR09\n\n\nFalha no planejamento\n\n\nM\u00e9dia (3)\n\n\nAlto (4)\n\n\nCronograma\n\n\nM\u00e9dia\n\n\n\n\n\n\nR10\n\n\nMudan\u00e7a no Plano de Ensino da Mat\u00e9ria\n\n\nMuito Baixa (1)\n\n\nM\u00e9dio (3)\n\n\nMoodle\n\n\nBaixa\n\n\n\n\n\n\nR11\n\n\nEstimar esfor\u00e7o de forma err\u00f4nea\n\n\nM\u00e9dia (3)\n\n\nM\u00e9dio (3)\n\n\nBrundown da Equipe\n\n\nM\u00e9dia\n\n\n\n\n\n\nR12\n\n\nAtraso na Entrega\n\n\nBaixa (2)\n\n\nAlto (4)\n\n\nCronograma\n\n\nM\u00e9dia\n\n\n\n\n\n\n\n\n4.3 Riscos de Ger\u00eancia de Projeto\n\n\n\n\n\n\n\n\nID\n\n\nRisco\n\n\nPossibilidade\n\n\nImpacto\n\n\nMonitoramento\n\n\nPrioridade\n\n\n\n\n\n\n\n\n\n\nR13\n\n\nGreve da UNB\n\n\nM\u00e9dia (3)\n\n\nMuito Alto (5)\n\n\n-\n\n\nAlta\n\n\n\n\n\n\nR14\n\n\nFinaliza\u00e7\u00e3o do Projeto Cascata\n\n\nMuito Baixa (1)\n\n\nMuito Alto (5)\n\n\nReuni\u00e7\u00f5es com o cliente\n\n\nM\u00e9dia\n\n\n\n\n\n\n\n\n\n\n5. Controle dos Riscos\n\n\n\n\n\"Controlar os riscos \u00e9 o processo de implementa\u00e7\u00e3o de planos de respostas, acompanhamento dos riscos identificados, monitoramento dos riscos residuais, identifica\u00e7\u00e3o de novos riscos e avalia\u00e7\u00e3o da efic\u00e1cia do processo de riscos durante todo o projeto. Durante o projeto, o riscos se encontrar\u00e3o sob constante reavalia\u00e7\u00e3o e para a realiza\u00e7\u00e3o de um controle efetivo, a equipe estar\u00e1 sujeita a reuni\u00f5es peri\u00f3dicas, execu\u00e7\u00e3o do plano de comunica\u00e7\u00e3o, do plano de qualidade, monitoramento do EVM, entre outros.\" PMBOK, 2013.\n\n\n\n\nDesta forma, a equipe estar\u00e1 sempre a par do andamento do projeto, da motiva\u00e7\u00e3o dos seus integrantes, das necessidades do clientes e v\u00e1rios outros fatores que possam afetar o andamento do projeto.\n\n\n\n\nRefer\u00eancias\n\n\nPMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK 5a. ed. - EUA: Project Management Institute, 2013.",
+            "title": "Plano de Gerenciamento de Riscos"
+        },
+        {
+            "location": "/gerenciamento/riscos/#gerenciamento-de-riscos",
+            "text": "Data  Vers\u00e3o  Descri\u00e7\u00e3o  Autor(es)      02/04/2018  0.1  Abertuda do Documento, Introdu\u00e7\u00e3o, Estrutura de Riscos, Identificando os Riscos, Controle de Risco  Bernardo Henrique",
+            "title": "Gerenciamento de Riscos"
+        },
+        {
+            "location": "/gerenciamento/riscos/#1-introducao",
+            "text": "Este artefato tem como objetivos identificar os riscos durante o andamento do Projeto Cascata. Estes ser\u00e3o apresentados, a an\u00e1lise ocorrer\u00e1 de forma qualitativa e quantitativa, apresentando as causas, solu\u00e7\u00f5es e  grau de impacto. Com estas an\u00e1lises, buscar\u00e1 mitigar os impactos destes riscos no projeto.",
+            "title": "1. Introdu\u00e7\u00e3o"
+        },
+        {
+            "location": "/gerenciamento/riscos/#2-estrutura-de-riscos",
+            "text": "Os riscos de um projeto pode ser separados em quatros grandes \u00e1reas, abaixo pode-se observar a EAR do projeto.",
+            "title": "2. Estrutura de Riscos"
+        },
+        {
+            "location": "/gerenciamento/riscos/#21-tecnico",
+            "text": "Tecnologias:  Referente \u00e0s tecnologias e ferramentas utilizadas no projeto, como dificuldade de aprendizado da tecnologia.  Requisitos:  Referente aos requisitos do projeto, como levantamento err\u00f4neo dos requisitos.  Qualidade:  Refente \u00e0 qualidade do produto, como usabilidade.",
+            "title": "2.1 T\u00e9cnico"
+        },
+        {
+            "location": "/gerenciamento/riscos/#22-organizacional",
+            "text": "Prioriza\u00e7\u00e3o:  Referente \u00e0 possibilidade de erros caso a prioriza\u00e7\u00e3o dos m\u00f3dulos do projeto n\u00e3o seja feita de forma correta.  Dependencias:  Referente \u00e0 possibilidade de erros caso a dependencia entre os m\u00f3dulos n\u00e3o seja feita de forma correta.  Recursos Humanos:  Referente \u00e0 mau gest\u00e3o dos integrantes do projeto.",
+            "title": "2.2 Organizacional"
+        },
+        {
+            "location": "/gerenciamento/riscos/#23-gerencia-de-projetos",
+            "text": "Comunica\u00e7\u00e3o:  Referente \u00e0 falha de comunica\u00e7\u00e3o da equipe.  Planejamento:  Referente \u00e0s falhas de planejamento do projeto.  Estimativa:  Referente \u00e0 m\u00e1 estimativa da capacidade de trabalho da equipe.",
+            "title": "2.3 Ger\u00eancia de Projetos"
+        },
+        {
+            "location": "/gerenciamento/riscos/#24-externo",
+            "text": "Mercado:  Referente \u00e0s condi\u00e7\u00f5es do mercado em que o produto est\u00e1 inserido.  Ambiente:  Referente ao ambiente que em qual o projeto est\u00e1 inserido, neste caso o acad\u00eamico.  Cliente:  Refere-se aos riscos relacionados  ao cliente, como aprova\u00e7\u00e3o do produto.",
+            "title": "2.4 Externo"
+        },
+        {
+            "location": "/gerenciamento/riscos/#3-analise-quantitavas-e-qualitativas",
+            "text": "A an\u00e1lise quantitativa de riscos ser\u00e1 feita em tr\u00eas passos: primeiramente analisar\u00e1 a probabilidade de acontecimento. Depois ser\u00e1 analisado o impacto que este risco poder\u00e1 trazer ao projeto. Assim, para definir-se a prioridade com que o risco dever\u00e1 ser tratado, ser\u00e1 feita uma matriz tra\u00e7ando sua probabilidade e impacto, gerando em uma pontua\u00e7\u00e3o para cadas risco.",
+            "title": "3. An\u00e1lise Quantitavas e Qualitativas"
+        },
+        {
+            "location": "/gerenciamento/riscos/#31-probabilidade",
+            "text": "Probabilidade  Porcentagem  Peso      Muita baixa  0 - 20  1    Baixa  21 -40  2    M\u00e9dia  41-60  3    Alta  61-80  4    Muito Alta  81-100  5",
+            "title": "3.1 Probabilidade"
+        },
+        {
+            "location": "/gerenciamento/riscos/#32-impacto",
+            "text": "Probabilidade  Impacto  Peso      Muita baixo  Inexpressivo  1    Baixo  Pouco  2    M\u00e9dio  Consider\u00e1vel  3    Alto  Grande  4    Muito Alto  Inviabiliza o Projeto  5",
+            "title": "3.2 Impacto"
+        },
+        {
+            "location": "/gerenciamento/riscos/#33-prioridade",
+            "text": "A tabela abaixo representa a pontua\u00e7\u00e3o de um risco, a qual definir\u00e1 sua prioridade:     Prob./Imp.  Muito Baixo  Baixo  M\u00e9dio  Alto  Muito Alto      Baixa  1  2  3  4  5    Muito Baixa  2  4  6  8  10    M\u00e9dia  3  6  9  12  15    Alta  4  8  12  16  20    Muito Alta  5  10  15  20  25     A prioridade ser\u00e1 definida em tr\u00eas n\u00edveis: Alta, M\u00e9dia e Baixa, de acordo com as pontua\u00e7\u00f5es e na seguinta estrutura:     Prioridade  Pontua\u00e7\u00e3o      Baixa  1-5    M\u00e9dia  6-14    Alta  15-25",
+            "title": "3.3 Prioridade"
+        },
+        {
+            "location": "/gerenciamento/riscos/#4-identificando-os-riscos",
+            "text": "",
+            "title": "4. Identificando os Riscos"
+        },
+        {
+            "location": "/gerenciamento/riscos/#41-riscos-tecnicos",
+            "text": "ID  Risco  Possibilidade  Impacto  Monitoramento  Prioridade      R01  Dificuldade de aprendizado da tecnologia  Baixa (2)  M\u00e9dio (3)  Pareamento  M\u00e9dia    R02  Dificuldade elicitar requisitos  M\u00e9dia (3)  Alto (4)  Aplica\u00e7\u00e3o de tecnicas de elicita\u00e7\u00e3o, prototipa\u00e7\u00e3o e contato constante com o cliente  M\u00e9dia    R03  Mudan\u00e7a de Escopo  M\u00e9dio (3)  Alto (4)  Contato com o cliente  M\u00e9dia    R04  Interface com baixa qualidade  Muito Baixa (1)  M\u00e9dio (2)  Prototipa\u00e7\u00e3o  Baixa",
+            "title": "4.1 Riscos T\u00e9cnicos"
+        },
+        {
+            "location": "/gerenciamento/riscos/#42-riscos-organizacionais",
+            "text": "ID  Risco  Possibilidade  Impacto  Monitoramento  Prioridade      R05  Desist\u00eancia de membros da equipe  M\u00e9dia (3)  Muito Alto (4)  -  Alta    R06  Depend\u00eancia de Tarefas  Muito Alta (5)  M\u00e9dio (3)  Reuni\u00f5es de Equipe  Alta    R07  Prioriza\u00e7\u00e3o Err\u00f4nea  Baixa (1)  M\u00e9dio (3)  Reuni\u00f5es de Equipe  Baixa    R08  Falha de Comunica\u00e7\u00e3o entre a Equipe  M\u00e9dia (3)  M\u00e9dio (3)  Daily Meetings  M\u00e9dia",
+            "title": "4.2 Riscos Organizacionais"
+        },
+        {
+            "location": "/gerenciamento/riscos/#43-riscos-de-gerencia-de-projeto",
+            "text": "ID  Risco  Possibilidade  Impacto  Monitoramento  Prioridade      R09  Falha no planejamento  M\u00e9dia (3)  Alto (4)  Cronograma  M\u00e9dia    R10  Mudan\u00e7a no Plano de Ensino da Mat\u00e9ria  Muito Baixa (1)  M\u00e9dio (3)  Moodle  Baixa    R11  Estimar esfor\u00e7o de forma err\u00f4nea  M\u00e9dia (3)  M\u00e9dio (3)  Brundown da Equipe  M\u00e9dia    R12  Atraso na Entrega  Baixa (2)  Alto (4)  Cronograma  M\u00e9dia",
+            "title": "4.3 Riscos de Ger\u00eancia de Projeto"
+        },
+        {
+            "location": "/gerenciamento/riscos/#43-riscos-de-gerencia-de-projeto_1",
+            "text": "ID  Risco  Possibilidade  Impacto  Monitoramento  Prioridade      R13  Greve da UNB  M\u00e9dia (3)  Muito Alto (5)  -  Alta    R14  Finaliza\u00e7\u00e3o do Projeto Cascata  Muito Baixa (1)  Muito Alto (5)  Reuni\u00e7\u00f5es com o cliente  M\u00e9dia",
+            "title": "4.3 Riscos de Ger\u00eancia de Projeto"
+        },
+        {
+            "location": "/gerenciamento/riscos/#5-controle-dos-riscos",
+            "text": "\"Controlar os riscos \u00e9 o processo de implementa\u00e7\u00e3o de planos de respostas, acompanhamento dos riscos identificados, monitoramento dos riscos residuais, identifica\u00e7\u00e3o de novos riscos e avalia\u00e7\u00e3o da efic\u00e1cia do processo de riscos durante todo o projeto. Durante o projeto, o riscos se encontrar\u00e3o sob constante reavalia\u00e7\u00e3o e para a realiza\u00e7\u00e3o de um controle efetivo, a equipe estar\u00e1 sujeita a reuni\u00f5es peri\u00f3dicas, execu\u00e7\u00e3o do plano de comunica\u00e7\u00e3o, do plano de qualidade, monitoramento do EVM, entre outros.\" PMBOK, 2013.   Desta forma, a equipe estar\u00e1 sempre a par do andamento do projeto, da motiva\u00e7\u00e3o dos seus integrantes, das necessidades do clientes e v\u00e1rios outros fatores que possam afetar o andamento do projeto.",
+            "title": "5. Controle dos Riscos"
+        },
+        {
+            "location": "/gerenciamento/riscos/#referencias",
+            "text": "PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK 5a. ed. - EUA: Project Management Institute, 2013.",
+            "title": "Refer\u00eancias"
+        },
+        {
+            "location": "/gerenciamento/custos/",
+            "text": "p { text-align: justify; text-indent: 30px; } \n\n\n\nGerenciamento de Custos\n\n\n\n\n\n\n\n\nData\n\n\nVers\u00e3o\n\n\nDescri\u00e7\u00e3o\n\n\nAutor(es)\n\n\n\n\n\n\n\n\n\n\n02/04/2018\n\n\n0.1\n\n\nAbertuda do Documento, Introdu\u00e7\u00e3o, Processo de Gerenciamento de Custos\n\n\nBernardo Henrique\n\n\n\n\n\n\n03/04/2018\n\n\n1.0\n\n\nProcesso de Gerenciamento de Custos\n\n\nBernardo Henrique\n\n\n\n\n\n\n\n\n1. Introdu\u00e7\u00e3o\n\n\n1.1 Objetivo\n\n\nSegundo o Guia PMBOK\u00ae, o plano de gerenciamento dos custos define o formato e estabelece as atividades e os crit\u00e9rios de planejamento, estrutura\u00e7\u00e3o e controle dos custos do projeto. Ele faz parte ou \u00e9 um plano auxiliar do plano de gerenciamento do projeto. \n[2]\n\n\n1.2 Abrevia\u00e7\u00f5es\n\n\n\n\nPmBok: Project Management Body of Knowledge\n\n\nEAP: Estrutura Anal\u00edtica de Projeto\n\n\n\n\n\n\n2. Processo de Gerenciamento de Custos\n\n\nEste t\u00f3pico dever\u00e1 definir os processos e t\u00e9cnicas que ser\u00e3o utilizadas para gerenciar os custos do Projeto Cascata. Para realizar este processo de forma organizada, ser\u00e1 baseado no PmBok e organizado em quatro etapas: planejar, estimar, determinar e controlar os custos. \n\n\n2.1 Medi\u00e7\u00e3o de Custos\n\n\nPara a an\u00e1lise dos custos ser\u00e1 utilizada uma estimativa conhecida como Program Evaluation and Review Technique (PERT). Esta estimativa tem como foco mitigar os erros causados pela falta de certeza dos valores reais dos gastos do projeto e os riscos relacionados.\n\n\nO PERT utiliza tr\u00eas estimativas para definir os custos, ela s\u00e3o a estimativa Pessimista (\nP\n), a Mais Prov\u00e1vel (\nMP\n) e Otimista (\nO\n). O Gasto Estimado (\nGE\n) ent\u00e3o \u00e9 calculado pela seguinte f\u00f3rmula: \n\n \n \n\n\n2.2 Recursos Humanos\n\n\nPara a estimativa de cursos de recursos humanos, ser\u00e1 utilizado dados relativos ao custo do aluno do curso de Engenharia de Software, que \u00e9 de R$26.040,00. Como o custo dever\u00e1 ser medido em horas, devemos calcular a quantidade m\u00e9dia de horas que um aluno faz por ano.\n\n\nSabendo que o curso possui 240 creditos e que seu tempo de dura\u00e7\u00e3o \u00e9 de 10 semestre. Assumindo que a seja feita a mesma quantidade de cr\u00e9ditos por semestre, ent\u00e3o 24, e sabendo que cada cr\u00e9dito \u00e9 equivalente a 15 horas, temos que a carga hor\u00e1ria do semestre \u00e9 de 360 horas, ent\u00e3o do ano 780 horas.\n\n\nCom o pre\u00e7o do or\u00e7amento, temos que cada hora de um aluno de Engenharia de Software na UnB \u00e9 de, aproximadamente, R$33,84. Como o in\u00edcio do projeto se deu no dia 09/03/2018 e se estende at\u00e9 o dia 18/06/2018, totalizando 16 semanas.\n\n\nDepois de levantado uma m\u00e9dia de horas junto ao grupo, temos que em uma estimativa Pessimistra, cada integrante do grupo trabalha 14 horas por semana, na Mais Prov\u00e1vel \u00e9 de 10 horas e a Otimista \u00e9 de 8 horas. Devemos ressaltar que esta m\u00e9dia de horas \u00e9 de cada um da equipe, que possui 8 integrantes.\n\n\n\n\nEstimativa Pessimista:\n\n\n\n\n\n\n\n\n\n\nM\u00e9dia de Horas Integrante/Semana\n\n\nPre\u00e7o da Hora\n\n\nCusto Semanal\n\n\nCusto Total\n\n\n\n\n\n\n\n\n\n\n14 horas\n\n\nR$33,84\n\n\nR$3.790,08\n\n\nR$60.641,28\n\n\n\n\n\n\n\n\n\n\nEstimativa Mais Prov\u00e1vel:\n\n\n\n\n\n\n\n\n\n\nM\u00e9dia de Horas Integrante/Semana\n\n\nPre\u00e7o da Hora\n\n\nCusto Semanal\n\n\nCusto Total\n\n\n\n\n\n\n\n\n\n\n10 horas\n\n\nR$33,84\n\n\nR$2.707,20\n\n\nR$43.315,20\n\n\n\n\n\n\n\n\n\n\nEstimativa Otimista:\n\n\n\n\n\n\n\n\n\n\nM\u00e9dia de Horas Integrante/Semana\n\n\nPre\u00e7o da Hora\n\n\nCusto Semanal\n\n\nCusto Total\n\n\n\n\n\n\n\n\n\n\n8 horas\n\n\nR$33,84\n\n\nR$2.165,76\n\n\nR$34.652,16\n\n\n\n\n\n\n\n\nAssim, ap\u00f3s aplicarmos o PERT, temos como resultado de gastos finais com recursos humanos o seguinte resultado:\n\n\n\n\n\n\n\n\nM\u00e9dia de Horas Integrante/Semana\n\n\nPre\u00e7o da Hora\n\n\nCusto Semanal\n\n\nCusto Total\n\n\n\n\n\n\n\n\n\n\n10,33 horas\n\n\nR$33,84\n\n\nR$2.797,44\n\n\nR$44.759,04\n\n\n\n\n\n\n\n\n2.3 Equipamentos\n\n\nOs equipamentos de trabalho da equipe s\u00e3o notebooks, abaixo temos uma rela\u00e7\u00e3o com as marcas, modelos e pre\u00e7o do notebook de cada integrante do grupo:\n\n\n\n\n2.4 Ferramentas\n\n\nTodas as ferramentas utilizadas no projeto s\u00e3o gratuitas, sendo assim n\u00e3o influenciam no custo total do projeto. Abaixo temos a rela\u00e7\u00e3o com todas as ferramentas utilizadas:\n\n\n\n\n\n\n\n\nFerramenta\n\n\nObjetivo\n\n\n\n\n\n\n\n\n\n\nTelegram\n\n\nComunica\u00e7\u00e3o da Equipe\n\n\n\n\n\n\nHangouts\n\n\nComunica\u00e7\u00e3o da Equipe\n\n\n\n\n\n\nGitHub\n\n\nVersionamento do software e da documenta\u00e7\u00e3o\n\n\n\n\n\n\nMkDocs\n\n\nPlataforma para organiza\u00e7\u00e3o da doumenta\u00e7\u00e3o\n\n\n\n\n\n\nTrello\n\n\nOrganiza\u00e7\u00e3o Interna da Equipe\n\n\n\n\n\n\n\n\n2.5 Transporte e Loca\u00e7\u00e3o de Espa\u00e7o\n\n\nAs reuni\u00f5es do projeto n\u00e3o s\u00e3o feitas presencialmente, sendo assim n\u00e3o h\u00e1 necessidade de loca\u00e7\u00e3o de espa\u00e7o ou transporte, assim estes fatores n\u00e3o acarretam custo ao projeto.\n\n\n\n\n3. Custo Final\n\n\nO projeto est\u00e1 em andamento, sendo assim \u00e9 poss\u00edvel fazer apenas a estimativa de custos. Conforme discorra o tempo do projeto, estes custos ser\u00e3o analisados no Documento de Acompanhamento de Custos. Atualmente, a previs\u00e3o final de gastos do projeto \u00e9 de:\n\n\n\n\n\n\n\n\nDespesa\n\n\nCusto (R$)\n\n\n\n\n\n\n\n\n\n\nRecursos Humanos\n\n\n44.759,04\n\n\n\n\n\n\nEquipamentos\n\n\n42.359,00\n\n\n\n\n\n\nFerramentas\n\n\n0\n\n\n\n\n\n\nTransporte e Loca\u00e7\u00e3o de Espa\u00e7o\n\n\n0\n\n\n\n\n\n\n TOTAL \n\n\n 87.118,04 \n\n\n\n\n\n\n\n\n\n\nRefer\u00eancias\n\n\n[1] PMI (PROJECT MANAGEMENT INSTITUTE). Um Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK\u00ae) \u2013 Quinta Edi\u00e7\u00e3o. Newtown Square: Project Management Institute, 2009.\n\n\n[2] Plano de Gerenciamento dos Custos, Escrit\u00f3rio de Projetos - Dispov\u00edvel em: \nhttps://escritoriodeprojetos.com.br/plano-de-gerenciamento-dos-custos\n Acessado em 02/04/2018.\n\n\n[3] DevMedia. PMBOK: Trabalhando com gerenciamento de custos. - Dispon\u00edvel em: \nhttps://www.devmedia.com.br/pmbok-trabalhando-com-gerenciamento-de-custos/31158\n. Acessado em 02/04/2018.\n\n\n[4] Relat\u00f3rio de Gest\u00e3o 2016, Universidade de Bras\u00edlia, pag. 155. Acessado em: \nhttp://www.dpo.unb.br/index.php?option=com_phocadownload&view=file&id=558&Itemid=816\n\nAcessado em: 02/04/2018.",
+            "title": "Plano de Gerenciamento de Custos"
+        },
+        {
+            "location": "/gerenciamento/custos/#gerenciamento-de-custos",
+            "text": "Data  Vers\u00e3o  Descri\u00e7\u00e3o  Autor(es)      02/04/2018  0.1  Abertuda do Documento, Introdu\u00e7\u00e3o, Processo de Gerenciamento de Custos  Bernardo Henrique    03/04/2018  1.0  Processo de Gerenciamento de Custos  Bernardo Henrique",
+            "title": "Gerenciamento de Custos"
+        },
+        {
+            "location": "/gerenciamento/custos/#1-introducao",
+            "text": "",
+            "title": "1. Introdu\u00e7\u00e3o"
+        },
+        {
+            "location": "/gerenciamento/custos/#11-objetivo",
+            "text": "Segundo o Guia PMBOK\u00ae, o plano de gerenciamento dos custos define o formato e estabelece as atividades e os crit\u00e9rios de planejamento, estrutura\u00e7\u00e3o e controle dos custos do projeto. Ele faz parte ou \u00e9 um plano auxiliar do plano de gerenciamento do projeto.  [2]",
+            "title": "1.1 Objetivo"
+        },
+        {
+            "location": "/gerenciamento/custos/#12-abreviacoes",
+            "text": "PmBok: Project Management Body of Knowledge  EAP: Estrutura Anal\u00edtica de Projeto",
+            "title": "1.2 Abrevia\u00e7\u00f5es"
+        },
+        {
+            "location": "/gerenciamento/custos/#2-processo-de-gerenciamento-de-custos",
+            "text": "Este t\u00f3pico dever\u00e1 definir os processos e t\u00e9cnicas que ser\u00e3o utilizadas para gerenciar os custos do Projeto Cascata. Para realizar este processo de forma organizada, ser\u00e1 baseado no PmBok e organizado em quatro etapas: planejar, estimar, determinar e controlar os custos.",
+            "title": "2. Processo de Gerenciamento de Custos"
+        },
+        {
+            "location": "/gerenciamento/custos/#21-medicao-de-custos",
+            "text": "Para a an\u00e1lise dos custos ser\u00e1 utilizada uma estimativa conhecida como Program Evaluation and Review Technique (PERT). Esta estimativa tem como foco mitigar os erros causados pela falta de certeza dos valores reais dos gastos do projeto e os riscos relacionados.  O PERT utiliza tr\u00eas estimativas para definir os custos, ela s\u00e3o a estimativa Pessimista ( P ), a Mais Prov\u00e1vel ( MP ) e Otimista ( O ). O Gasto Estimado ( GE ) ent\u00e3o \u00e9 calculado pela seguinte f\u00f3rmula:",
+            "title": "2.1 Medi\u00e7\u00e3o de Custos"
+        },
+        {
+            "location": "/gerenciamento/custos/#22-recursos-humanos",
+            "text": "Para a estimativa de cursos de recursos humanos, ser\u00e1 utilizado dados relativos ao custo do aluno do curso de Engenharia de Software, que \u00e9 de R$26.040,00. Como o custo dever\u00e1 ser medido em horas, devemos calcular a quantidade m\u00e9dia de horas que um aluno faz por ano.  Sabendo que o curso possui 240 creditos e que seu tempo de dura\u00e7\u00e3o \u00e9 de 10 semestre. Assumindo que a seja feita a mesma quantidade de cr\u00e9ditos por semestre, ent\u00e3o 24, e sabendo que cada cr\u00e9dito \u00e9 equivalente a 15 horas, temos que a carga hor\u00e1ria do semestre \u00e9 de 360 horas, ent\u00e3o do ano 780 horas.  Com o pre\u00e7o do or\u00e7amento, temos que cada hora de um aluno de Engenharia de Software na UnB \u00e9 de, aproximadamente, R$33,84. Como o in\u00edcio do projeto se deu no dia 09/03/2018 e se estende at\u00e9 o dia 18/06/2018, totalizando 16 semanas.  Depois de levantado uma m\u00e9dia de horas junto ao grupo, temos que em uma estimativa Pessimistra, cada integrante do grupo trabalha 14 horas por semana, na Mais Prov\u00e1vel \u00e9 de 10 horas e a Otimista \u00e9 de 8 horas. Devemos ressaltar que esta m\u00e9dia de horas \u00e9 de cada um da equipe, que possui 8 integrantes.   Estimativa Pessimista:      M\u00e9dia de Horas Integrante/Semana  Pre\u00e7o da Hora  Custo Semanal  Custo Total      14 horas  R$33,84  R$3.790,08  R$60.641,28      Estimativa Mais Prov\u00e1vel:      M\u00e9dia de Horas Integrante/Semana  Pre\u00e7o da Hora  Custo Semanal  Custo Total      10 horas  R$33,84  R$2.707,20  R$43.315,20      Estimativa Otimista:      M\u00e9dia de Horas Integrante/Semana  Pre\u00e7o da Hora  Custo Semanal  Custo Total      8 horas  R$33,84  R$2.165,76  R$34.652,16     Assim, ap\u00f3s aplicarmos o PERT, temos como resultado de gastos finais com recursos humanos o seguinte resultado:     M\u00e9dia de Horas Integrante/Semana  Pre\u00e7o da Hora  Custo Semanal  Custo Total      10,33 horas  R$33,84  R$2.797,44  R$44.759,04",
+            "title": "2.2 Recursos Humanos"
+        },
+        {
+            "location": "/gerenciamento/custos/#23-equipamentos",
+            "text": "Os equipamentos de trabalho da equipe s\u00e3o notebooks, abaixo temos uma rela\u00e7\u00e3o com as marcas, modelos e pre\u00e7o do notebook de cada integrante do grupo:",
+            "title": "2.3 Equipamentos"
+        },
+        {
+            "location": "/gerenciamento/custos/#24-ferramentas",
+            "text": "Todas as ferramentas utilizadas no projeto s\u00e3o gratuitas, sendo assim n\u00e3o influenciam no custo total do projeto. Abaixo temos a rela\u00e7\u00e3o com todas as ferramentas utilizadas:     Ferramenta  Objetivo      Telegram  Comunica\u00e7\u00e3o da Equipe    Hangouts  Comunica\u00e7\u00e3o da Equipe    GitHub  Versionamento do software e da documenta\u00e7\u00e3o    MkDocs  Plataforma para organiza\u00e7\u00e3o da doumenta\u00e7\u00e3o    Trello  Organiza\u00e7\u00e3o Interna da Equipe",
+            "title": "2.4 Ferramentas"
+        },
+        {
+            "location": "/gerenciamento/custos/#25-transporte-e-locacao-de-espaco",
+            "text": "As reuni\u00f5es do projeto n\u00e3o s\u00e3o feitas presencialmente, sendo assim n\u00e3o h\u00e1 necessidade de loca\u00e7\u00e3o de espa\u00e7o ou transporte, assim estes fatores n\u00e3o acarretam custo ao projeto.",
+            "title": "2.5 Transporte e Loca\u00e7\u00e3o de Espa\u00e7o"
+        },
+        {
+            "location": "/gerenciamento/custos/#3-custo-final",
+            "text": "O projeto est\u00e1 em andamento, sendo assim \u00e9 poss\u00edvel fazer apenas a estimativa de custos. Conforme discorra o tempo do projeto, estes custos ser\u00e3o analisados no Documento de Acompanhamento de Custos. Atualmente, a previs\u00e3o final de gastos do projeto \u00e9 de:     Despesa  Custo (R$)      Recursos Humanos  44.759,04    Equipamentos  42.359,00    Ferramentas  0    Transporte e Loca\u00e7\u00e3o de Espa\u00e7o  0     TOTAL    87.118,04",
+            "title": "3. Custo Final"
+        },
+        {
+            "location": "/gerenciamento/custos/#referencias",
+            "text": "[1] PMI (PROJECT MANAGEMENT INSTITUTE). Um Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK\u00ae) \u2013 Quinta Edi\u00e7\u00e3o. Newtown Square: Project Management Institute, 2009.  [2] Plano de Gerenciamento dos Custos, Escrit\u00f3rio de Projetos - Dispov\u00edvel em:  https://escritoriodeprojetos.com.br/plano-de-gerenciamento-dos-custos  Acessado em 02/04/2018.  [3] DevMedia. PMBOK: Trabalhando com gerenciamento de custos. - Dispon\u00edvel em:  https://www.devmedia.com.br/pmbok-trabalhando-com-gerenciamento-de-custos/31158 . Acessado em 02/04/2018.  [4] Relat\u00f3rio de Gest\u00e3o 2016, Universidade de Bras\u00edlia, pag. 155. Acessado em:  http://www.dpo.unb.br/index.php?option=com_phocadownload&view=file&id=558&Itemid=816 \nAcessado em: 02/04/2018.",
+            "title": "Refer\u00eancias"
+        },
+        {
+            "location": "/gerenciamento/tempo/",
+            "text": "p { text-align: justify; text-indent: 30px; } \n\n\n\nPlano de Gerenciamento de Tempo\n\n\n\n\n\n\n\n\nData\n\n\nVers\u00e3o\n\n\nDescri\u00e7\u00e3o\n\n\nAutor(es)\n\n\n\n\n\n\n\n\n\n\n02/04/2018\n\n\n1.0\n\n\nIntrodu\u00e7\u00e3o, Processo de Gerenciamento de Tempo, Regras para medi\u00e7\u00e3o do Desempenho, Cronograma\n\n\nBernardo Henrique\n\n\n\n\n\n\n\n\n1. Introdu\u00e7\u00e3o\n\n\nO Gerenciamento de Tempo de um projeto n\u00e3o \u00e9 nada mais que estabelecar pol\u00edticas, procedimentos e documenta\u00e7\u00e3o para planejar, desenvolver, gerenciar, executar e controlar procedimentos, atividades, e documenta\u00e7\u00e3o. Segundo o PmBok, este plano tem como objetivo guiar todo o ciclo de vida do software, garantindo que n\u00e3o hajam atrasos.\n\n\n\n\n2. Processo de Gerenciamento do Tempo\n\n\nDe acordo com o David M. Cirello, s\u00e3o definidas cinco atividades, sendo quatro delas focadas na fase de constru\u00e7\u00e3o e planejamento, e uma delas em monitora\u00e7\u00e3o e controle. Abaixo temos estas fases explicadas, com seus conceitos e atividades.\n[2]\n\n\n2.1 Identificar as Entregas\n\n\nAs entregas devem ser as for\u00e7as motora de um projeto, ent\u00e3o deve ser bem definido quais s\u00e3o as atividades que devem ser realizadas nestas. \u00c9 importante ressaltar que as entregas devem ser facilmente identificaveis dentro do cronograma.\n\n\n2.2 Determinar a estrutura de Tarefas\n\n\nEsta atividade pode ser chamda de lista de atividades ou rascunho inicial do projeto. Antes de adicionar informa\u00e7\u00f5es (inicio, fim, dura\u00e7\u00e3o) nas tarefas, deve-se lista-las, isso permite que sejam apresentadas em uma ordem mais l\u00f3gica. Nesta fase tamb\u00e9m \u00e9 facil identificar sub-tarefas.\n\n\n2.3 Identifica\u00e7\u00e3o de depend\u00eancias das tarefas principais\n\n\nDepois que todas as tarefas e sub-tarefas est\u00e3o definidas, pode-se tra\u00e7ar quais s\u00e3o dependencias espec\u00edficas entre elas. Uma depend\u00eancia significa que uma tarefa n\u00e3o pode come\u00e7ar ou terminar at\u00e9 que outra seja finalizada. \n\n\n2.4 Decis\u00e3o sobre a unidade de medida do tempo\n\n\nA sele\u00e7\u00e3o desta unidade determina o n\u00edvel de detalhe e, assim, esfor\u00e7o na concep\u00e7\u00e3o e gest\u00e3o do cronograma do projeto. Alguns fatores que devem ser levador em considera\u00e7\u00e3o na hora desta escolha s\u00e3o, entre outras:\n\n\n\n\nQuais s\u00e3o as obriga\u00e7\u00f5es contratuais para relatar ou faturar pelo seu tempo e qual \u00e9 a estrutura de taxas para seu contato ou projeto?\n\n\nA sua equipe ser\u00e1 paga por hora ou com base na entrega do produto/servi\u00e7o?\n\n\nQual dura\u00e7\u00e3o do seu projeto e quantos recursos voc\u00ea possui?\n\n\nQuantas entregas s\u00e3o?\n\n\n\n\n2.5 Revis\u00e3o constante do plano\n\n\n\"Depois de ter um cronograma do projeto pronto \u00e9 importante lembrar que o seu plano n\u00e3o \u00e9 um documento est\u00e1tico, ao contr\u00e1rio, \u00e9 um ve\u00edculo de comunica\u00e7\u00e3o din\u00e2mico; portanto o objetivo \u00e9 reportar a informa\u00e7\u00e3o contida no plano de uma maneira f\u00e1cil de entender sob a perspectiva de um observador de fora\" \n[2]\n\n\n\n\n3. Regras para a Medi\u00e7\u00e3o de Desempenho\n\n\n\u00c9 fundamental o acompanhamento do desempenho do projeto. Ao realizar esta atividade, pode-se:\n\n\n\n\nUtilizar dados a fim de definir o qu\u00e3o atrasado ou adiantado o projeto est\u00e1.\n\n\nAnalisar o grau de efic\u00e1cia do planejamento do projeto.\n\n\nAperfei\u00e7oar o replanejamento do cronograma, baseando-se em dados hist\u00f3ricos.\n\n\nMelhorar o controle para atingir o desempenho previamente definido.\n\n\n\n\nExistem diversos m\u00e9todos para an\u00e1lise de desempenho. Nesse projeto utilizaremos o Gerenciamento de Valor Agregado (GVA). Ele baseia-se na Varia\u00e7\u00e3o do Cronograma e no \u00cdndice de Desempenho de Prazos. \n\n\nO \u00cdndice de Desempenho de Prazos (Schedule Performance Index ou SPI) \u00e9 calculado pela raz\u00e3o entre o Valor Agregado (VA) e o Valor Planejado (VP).\n\n\nSPI = VA / VP\n\n\nO resultado obtido indica a efic\u00e1cia do planejamento, e pode ser interpretada como:\n\n\n\n\nSPI < 1 - Sinal de atraso no projeto.\n\n\nSPI = 1 - Efic\u00e1cia plena no planejamento\n\n\nSPI > 1 - Sinal de adiantamento no projeto.\n\n\n\n\nDeve-se notar que ap\u00f3s algumas sprints ser\u00e1 poss\u00edvel ter acesso a valores de Burndown e alguns SPI's, no caso de constantes atrasos com SPI's abaixo de zero e Burndowns que n\u00e3o acompanham a meta, deve-se considerar algumas estrat\u00e9gias para melhorar o desempenho da equipe.\n\n\n\n\n4. Cronograma\n\n\nO cronograma do Projeto Cascta pode ser encontrado acessado \neste link\n.\n\n\n\n\nRefer\u00eancias\n\n\n[1] PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK 5a. ed. - EUA: Project Management Institute, 2013.\n\n\n[2] David M. Ciriello. Estrat\u00e9gias para o gerenciamento do cronograma do projeto: Dicas \u00fateis para os gerentes de projetos e membros da equipe. Dispon\u00edvel em: \nhttps://brasil.pmi.org/brazil/KnowledgeCenter/Articles/~/media/C1CEEAF8C9364BAA9FAB0D7F2B92203F.ashx\n. Acessado em: 03/04/2018.",
+            "title": "Plano de Gerenciamento de Tempo"
+        },
+        {
+            "location": "/gerenciamento/tempo/#plano-de-gerenciamento-de-tempo",
+            "text": "Data  Vers\u00e3o  Descri\u00e7\u00e3o  Autor(es)      02/04/2018  1.0  Introdu\u00e7\u00e3o, Processo de Gerenciamento de Tempo, Regras para medi\u00e7\u00e3o do Desempenho, Cronograma  Bernardo Henrique",
+            "title": "Plano de Gerenciamento de Tempo"
+        },
+        {
+            "location": "/gerenciamento/tempo/#1-introducao",
+            "text": "O Gerenciamento de Tempo de um projeto n\u00e3o \u00e9 nada mais que estabelecar pol\u00edticas, procedimentos e documenta\u00e7\u00e3o para planejar, desenvolver, gerenciar, executar e controlar procedimentos, atividades, e documenta\u00e7\u00e3o. Segundo o PmBok, este plano tem como objetivo guiar todo o ciclo de vida do software, garantindo que n\u00e3o hajam atrasos.",
+            "title": "1. Introdu\u00e7\u00e3o"
+        },
+        {
+            "location": "/gerenciamento/tempo/#2-processo-de-gerenciamento-do-tempo",
+            "text": "De acordo com o David M. Cirello, s\u00e3o definidas cinco atividades, sendo quatro delas focadas na fase de constru\u00e7\u00e3o e planejamento, e uma delas em monitora\u00e7\u00e3o e controle. Abaixo temos estas fases explicadas, com seus conceitos e atividades. [2]",
+            "title": "2. Processo de Gerenciamento do Tempo"
+        },
+        {
+            "location": "/gerenciamento/tempo/#21-identificar-as-entregas",
+            "text": "As entregas devem ser as for\u00e7as motora de um projeto, ent\u00e3o deve ser bem definido quais s\u00e3o as atividades que devem ser realizadas nestas. \u00c9 importante ressaltar que as entregas devem ser facilmente identificaveis dentro do cronograma.",
+            "title": "2.1 Identificar as Entregas"
+        },
+        {
+            "location": "/gerenciamento/tempo/#22-determinar-a-estrutura-de-tarefas",
+            "text": "Esta atividade pode ser chamda de lista de atividades ou rascunho inicial do projeto. Antes de adicionar informa\u00e7\u00f5es (inicio, fim, dura\u00e7\u00e3o) nas tarefas, deve-se lista-las, isso permite que sejam apresentadas em uma ordem mais l\u00f3gica. Nesta fase tamb\u00e9m \u00e9 facil identificar sub-tarefas.",
+            "title": "2.2 Determinar a estrutura de Tarefas"
+        },
+        {
+            "location": "/gerenciamento/tempo/#23-identificacao-de-dependencias-das-tarefas-principais",
+            "text": "Depois que todas as tarefas e sub-tarefas est\u00e3o definidas, pode-se tra\u00e7ar quais s\u00e3o dependencias espec\u00edficas entre elas. Uma depend\u00eancia significa que uma tarefa n\u00e3o pode come\u00e7ar ou terminar at\u00e9 que outra seja finalizada.",
+            "title": "2.3 Identifica\u00e7\u00e3o de depend\u00eancias das tarefas principais"
+        },
+        {
+            "location": "/gerenciamento/tempo/#24-decisao-sobre-a-unidade-de-medida-do-tempo",
+            "text": "A sele\u00e7\u00e3o desta unidade determina o n\u00edvel de detalhe e, assim, esfor\u00e7o na concep\u00e7\u00e3o e gest\u00e3o do cronograma do projeto. Alguns fatores que devem ser levador em considera\u00e7\u00e3o na hora desta escolha s\u00e3o, entre outras:   Quais s\u00e3o as obriga\u00e7\u00f5es contratuais para relatar ou faturar pelo seu tempo e qual \u00e9 a estrutura de taxas para seu contato ou projeto?  A sua equipe ser\u00e1 paga por hora ou com base na entrega do produto/servi\u00e7o?  Qual dura\u00e7\u00e3o do seu projeto e quantos recursos voc\u00ea possui?  Quantas entregas s\u00e3o?",
+            "title": "2.4 Decis\u00e3o sobre a unidade de medida do tempo"
+        },
+        {
+            "location": "/gerenciamento/tempo/#25-revisao-constante-do-plano",
+            "text": "\"Depois de ter um cronograma do projeto pronto \u00e9 importante lembrar que o seu plano n\u00e3o \u00e9 um documento est\u00e1tico, ao contr\u00e1rio, \u00e9 um ve\u00edculo de comunica\u00e7\u00e3o din\u00e2mico; portanto o objetivo \u00e9 reportar a informa\u00e7\u00e3o contida no plano de uma maneira f\u00e1cil de entender sob a perspectiva de um observador de fora\"  [2]",
+            "title": "2.5 Revis\u00e3o constante do plano"
+        },
+        {
+            "location": "/gerenciamento/tempo/#3-regras-para-a-medicao-de-desempenho",
+            "text": "\u00c9 fundamental o acompanhamento do desempenho do projeto. Ao realizar esta atividade, pode-se:   Utilizar dados a fim de definir o qu\u00e3o atrasado ou adiantado o projeto est\u00e1.  Analisar o grau de efic\u00e1cia do planejamento do projeto.  Aperfei\u00e7oar o replanejamento do cronograma, baseando-se em dados hist\u00f3ricos.  Melhorar o controle para atingir o desempenho previamente definido.   Existem diversos m\u00e9todos para an\u00e1lise de desempenho. Nesse projeto utilizaremos o Gerenciamento de Valor Agregado (GVA). Ele baseia-se na Varia\u00e7\u00e3o do Cronograma e no \u00cdndice de Desempenho de Prazos.   O \u00cdndice de Desempenho de Prazos (Schedule Performance Index ou SPI) \u00e9 calculado pela raz\u00e3o entre o Valor Agregado (VA) e o Valor Planejado (VP).  SPI = VA / VP  O resultado obtido indica a efic\u00e1cia do planejamento, e pode ser interpretada como:   SPI < 1 - Sinal de atraso no projeto.  SPI = 1 - Efic\u00e1cia plena no planejamento  SPI > 1 - Sinal de adiantamento no projeto.   Deve-se notar que ap\u00f3s algumas sprints ser\u00e1 poss\u00edvel ter acesso a valores de Burndown e alguns SPI's, no caso de constantes atrasos com SPI's abaixo de zero e Burndowns que n\u00e3o acompanham a meta, deve-se considerar algumas estrat\u00e9gias para melhorar o desempenho da equipe.",
+            "title": "3. Regras para a Medi\u00e7\u00e3o de Desempenho"
+        },
+        {
+            "location": "/gerenciamento/tempo/#4-cronograma",
+            "text": "O cronograma do Projeto Cascta pode ser encontrado acessado  este link .",
+            "title": "4. Cronograma"
+        },
+        {
+            "location": "/gerenciamento/tempo/#referencias",
+            "text": "[1] PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK 5a. ed. - EUA: Project Management Institute, 2013.  [2] David M. Ciriello. Estrat\u00e9gias para o gerenciamento do cronograma do projeto: Dicas \u00fateis para os gerentes de projetos e membros da equipe. Dispon\u00edvel em:  https://brasil.pmi.org/brazil/KnowledgeCenter/Articles/~/media/C1CEEAF8C9364BAA9FAB0D7F2B92203F.ashx . Acessado em: 03/04/2018.",
+            "title": "Refer\u00eancias"
         },
         {
             "location": "/folha_estilo/",
