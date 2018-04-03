@@ -19,5 +19,9 @@ pages:
   - Gerenciamento do Projeto:
      - Cronograma: cronograma.md
   - Épicos: requisitos/epicos.md
+  - Folha de Estilo: folha_estilo.md
 
 theme: material
+
+markdown_extensions:
+  - codehilite
