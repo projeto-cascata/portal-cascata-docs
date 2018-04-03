@@ -80,7 +80,7 @@ Este documento de arquitetura de software está organizado de acordo com os padr
 
 ## **2. Representação Arquitetural**
 
-A arquitetura do projeto que propomos seguirá o padrão Model, Template, View. Utilizando este padrão iremos separar estruturalmente a interação com o usuário das regras de negócio facilitando o mapeamento do domínio e a manutenção da aplicação.
+A arquitetura proposta seguirá o padrão Model, Template, View. Utilizando este padrão iremos separar estruturalmente a interação com o usuário das regras de negócio facilitando o mapeamento do domínio e a manutenção da aplicação.
 As camadas serão utilizadas da seguinte forma:
 
 * **Model**: Será responsável por definir o domínio da aplicação e as regras de negócio, sendo possível a identificação rápida das informações que estamos trabalhando.
@@ -88,10 +88,17 @@ As camadas serão utilizadas da seguinte forma:
 * **View**: Será a camada central da estrutura realizando a comunicação entre as duas outras camadas, responsável por trafegar as informações entre camadas com segurança.
 
 ![MTV Architecture](https://user-images.githubusercontent.com/22121504/29645196-4481529c-8852-11e7-90c4-d0bc8bd62193.jpg)
-
 Figura 1: Diagrama simplificado de apresentação do MTV
 
 ## **3. Metas e Restrições da Arquitetura**
+
+Nossa arquitetura tem as seguintes metas e restrições:
+
+* A aplicação deverá ser implementada em Python/Django
+* Deverá ter responsividade para dispositivos móveis
+* Oferecer uma solução robusta e confiável
+* Utilizar boas práticas de desenvolvimento para garantir a qualidade do código
+* Disponibilidade do serviço a qualquer momento
 
 ## **4. Visão de Casos de Uso**
 
