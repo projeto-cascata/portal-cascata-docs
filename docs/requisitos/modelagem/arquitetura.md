@@ -4,6 +4,7 @@
 | :---: | ------ | :---------------------------------: | :----------: |
 | 03/04 | 0.1    | Criação e estruturação do documento | Daniel Teles |
 | 03/04 | 0.2    |             Introdução              | Daniel Teles |
+| 03/04 | 0.3    |     Representação Arquitetural      | Daniel Teles |
 
 ## **Sumário**
 
@@ -79,6 +80,17 @@ Este documento de arquitetura de software está organizado de acordo com os padr
 
 ## **2. Representação Arquitetural**
 
+A arquitetura do projeto que propomos seguirá o padrão Model, Template, View. Utilizando este padrão iremos separar estruturalmente a interação com o usuário das regras de negócio facilitando o mapeamento do domínio e a manutenção da aplicação.
+As camadas serão utilizadas da seguinte forma:
+
+* **Model**: Será responsável por definir o domínio da aplicação e as regras de negócio, sendo possível a identificação rápida das informações que estamos trabalhando.
+* **Template**: Será a responsável por toda a parte visual e de interação com o aplicativo, incluindo layouts e telas para mapear as entradas dos usuário.
+* **View**: Será a camada central da estrutura realizando a comunicação entre as duas outras camadas, responsável por trafegar as informações entre camadas com segurança.
+
+![MTV Architecture](https://user-images.githubusercontent.com/22121504/29645196-4481529c-8852-11e7-90c4-d0bc8bd62193.jpg)
+
+Figura 1: Diagrama simplificado de apresentação do MTV
+
 ## **3. Metas e Restrições da Arquitetura**
 
 ## **4. Visão de Casos de Uso**
@@ -98,3 +110,11 @@ Este documento de arquitetura de software está organizado de acordo com os padr
 ## **7. Visão de Dados**
 
 ## **8. Qualidade**
+
+**Escalabilidade**:
+
+**Disponibilidade, Confiabilidade**:
+
+**Portabilidade**:
+
+**Segurança**:
