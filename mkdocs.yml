@@ -21,6 +21,9 @@ pages:
   - Épicos: requisitos/epicos.md
   - Folha de Estilo: folha_estilo.md
 
+    - Modelagem:
+      - Cenários: requisitos/modelagem/cenarios.md
+      - Léxicos: requisitos/modelagem/lexicos.md
 theme: material
 
 markdown_extensions:
