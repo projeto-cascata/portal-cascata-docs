@@ -122,3 +122,87 @@
     <td class="tg-us36"></td>
   </tr>
 </table>
+
+## E02 Gerenciamento de Notícias
+### E02FE01 Manter Notícias
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-ksxu{font-weight:bold;background-color:#0b5394;color:#ffffff;border-color:inherit}
+.tg .tg-01pl{background-color:#cc0000;color:#ffffff;border-color:inherit;vertical-align:top}
+.tg .tg-us36{border-color:inherit;vertical-align:top}
+.tg .tg-etgb{font-weight:bold;background-color:#0b5394;color:#ffffff;border-color:inherit;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-ksxu">ID</th>
+    <th class="tg-etgb">História de Usuário</th>
+    <th class="tg-etgb">Pontos</th>
+  </tr>
+  <tr>
+    <td class="tg-01pl">US18</td>
+    <td class="tg-us36">Eu, como usuário, desejo ver uma lista de notícias que corresponde a minha função no sistema para que eu esteja informado sobre as notícias que cabem a mim.</td>
+    <td class="tg-us36"></td>
+  </tr>
+  <tr>
+    <td class="tg-01pl">US19</td>
+    <td class="tg-us36">Eu, como usuário, desejo ter uma visão detalhada de uma notícia escolhida na lista de notícias para que eu possa ler a notícia por completo.</td>
+    <td class="tg-us36"></td>
+  </tr>
+  <tr>
+    <td class="tg-01pl">US20</td>
+    <td class="tg-us36">Eu, como diretor do projeto, desejo publicar notícias para que os outros usuários possam ver os informes que lhes competem.</td>
+    <td class="tg-us36"></td>
+  </tr>
+  <tr>
+    <td class="tg-01pl">US21</td>
+    <td class="tg-us36">Eu, como membro do Marketing, desejo publicar notícias para que os outros usuários possam ver os informes que lhes competem.</td>
+    <td class="tg-us36"></td>
+  </tr>
+  <tr>
+    <td class="tg-01pl">US22</td>
+    <td class="tg-us36">Eu, como diretor do projeto, desejo editar uma notícia de minha autoria para mantê-la atualizada e corrigida.</td>
+    <td class="tg-us36"></td>
+  </tr>
+  <tr>
+    <td class="tg-01pl">US23</td>
+    <td class="tg-us36">Eu, como membro do Marketing, desejo editar uma notícia de minha autoria para mantê-la atualizada e corrigida.</td>
+    <td class="tg-us36"></td>
+  </tr>
+  <tr>
+    <td class="tg-01pl">US24</td>
+    <td class="tg-us36">Eu, como administrador, desejo excluir uma notícia para dispensar notícias que foram postadas equivocadamente.</td>
+    <td class="tg-us36"></td>
+  </tr>
+</table>
+
+### E02FE02 Alertar Notícias
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-ksxu{font-weight:bold;background-color:#0b5394;color:#ffffff;border-color:inherit}
+.tg .tg-01pl{background-color:#cc0000;color:#ffffff;border-color:inherit;vertical-align:top}
+.tg .tg-us36{border-color:inherit;vertical-align:top}
+.tg .tg-etgb{font-weight:bold;background-color:#0b5394;color:#ffffff;border-color:inherit;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-ksxu">ID</th>
+    <th class="tg-etgb">História de Usuário</th>
+    <th class="tg-etgb">Pontos</th>
+  </tr>
+  <tr>
+    <td class="tg-01pl">US25</td>
+    <td class="tg-us36">Eu, como usuário, desejo ser alertado por e-mail sobre uma nova notícia que me compete para saber que uma nova notícia foi publicada instantaneamente.</td>
+    <td class="tg-us36"></td>
+  </tr>
+  <tr>
+    <td class="tg-01pl">US26</td>
+    <td class="tg-us36">Eu, como autor de notícia, desejo que um alerta da minha notícia publicada seja enviada por e-mail aos interessados para que eles saibam que há uma nova notícia instantaneamente.</td>
+    <td class="tg-us36"></td>
+  </tr>
+</table>
