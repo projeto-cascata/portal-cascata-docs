@@ -18,6 +18,8 @@ pages:
       - Protótipo: requisitos/elicitacao/prototipo.md
     - Modelagem:
       - Léxicos: requisitos/modelagem/lexicos.md
+  - Arquitetura:
+    - Diagrama de Classes: arquitetura/diagrama_classes.md
   - Gerenciamento do Projeto:
      - Cronograma: cronograma.md
   - Folha de Estilo: folha_estilo.md
