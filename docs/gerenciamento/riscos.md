@@ -5,7 +5,7 @@
 
 | Data | Versão | Descrição | Autor(es) |
 |:----:|:------:|:---------:|:---------:|
-|02/04/2018|0.1| Abertuda do Documento, Introdução, Estrutura de Riscos, Identificando os Riscos, Controle de Risco | Bernardo Henrique |  
+|02/04/2018| 1.0 | Abertuda do Documento, Introdução, Estrutura de Riscos, Identificando os Riscos, Controle de Risco | Bernardo Henrique |  
 
 ## **1. Introdução**
 

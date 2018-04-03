@@ -21,12 +21,15 @@ pages:
   - Gerenciamento do Projeto:
     - Cronograma: gerenciamento/cronograma.md
     - Plano de Gerenciamento de Riscos: gerenciamento/riscos.md
+    - Plano de Gerenciamento de Custos: gerenciamento/custos.md
   - Folha de Estilo: folha_estilo.md
   - Backlogs:
-     - Épicos: requisitos/epicos.md
-     - Features: requisitos/features.md
-     - Histórias de Usuários: requisitos/backlogproduct.md
     - Épicos: requisitos/epicos.md
+    - Features: requisitos/features.md
+    - Histórias de Usuários: requisitos/backlogproduct.md
+    - Épicos: requisitos/epicos.md
+
+
 theme: material
 
 markdown_extensions:
