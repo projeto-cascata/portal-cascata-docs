@@ -1,5 +1,14 @@
 # Engenharia de Requisitos
 
+### Histórico de Revisão
+
+| Data | Versão | Descrição | Autor(es) |
+|:----:|:------:|:---------:|:---------:|
+|03/04/2018|1.0| Elaboração do Documento |Halê|
+
+
+---
+
 ## Introdução
 
 Requisitos são as bases para todo projeto, definindo o que as partes interessadas de um novo sistema necessitam e também o que o sistema deve fazer para satisfazer as suas necessidades. Os requisitos guiam as atividades do projeto e normalmente são expressos em linguagem natural para que todos possam obter o entendimento.
