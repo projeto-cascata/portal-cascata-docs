@@ -1,6 +1,6 @@
 # Portal Cascata - Docs
 
-<p align=center><img width=300 src="https://github.com/projeto-cascata/portal-cascata-docs/blob/master/assets/LogoVertical_Fbranca.png"></p>
+<p align=center><img width=300 src="https://github.com/projeto-cascata/portal-cascata-docs/blob/master/docs/img/LogoVertical_Fbranca.png"></p>
 
 Documentação e artefatos gerados para o Portal do Projeto Cascata, implementado durante a disciplina de Desenho de Software, ministrada no curso de Engenharia de Software da Universidade de Brasília. Acesse os documentos [aqui!](https://projeto-cascata.github.io/portal-cascata-docs/)
 
