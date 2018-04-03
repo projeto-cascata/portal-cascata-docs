@@ -1,10 +1,12 @@
 ### Histórico da Revisão
 
-| Data  | Versão |              Descrição              |    Autor     |
-| :---: | ------ | :---------------------------------: | :----------: |
-| 03/04 | 0.1    | Criação e estruturação do documento | Daniel Teles |
-| 03/04 | 0.2    |             Introdução              | Daniel Teles |
-| 03/04 | 0.3    |     Representação Arquitetural      | Daniel Teles |
+| Data  | Versão |                  Descrição                  |    Autor     |
+| :---: | ------ | :-----------------------------------------: | :----------: |
+| 03/04 | 0.1    |     Criação e estruturação do documento     | Daniel Teles |
+| 03/04 | 0.2    |                 Introdução                  | Daniel Teles |
+| 03/04 | 0.3    |         Representação Arquitetural          | Daniel Teles |
+| 03/04 | 0.4    |             Metas e Restrições              | Daniel Teles |
+| 03/04 | 0.5    | Qualidade e link para o Diagrama de Classes | Daniel Teles |
 
 ## **Sumário**
 
@@ -112,16 +114,35 @@ Nossa arquitetura tem as seguintes metas e restrições:
 
 ### **5.2 Pacotes de Design Significativos do Ponto de Vista da Arquitetura**
 
+### **5.3 Diagrama de classes**
+
+![Diagrama de Classes](https://raw.githubusercontent.com/projeto-cascata/portal-cascata-docs/arquitetura/docs/img/Classes/class_diagram.png)
+Figura 2: [Diagrama de classes](https://github.com/projeto-cascata/portal-cascata-docs/blob/arquitetura/docs/arquitetura/diagrama_classes.md)
+
 ## **6. Visão de Implantação**
 
 ## **7. Visão de Dados**
 
 ## **8. Qualidade**
 
+Na arquitetura do sistema, são estabelecidas metas de qualidade e elas estão definidas desta forma:
+
 **Escalabilidade**:
+
+* Descrição: Aumento da demanda dos servidores com o crescimento de usuários do aplicativo.
+* Solução: Os servidores são hospedados na nuvem e podem ser escalados facilmente de acordo com a necessidade.
+
+**Responsividade**:
+
+* Descrição: Adaptação das telas para dispositivos com telas pequenas.
+* Solução: Utilização de padrões W3C.
 
 **Disponibilidade, Confiabilidade**:
 
-**Portabilidade**:
+* Descrição: Quedas de servidores e tempo de espera até restabelecimento.
+* Solução: Redundância de servidores, banco de dados organizado em núcleos e suporte ao usuário.
 
 **Segurança**:
+
+* Descrição: Login autenticado e autorização ao acesso de dados.
+* Solução: Cadastro usuários realizado pelo administrador do sistema e autorização modularizada a permissões.
