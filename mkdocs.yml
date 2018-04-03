@@ -16,6 +16,8 @@ pages:
       - Entrevistas: requisitos/elicitacao/entrevistas.md
       - Análise de Protocolo: requisitos/elicitacao/protocolos.md
       - Protótipo: requisitos/elicitacao/prototipo.md
+    - Modelagem:
+      - Léxicos: requisitos/modelagem/lexicos.md
   - Gerenciamento do Projeto:
      - Cronograma: cronograma.md
   - Folha de Estilo: folha_estilo.md
@@ -23,10 +25,6 @@ pages:
      - Épicos: requisitos/epicos.md
      - Features: requisitos/features.md
      - Histórias de Usuários: requisitos/backlogproduct.md
-
-    - Modelagem:
-      - Cenários: requisitos/modelagem/cenarios.md
-      - Léxicos: requisitos/modelagem/lexicos.md
 theme: material
 
 markdown_extensions:
