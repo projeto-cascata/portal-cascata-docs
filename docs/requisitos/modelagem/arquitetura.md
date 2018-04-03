@@ -48,13 +48,11 @@
 
 ### **1.1. Finalidade**
 
-Este documento oferece uma visão geral da arquitetura do sistema, utilizando diversas visões arquiteturais para representar diferentes aspectos do sistema. O objetivo deste documento é capturar e comunicar as decisões arquiteturais significativas que foram tomadas em relação a aplicação e implementá-las de acordo com a demanda proposta pelo Arquiteto de Software, como descrito nos principios do Rational Unified Process, o RUP.
-
-Apesar de não possuir uma definição amplamente aceita, a Arquitetura de Software é descrita por Paul Clements e Len Bass, como sendo a estrutura das estruturas, que abrange elementos, seus comportamentos externamente visíveis e as relações entre esses elementos. A boa compreensão deste artefato é de extrema importância para total entendimento do projeto e um documento essencial para qualquer desenvolvedor envolvido.
+Este documento oferece uma visão geral da arquitetura do sistema, utilizando diversas visões arquiteturais para representar diferentes aspectos do sistema. O objetivo deste documento é capturar e comunicar as decisões arquiteturais significativas, trazendo uma melhor compreensão dos requisitos e forma do projeto.
 
 ### **1.2 Escopo**
 
-O documento de arquitetura de software provém uma visão geral da arquitetura sobre a aplicação web do Projeto Cascata, um projeto que surgiu quando alunos da Universidade de Brasília notaram a dificuldade que alunos da rede pública tinham no processo de preparação para o vestibular.
+A aplicação web Portal Cascata tem por objetivo solucionar alguns dos problemas enfrentados pelos alunos da UnB que se dedicam ao projeto Cascata, que visa ajudar alunos oriundos da rede pública de ensino no processo de preparação para vestibulares. Dentre os problemas enfrentados pelos participantes do projeto atualmente, está a falta de centralização da comunicação e de um local para a postagem de materiais e notícias. Sendo assim, este documento rege os paradigmas arquiteturais que serão aplicados ao software, além de proporcionar uma visão mais abrangente do Portal Cascata, explorando seus aspectos, explicitando as tecnologias utilizadas e auxiliando na objetividade do desenvolvimento.
 
 ### **1.3 Definições, Acrônimos e Abreviações**
 
