@@ -4,8 +4,10 @@
 
 | Data | Versão | Descrição | Autor(es) |
 |:----:|:------:|:---------:|:---------:|
-|02/04/2018| 0.1 | Abertuda do Documento, Introdução, Processo de Gerenciamento de Custos | Bernardo Henrique |  
+|02/04/2018| 0.1 | Abertura do Documento, Introdução, Processo de Gerenciamento de Custos | Bernardo Henrique |  
 |03/04/2018| 1.0 | Processo de Gerenciamento de Custos | Bernardo Henrique |  
+
+---
 
 ## **1. Introdução**
 

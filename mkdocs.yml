@@ -25,6 +25,7 @@ pages:
     - Plano de Gerenciamento de Riscos: gerenciamento/riscos.md
     - Plano de Gerenciamento de Custos: gerenciamento/custos.md
     - Plano de Gerenciamento de Tempo: gerenciamento/tempo.md
+    - Plano de Gerenciamento de Configuração: gerenciamento/gcs.md
   - Folha de Estilo: folha_estilo.md
   - Backlogs:
     - Épicos: requisitos/epicos.md
