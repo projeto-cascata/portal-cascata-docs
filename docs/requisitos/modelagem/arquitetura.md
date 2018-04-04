@@ -8,7 +8,9 @@
 | 03/04 | 0.4    |             Metas e Restrições              | Daniel Teles |
 | 03/04 | 0.5    | Qualidade e link para o Diagrama de Classes | Daniel Teles |
 | 03/04 | 0.6    |        Refatorando finalidade e escopo      | Letícia de Souza |
-| 04/04 | 0.7    | Refatorando itens e adicionando informações | Letícia de Souza |
+| 04/04 | 0.7    | Refatorando Representação Arquitetural      | Letícia de Souza |
+| 04/04 | 0.8    | Reescrevendo Metas e Restrições de Arquitetura| Letícia de Souza |
+| 04/04 | 0.9    | Preenchendo campo de Visão Lógica e Qualidade | Letícia de Souza
 
 ## **Sumário**
 
@@ -20,31 +22,17 @@
 
 * [1.3 Definições, Acrônimos e Abreviações](#13-defini%C3%A7%C3%B5es-acr%C3%B4nimos-e-abrevia%C3%A7%C3%B5es)
 
-* [1.4 Visão Geral](#15-vis%C3%A3o-geral)
-
 [2. Representação Arquitetural](#2-representa%C3%A7%C3%A3o-arquitetural)
 
 [3. Metas e Restrições da Arquitetura](#3-metas-e-restri%C3%A7%C3%B5es-da-arquitetura)
 
 [4. Visão de Casos de Uso](#4-vis%C3%A3o-de-casos-de-uso)
 
-* [4.1 Realizações de Casos de Uso](#41-realiza%C3%A7%C3%B5es-de-casos-de-uso)
-
-* [4.2 Atores](#42-atores)
-
 [5. Visão Lógica](#5-vis%C3%A3o-l%C3%B3gica)
 
-* [5.1 Visão Geral](#51-vis%C3%A3o-geral)
+* [5.1 Diagrama de Classes](#51-diagrama-de-classes)
 
-* [5.2 Pacotes de Design Significativos do Ponto de Vista da Arquitetura](#52-pacotes-de-design-significativos-do-ponto-de-vista-da-arquitetura)
-
-* [5.3 Diagrama de Classes](#53-diagrama-de-classes)
-
-[6. Visão de Processos](https://github.com/fga-gpp-mds/2016.2-Observatorio-de-Residuos/wiki/Documento-de-Arquitetura#6-vis%C3%A3o-de-processos)
-
-[7. Visão de Dados](https://github.com/fga-gpp-mds/2016.2-Observatorio-de-Residuos/wiki/Documento-de-Arquitetura#7-vis%C3%A3o-de-dados)
-
-[8. Qualidade](#8-qualidade)
+[6. Qualidade](#6-qualidade)
 
 ## **1. Introdução**
 
@@ -64,21 +52,6 @@ Alguns termos utilizados nesse documento, são oriundos de uma língua estrangei
 * **UML**: Unified Modelling Language - Linguagem de representação de modelos, apresentados de forma padronizada e independente de uma linguagem de programação.
 * **Python**: Python é uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
 * **Django**: É um Framework Python de alto nível que encoraja o desenvolvimento rápido e limpo. Construído por desenvolvedores experientes é gratuito e de código-aberto.
-
-### **1.4 Visão Geral**
-
-Este documento de arquitetura de software está organizado de acordo com os padrões estabelecidos pelo IBM RUP e suas subcategorias estão organizadas dessa forma:
-
-* **Seção 2**: Definição das constantes arquiteturais do projeto
-* **Seção 3**: Estabelecimento dos objetivos da arquitetura e suas restrições
-* **Seção 4**: Requisitos funcionais e não-funcionais do projeto
-* **Seção 5**: Modo de realização dos principais requisitos estabelecidos
-* **Seção 6**: Definição dos aspectos de design do projeto
-* **Seção 7**: Processos de lançamento do projeto para testes e público
-* **Seção 8**: Estabelecimento das camadas e sub camadas do projeto
-* **Seção 9**: Estrutura de persistência e armazenamento de dados
-* **Seção 10**: Descreve os padrões esperados para desempenho do software
-* **Seção 11**: Descreve os padrões de qualidade e avaliação do projeto
 
 ## **2. Representação Arquitetural**
 
@@ -118,8 +91,6 @@ Figura 1: Diagrama simplificado de apresentação do MTV
 
 O Portal Cascata utiliza a base da arquitetura MTV e design responsivo, em que o site se adapta ao browser do usuário. Os dois tipos de usuários, quando acessarem o site, terão contato com a view, que realizará uma requisição, executando as ações lógicas.
 
-### **5.1 Visão Geral**
-
 ### **5.2 Pacotes de Design Significativos do Ponto de Vista da Arquitetura**
 
 ### **5.3 Diagrama de classes**
@@ -127,30 +98,6 @@ O Portal Cascata utiliza a base da arquitetura MTV e design responsivo, em que o
 ![Diagrama de Classes](https://raw.githubusercontent.com/projeto-cascata/portal-cascata-docs/arquitetura/docs/img/Classes/class_diagram.png)
 Figura 2: [Diagrama de classes](https://github.com/projeto-cascata/portal-cascata-docs/blob/arquitetura/docs/arquitetura/diagrama_classes.md)
 
-## **6. Visão de Implantação**
+## **6. Qualidade**
 
-## **7. Visão de Dados**
-
-## **8. Qualidade**
-
-Na arquitetura do sistema, são estabelecidas metas de qualidade e elas estão definidas desta forma:
-
-**Escalabilidade**:
-
-* Descrição: Aumento da demanda dos servidores com o crescimento de usuários do aplicativo.
-* Solução: Os servidores são hospedados na nuvem e podem ser escalados facilmente de acordo com a necessidade.
-
-**Responsividade**:
-
-* Descrição: Adaptação das telas para dispositivos com telas pequenas.
-* Solução: Utilização de padrões W3C.
-
-**Disponibilidade, Confiabilidade**:
-
-* Descrição: Quedas de servidores e tempo de espera até restabelecimento.
-* Solução: Redundância de servidores, banco de dados organizado em núcleos e suporte ao usuário.
-
-**Segurança**:
-
-* Descrição: Login autenticado e autorização ao acesso de dados.
-* Solução: Cadastro usuários realizado pelo administrador do sistema e autorização modularizada a permissões.
+O uso da arquitetura MTV, que é necessária devido à utilização do Django, propõe uma maneira de organização das camadas da aplicação que as tornam mais independentes e torna o código mais compreensível e manutenível. Além disso, é uma arquitetura com uma grande comunidade, difundida e utilizada.
