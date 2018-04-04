@@ -18,6 +18,7 @@ pages:
       - Protótipo: requisitos/elicitacao/prototipo.md
     - Modelagem:
       - Léxicos: requisitos/modelagem/lexicos.md
+      - Documento de Arquitetura: requisitos/modelagem/arquitetura.md
   - Arquitetura:
     - Diagrama de Classes: arquitetura/diagrama_classes.md
   - Gerenciamento do Projeto:
