@@ -7,6 +7,8 @@
 | 03/04 | 0.3    |         Representação Arquitetural          | Daniel Teles |
 | 03/04 | 0.4    |             Metas e Restrições              | Daniel Teles |
 | 03/04 | 0.5    | Qualidade e link para o Diagrama de Classes | Daniel Teles |
+| 03/04 | 0.6    |        Refatorando finalidade e escopo      | Letícia de Souza |
+| 04/04 | 0.7    | Refatorando itens e adicionando informações | Letícia de Souza |
 
 ## **Sumário**
 
@@ -80,10 +82,10 @@ Este documento de arquitetura de software está organizado de acordo com os padr
 
 ## **2. Representação Arquitetural**
 
-A arquitetura proposta seguirá o padrão Model, Template, View. Utilizando este padrão iremos separar estruturalmente a interação com o usuário das regras de negócio facilitando o mapeamento do domínio e a manutenção da aplicação.
+A arquitetura proposta seguirá o padrão Model, Template, View, própria do Django e aderente ao MVC. Utilizando este padrão iremos separar estruturalmente a interação com o usuário das regras de negócio facilitando o mapeamento do domínio e a manutenção da aplicação.
 As camadas serão utilizadas da seguinte forma:
 
-* **Model**: Será responsável por definir o domínio da aplicação e as regras de negócio, sendo possível a identificação rápida das informações que estamos trabalhando.
+* **Model**: As models do MVC e do Mvt possuem responsabilidades equivalentes. Cada classe da Model se compora a uma tabela do banco de dados, enquanto as instâncias dessas classes, representam os registros dessas tabelas. Nesta camada será possível definir o domínio da aplicação e as especificações a respeito dos dados (como validar, acessar, comportamentos e as relações entre os dados).
 * **Template**: Será a responsável por toda a parte visual e de interação com o aplicativo, incluindo layouts e telas para mapear as entradas dos usuário.
 * **View**: Será a camada central da estrutura realizando a comunicação entre as duas outras camadas, responsável por trafegar as informações entre camadas com segurança.
 
@@ -92,21 +94,29 @@ Figura 1: Diagrama simplificado de apresentação do MTV
 
 ## **3. Metas e Restrições da Arquitetura**
 
-Nossa arquitetura tem as seguintes metas e restrições:
+<table style="width:100%">
+  <tr>
+    <td align="center"><b>Metas</b></td>
+    <td align="left">A aplicação deve ser eficiente e atender bem aos recursos do sistema respondendo às requisições rapidamente. Além disso, atender a requisitos não funcionais como facilidade de manutenção, estruturando o código de maneira organizada, visando a manutenabilidade do sistema. </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Restrições de Arquitetura</b></td>
+    <td align="left">O software será funcional em navegadores que possuem acesso à internet. Será utilizado a ferramenta virtualenv para a criação de um ambiente virtual para nosso programa, juntamente com o Python3 e o Django. Além disso, será adotado como ferramenta para o banco de dados o PostgreSQL.</td>
+  </tr>
+  </table>
 
-* A aplicação deverá ser implementada em Python/Django
-* Deverá ter responsividade para dispositivos móveis
-* Oferecer uma solução robusta e confiável
-* Utilizar boas práticas de desenvolvimento para garantir a qualidade do código
-* Disponibilidade do serviço a qualquer momento
 
 ## **4. Visão de Casos de Uso**
 
-### **4.1 Realizações de Casos de Uso**
+| Atores | Descrição |
+|:------:|---------|
+|  Aluno | O aluno consumirá os serviços providos pela portal, dentro de suas permissões, como visualizar notícias e materiais, bem como justificar faltas. |
+| Membro interno do projeto | O membro poderá realizar o controle de frequência dos alunos e alimentar a plataforma com materiais relacionados às disciplinas ministradas, bem como postar notícias a respeito do projeto.
 
-### **4.2 Atores**
 
 ## **5. Visão Lógica**
+
+O Portal Cascata utiliza a base da arquitetura MTV e design responsivo, em que o site se adapta ao browser do usuário. Os dois tipos de usuários, quando acessarem o site, terão contato com a view, que realizará uma requisição, executando as ações lógicas.
 
 ### **5.1 Visão Geral**
 
