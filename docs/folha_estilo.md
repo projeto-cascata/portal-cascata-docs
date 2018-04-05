@@ -6,6 +6,8 @@
 |:--------:|:------:|:--------------------------:|:-----------------:|
 |02/04/2018| 1.0    | Criação da Folha de Estilo | Felipe Hargreaves |
 
+---
+
 ## 1. Disposição de Código
 
 ### 1.1 Identação
