@@ -6,13 +6,17 @@
 |:----:|:------:|:---------:|:-----:|
 |01/04/2018|1.0|Criação da página e adição da descrição e referências| Letícia |
 |02/04/2018|1.1|Adição do Strategic Rationale Model| Letícia |
+|04/04/2018|1.2|Adição do Strategic Dependency Model| Halê |
 
 O termo I* refere-se ao conceito de intencionalidade distribuída, sendo assim, esse framework propõe uma abordagem orientada a agentes para a engenharia de requisitos, centrando-se nas características intencionais do agente. Os agentes atribuem propriedades intencionais entre si e racionam sobre relacionamentos estratégicos. As dependências entre os agentes geram oportunidades e vulnerabilidades. As dependências são analisadas usando uma abordagem de raciocínio qualitativo. Os agentes consideram configurações alternativas de dependências para avaliar seu posicionamento estratégico  em um contexto.
 
+## i* - Strategic Dependency Model - SD
+
+![Modelo representativo SD](../img/istar/SD_Hale.png)
 
 ## i* - Strategic Rationale Model - SR
 
-![Outro Modelo representativo](../img/istar/SR_Leticia.png)
+![Modelo representativo SR](../img/istar/SR_Leticia.png)
 
 ## **Referências**
 
