@@ -28,7 +28,7 @@
 | 28/03 | 0.2    | Introdução: Finalidade e Escopo     | Bernardo Henrique |
 | 29/03 | 0.3    | Posicionamento                      | Felipe Hargreaves |
 | 02/04 | 0.4    | Visão geral do produto                      | Mariana Pícolo |  
-
+| 04/04 | 0.5    | Definições e links extras para Técnicas de Elicitação, Diagrama de Causa-Efeito e Resumo de Usuários. | Felipe Hargreaves |
 ---
 
 ## Sumário
@@ -36,7 +36,6 @@
 1. Introdução
     1. Finalidade
     2.  Escopo
-    3.  Definições, Acrônimos e Abreviaturas
 
 2.  Técnicas de Elicitação
     1.  Entrevista
@@ -54,34 +53,7 @@
 
 5.  Visão Geral do Produto
     1.  Perspectiva do Produto
-
-6.  Requisitos Funcionais
-    1.  Épicos
-    2.  Features
-    3.  Histórias de Usuário
-    4.  Matriz de Rastreabilidade de Requisitos Funcionais
-    5.  Critérios de Aceitação
-
-7.  Restrições
-8.  Requisitos Não Funcionais
-    1.  Implementação
-    2.  Confiabilidade
-    3.  Suportabilidade
-    4.  Desempenho
-    5.  Portabilidade
-
-9.  Requisitos de Documentação
-    1.  Manual do Usuário
-    2.  Ajuda On-line
-    3.  Guias de Instalação e de Configuração, e Arquivo Leiame
-
-10. Roadmap
-11. Cronograma
-12. Relato de Experiência
-    1.  Interação entre a equipe
-    2.  Sugestão de Melhoria
-    3.  Lições Aprendidas
-
+    2.  Resumo das Capacidades
 
 ## **1. Introdução**
 
@@ -91,16 +63,14 @@ Este documento de visão tem como propósito apresentar e justificar aspectos so
 ### **1.2. Escopo**
 O documento deve apresentar o Projeto Cascata, projeto de extensão composto por voluntários da Universidade de Brasília, e também as suas necessidades. Para explicar estas necessidades serão usados esquemas, modelos e diagramas que esclareçam tanto o processo do projeto quanto do software que será desenvolvido.
 
-### **1.3. Definições, Acrônimos e Abreviações**
-
-
 ## **2. Técnicas de Elicitação**
+Para a elicitação dos requisitos do projeto utilizaram-se as técnicas de Entrevista, Análise de Protocolo e Prototipação. O embasamento teórico e a justificativa para essas escolhas pode ser encontrado [aqui.](./elicitacao/elicitacao.md)
 
-### **2.1. Entrevista**
+### [**2.1. Entrevistas**](./elicitacao/entrevistas.md)
 
-### **2.2. Análise de Protocolo**
+### [**2.2. Análise de Protocolo**](./elicitacao/protocolos.md)
 
-### **2.3. Prototipação**
+### [**2.3. Prototipação**](./elicitacao/prototipo.md)
 
 ## **3. Posicionamento**
 
@@ -133,6 +103,10 @@ Devido à necessidade de comunicação e compartilhamento de notícias e informa
 
 
 ### **3.3. Diagrama Causa-Efeito**
+
+![Diagrama](../img/Ishikawa/DiagramaIshikawaBruna_e_Leticia.png)
+
+Informações adicionais sobre o Diagrama podem ser acessadas [aqui.](./ishikawa.md)
 
 ### **3.4. Sentença de Posição do Produto**
 
@@ -169,9 +143,10 @@ Devido à necessidade de comunicação e compartilhamento de notícias e informa
 
 ## **4. Descrições dos Usuários**
 ### **4.1.  Resumo dos Usuários**
+A aplicação contemplará uma grande estrutura de envolvidos com o Projeto Cascata, tanto em sua organização interna quanto no relacionamento externo com os alunos e a comunidade. O Projeto possui uma hierarquia bem definida entre as partes que o constituem, sendo esta hierarquia refletida no sistema. Uma descrição detalhada dos usuários do Portal e suas respectivas atribuições pode ser acessada [aqui.](perfil-usuario.md)
 
-## ** 5. Visão Geral do Produto**
-### ** 5.1. Perspectiva do Produto**
+## **5. Visão Geral do Produto**
+### **5.1. Perspectiva do Produto**
 
 O sistema centralizará as responsabilidades das diretorias e da presidência do Projeto Cascata, facilitando o monitoramento de frequência, divulgação de material e de notícias. Também fornece suporte aos alunos, exibindo seu *status* de frequência, e acesso aos materiais didáticos elaborados pelos professores do projeto.   
 ### **5.2. Resumo das Capacidades**   
