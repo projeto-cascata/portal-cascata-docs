@@ -282,7 +282,7 @@
         },
         {
             "location": "/requisitos/nfr/",
-            "text": "NFR Framework - Modelagem de Requisitos N\u00e3o Funcionais\n\n\nHist\u00f3rico de Revis\u00f5es\n\n\n\n\n\n\n\n\nData\n\n\nVers\u00e3o\n\n\nDescri\u00e7\u00e3o\n\n\nAutor(es)\n\n\n\n\n\n\n\n\n\n\n31/03/2018\n\n\n1.0\n\n\nModelagem do NFR - vers\u00e3o inicial\n\n\nBernardo e Let\u00edcia\n\n\n\n\n\n\n01/04/2018\n\n\n1.1\n\n\nAjustes no modelo e adi\u00e7\u00e3o da descri\u00e7\u00e3o e refer\u00eancias\n\n\nLet\u00edcia\n\n\n\n\n\n\n\n\nO NFR Framework visa priorizar os requisitos n\u00e3o funcionais como usabilidade, seguran\u00e7a e privacidade para gerar o processo de design em geral, enquanto a maioria das abordagens convencionais para o design do sistema s\u00e3o orientadas por requisitos funcionais, o NFR framework procura colocar os requisitos n\u00e3o funcionais em primeiro lugar na mente do desenvolvedor.\n\n\nModelo NFR - Vers\u00e3o inicial\n\n\n\n\nRefer\u00eancias\n\n\n\n\nChung L., Nixon B.A., Yu E., Mylopoulos J. (2000) The NFR Framework in Action. In: Non-Functional Requirements in Software Engineering. International Series in Software Engineering, vol 5. Springer, Boston, MA",
+            "text": "NFR Framework - Modelagem de Requisitos N\u00e3o Funcionais\n\n\nHist\u00f3rico de Revis\u00f5es\n\n\n\n\n\n\n\n\nData\n\n\nVers\u00e3o\n\n\nDescri\u00e7\u00e3o\n\n\nAutor(es)\n\n\n\n\n\n\n\n\n\n\n31/03/2018\n\n\n1.0\n\n\nModelagem do NFR - vers\u00e3o inicial\n\n\nBernardo e Let\u00edcia\n\n\n\n\n\n\n01/04/2018\n\n\n1.1\n\n\nAjustes no modelo e adi\u00e7\u00e3o da descri\u00e7\u00e3o e refer\u00eancias\n\n\nLet\u00edcia\n\n\n\n\n\n\n\n\nO NFR Framework visa priorizar os requisitos n\u00e3o funcionais como usabilidade, seguran\u00e7a e privacidade para gerar o processo de design em geral, enquanto a maioria das abordagens convencionais para o design do sistema s\u00e3o orientadas por requisitos funcionais, o NFR framework procura colocar os requisitos n\u00e3o funcionais em primeiro lugar na mente do desenvolvedor.\n\n\nModelo NFR - Vers\u00e3o inicial\n\n\n\n\nModelo NFR - Vers\u00e3o SR_revisado_Leticia\n\n\n\n\nRefer\u00eancias\n\n\n\n\nChung L., Nixon B.A., Yu E., Mylopoulos J. (2000) The NFR Framework in Action. In: Non-Functional Requirements in Software Engineering. International Series in Software Engineering, vol 5. Springer, Boston, MA",
             "title": "NFR Framework"
         },
         {
@@ -299,6 +299,11 @@
             "location": "/requisitos/nfr/#modelo-nfr-versao-inicial",
             "text": "",
             "title": "Modelo NFR - Vers\u00e3o inicial"
+        },
+        {
+            "location": "/requisitos/nfr/#modelo-nfr-versao-sr_revisado_leticia",
+            "text": "",
+            "title": "Modelo NFR - Vers\u00e3o SR_revisado_Leticia"
         },
         {
             "location": "/requisitos/nfr/#referencias",
