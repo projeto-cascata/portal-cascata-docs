@@ -1,3 +1,5 @@
+<style> p { text-align: justify; text-indent: 30px; } </style>
+
 # I* - Modelagem Intencional
 
 ### Histórico de Revisões
@@ -7,6 +9,9 @@
 |01/04/2018|1.0|Criação da página e adição da descrição e referências| Letícia |
 |02/04/2018|1.1|Adição do Strategic Rationale Model| Letícia |
 |04/04/2018|1.2|Adição do Strategic Dependency Model| Halê |
+|05/04/2018|1.3|Segunda Versão do SR| Letícia   
+
+ ---
 
 O termo I* refere-se ao conceito de intencionalidade distribuída, sendo assim, esse framework propõe uma abordagem orientada a agentes para a engenharia de requisitos, centrando-se nas características intencionais do agente. Os agentes atribuem propriedades intencionais entre si e racionam sobre relacionamentos estratégicos. As dependências entre os agentes geram oportunidades e vulnerabilidades. As dependências são analisadas usando uma abordagem de raciocínio qualitativo. Os agentes consideram configurações alternativas de dependências para avaliar seu posicionamento estratégico  em um contexto.
 
@@ -16,7 +21,13 @@ O termo I* refere-se ao conceito de intencionalidade distribuída, sendo assim, 
 
 ## i* - Strategic Rationale Model - SR
 
-![Modelo representativo SR](../img/istar/SR_Leticia.png)
+### 1ª versão
+
+![Outro Modelo representativo](../img/istar/SR_Leticia.png)
+
+### 2ª Versão - pós revisões
+
+![Segunda versão](../img/istar/SR_revisado_Leticia.png)
 
 ## **Referências**
 
