@@ -1,3 +1,5 @@
+# Diagrama de Classes
+
 ## Histórico de Revisões
 | Data     | Versão | Descrição                   | Autor(es)         |
 |:--------:|:------:|:---------------------------:|:-----------------:|
@@ -5,7 +7,8 @@
 |04/04/2018| 1.1    | Cardinalidades e semântica  | Clarissa Borges   |
 |05/04/2018| 1.2    | Esboços Iniciais            | Felipe Hargreaves |
 
-# Diagrama de Classes
+---
+
 
 ## Versão Atual
 Aqui se encontra a versão mais atual do diagrama. À medida que o sistema evolui, deve ser gerada uma versão nova do modelo, se necessário.<br><br>
