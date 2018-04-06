@@ -9,7 +9,8 @@
 |01/04/2018|1.0|Criação da página e adição da descrição e referências| Letícia |
 |02/04/2018|1.1|Adição do Strategic Rationale Model| Letícia |
 |04/04/2018|1.2|Adição do Strategic Dependency Model| Halê |
-|05/04/2018|1.3|Segunda Versão do SR e adição de testos explicativos| Letícia   
+|05/04/2018|1.3|Segunda Versão do SR e adição de textos explicativos| Letícia |
+|06/04/2018|1.4|Adição da segunda versão do modelo SD| Halê |
 
  ---
 
@@ -21,7 +22,13 @@ O termo I* refere-se ao conceito de intencionalidade distribuída, sendo assim, 
 
 A figura abaixo representa um modelo estratégico de dependência que apresenta as principais funcionalidades do Portal Cascata.
 
-![Modelo representativo SD](../img/istar/SD_Hale.png)
+### 1ª Versão
+
+![Modelo representativo SD](../img/istar/SD_Hale_v1.png)
+
+### 2ª Versão
+
+![Modelo representativo SD](../img/istar/SD_Hale_v2.png)
 
 ## i* - Strategic Rationale Model - SR
 
@@ -29,7 +36,7 @@ A figura abaixo representa um modelo estratégico de dependência que apresenta 
 
 Além da modelagem estratégica de dependência, foi elaborado mais um modelo, que representa os atores e suas áreas de fronteiras, que limitam o escopo da atuação de cada um dos atores, sendo a representação de seus Rationales.
 
-### 1ª versão
+### 1ª Versão
 
 ![Outro Modelo representativo](../img/istar/SR_Leticia.png)
 
