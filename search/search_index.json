@@ -307,7 +307,7 @@
         },
         {
             "location": "/requisitos/istar/",
-            "text": "I* - Modelagem Intencional\n\n\nHist\u00f3rico de Revis\u00f5es\n\n\n\n\n\n\n\n\nData\n\n\nVers\u00e3o\n\n\nDescri\u00e7\u00e3o\n\n\nAutor(es)\n\n\n\n\n\n\n\n\n\n\n01/04/2018\n\n\n1.0\n\n\nCria\u00e7\u00e3o da p\u00e1gina e adi\u00e7\u00e3o da descri\u00e7\u00e3o e refer\u00eancias\n\n\nLet\u00edcia\n\n\n\n\n\n\n02/04/2018\n\n\n1.1\n\n\nAdi\u00e7\u00e3o do Strategic Rationale Model\n\n\nLet\u00edcia\n\n\n\n\n\n\n04/04/2018\n\n\n1.2\n\n\nAdi\u00e7\u00e3o do Strategic Dependency Model\n\n\nHal\u00ea\n\n\n\n\n\n\n\n\nO termo I* refere-se ao conceito de intencionalidade distribu\u00edda, sendo assim, esse framework prop\u00f5e uma abordagem orientada a agentes para a engenharia de requisitos, centrando-se nas caracter\u00edsticas intencionais do agente. Os agentes atribuem propriedades intencionais entre si e racionam sobre relacionamentos estrat\u00e9gicos. As depend\u00eancias entre os agentes geram oportunidades e vulnerabilidades. As depend\u00eancias s\u00e3o analisadas usando uma abordagem de racioc\u00ednio qualitativo. Os agentes consideram configura\u00e7\u00f5es alternativas de depend\u00eancias para avaliar seu posicionamento estrat\u00e9gico  em um contexto.\n\n\ni* - Strategic Dependency Model - SD\n\n\n\n\ni* - Strategic Rationale Model - SR\n\n\n\n\nRefer\u00eancias\n\n\n1.CS Toronto. i* an agent- and goal-oriented modelling framework. Dispon\u00edvel Aqui. Acesso em: 1 de outubro de 2017.\n\n\n\n\n[Open Acess] Leite, Julio Cesar Sampaio do Prado. Livro Vivo- Engenharia de Requisitos. http://livrodeengenhariaderequisitos.blogspot.com.br/ (\u00fatimo acesso: 2018)",
+            "text": "p { text-align: justify; text-indent: 30px; } \n\n\n\nI* - Modelagem Intencional\n\n\nHist\u00f3rico de Revis\u00f5es\n\n\n\n\n\n\n\n\nData\n\n\nVers\u00e3o\n\n\nDescri\u00e7\u00e3o\n\n\nAutor(es)\n\n\n\n\n\n\n\n\n\n\n01/04/2018\n\n\n1.0\n\n\nCria\u00e7\u00e3o da p\u00e1gina e adi\u00e7\u00e3o da descri\u00e7\u00e3o e refer\u00eancias\n\n\nLet\u00edcia\n\n\n\n\n\n\n02/04/2018\n\n\n1.1\n\n\nAdi\u00e7\u00e3o do Strategic Rationale Model\n\n\nLet\u00edcia\n\n\n\n\n\n\n04/04/2018\n\n\n1.2\n\n\nAdi\u00e7\u00e3o do Strategic Dependency Model\n\n\nHal\u00ea\n\n\n\n\n\n\n05/04/2018\n\n\n1.3\n\n\nSegunda Vers\u00e3o do SR\n\n\nLet\u00edcia\n\n\n\n\n\n\n\n\n\n\nO termo I* refere-se ao conceito de intencionalidade distribu\u00edda, sendo assim, esse framework prop\u00f5e uma abordagem orientada a agentes para a engenharia de requisitos, centrando-se nas caracter\u00edsticas intencionais do agente. Os agentes atribuem propriedades intencionais entre si e racionam sobre relacionamentos estrat\u00e9gicos. As depend\u00eancias entre os agentes geram oportunidades e vulnerabilidades. As depend\u00eancias s\u00e3o analisadas usando uma abordagem de racioc\u00ednio qualitativo. Os agentes consideram configura\u00e7\u00f5es alternativas de depend\u00eancias para avaliar seu posicionamento estrat\u00e9gico  em um contexto.\n\n\ni* - Strategic Dependency Model - SD\n\n\n\n\ni* - Strategic Rationale Model - SR\n\n\n1\u00aa vers\u00e3o\n\n\n\n\n2\u00aa Vers\u00e3o - p\u00f3s revis\u00f5es\n\n\n\n\nRefer\u00eancias\n\n\n1.CS Toronto. i* an agent- and goal-oriented modelling framework. Dispon\u00edvel Aqui. Acesso em: 1 de outubro de 2017.\n\n\n\n\n[Open Acess] Leite, Julio Cesar Sampaio do Prado. Livro Vivo- Engenharia de Requisitos. http://livrodeengenhariaderequisitos.blogspot.com.br/ (\u00fatimo acesso: 2018)",
             "title": "I*"
         },
         {
@@ -317,7 +317,7 @@
         },
         {
             "location": "/requisitos/istar/#historico-de-revisoes",
-            "text": "Data  Vers\u00e3o  Descri\u00e7\u00e3o  Autor(es)      01/04/2018  1.0  Cria\u00e7\u00e3o da p\u00e1gina e adi\u00e7\u00e3o da descri\u00e7\u00e3o e refer\u00eancias  Let\u00edcia    02/04/2018  1.1  Adi\u00e7\u00e3o do Strategic Rationale Model  Let\u00edcia    04/04/2018  1.2  Adi\u00e7\u00e3o do Strategic Dependency Model  Hal\u00ea     O termo I* refere-se ao conceito de intencionalidade distribu\u00edda, sendo assim, esse framework prop\u00f5e uma abordagem orientada a agentes para a engenharia de requisitos, centrando-se nas caracter\u00edsticas intencionais do agente. Os agentes atribuem propriedades intencionais entre si e racionam sobre relacionamentos estrat\u00e9gicos. As depend\u00eancias entre os agentes geram oportunidades e vulnerabilidades. As depend\u00eancias s\u00e3o analisadas usando uma abordagem de racioc\u00ednio qualitativo. Os agentes consideram configura\u00e7\u00f5es alternativas de depend\u00eancias para avaliar seu posicionamento estrat\u00e9gico  em um contexto.",
+            "text": "Data  Vers\u00e3o  Descri\u00e7\u00e3o  Autor(es)      01/04/2018  1.0  Cria\u00e7\u00e3o da p\u00e1gina e adi\u00e7\u00e3o da descri\u00e7\u00e3o e refer\u00eancias  Let\u00edcia    02/04/2018  1.1  Adi\u00e7\u00e3o do Strategic Rationale Model  Let\u00edcia    04/04/2018  1.2  Adi\u00e7\u00e3o do Strategic Dependency Model  Hal\u00ea    05/04/2018  1.3  Segunda Vers\u00e3o do SR  Let\u00edcia      O termo I* refere-se ao conceito de intencionalidade distribu\u00edda, sendo assim, esse framework prop\u00f5e uma abordagem orientada a agentes para a engenharia de requisitos, centrando-se nas caracter\u00edsticas intencionais do agente. Os agentes atribuem propriedades intencionais entre si e racionam sobre relacionamentos estrat\u00e9gicos. As depend\u00eancias entre os agentes geram oportunidades e vulnerabilidades. As depend\u00eancias s\u00e3o analisadas usando uma abordagem de racioc\u00ednio qualitativo. Os agentes consideram configura\u00e7\u00f5es alternativas de depend\u00eancias para avaliar seu posicionamento estrat\u00e9gico  em um contexto.",
             "title": "Hist\u00f3rico de Revis\u00f5es"
         },
         {
@@ -329,6 +329,16 @@
             "location": "/requisitos/istar/#i-strategic-rationale-model-sr",
             "text": "",
             "title": "i* - Strategic Rationale Model - SR"
+        },
+        {
+            "location": "/requisitos/istar/#1a-versao",
+            "text": "",
+            "title": "1\u00aa vers\u00e3o"
+        },
+        {
+            "location": "/requisitos/istar/#2a-versao-pos-revisoes",
+            "text": "",
+            "title": "2\u00aa Vers\u00e3o - p\u00f3s revis\u00f5es"
         },
         {
             "location": "/requisitos/istar/#referencias",
@@ -712,18 +722,28 @@
         },
         {
             "location": "/arquitetura/diagrama_classes/",
-            "text": "Hist\u00f3rico de Revis\u00f5es\n\n\n\n\n\n\n\n\nData\n\n\nVers\u00e3o\n\n\nDescri\u00e7\u00e3o\n\n\nAutor(es)\n\n\n\n\n\n\n\n\n\n\n02/04/2018\n\n\n1.0\n\n\nVers\u00e3o Inicial do Diagrama\n\n\nFelipe Hargreaves\n\n\n\n\n\n\n\n\nDiagrama de Classes",
+            "text": "Diagrama de Classes\n\n\nHist\u00f3rico de Revis\u00f5es\n\n\n\n\n\n\n\n\nData\n\n\nVers\u00e3o\n\n\nDescri\u00e7\u00e3o\n\n\nAutor(es)\n\n\n\n\n\n\n\n\n\n\n02/04/2018\n\n\n1.0\n\n\nVers\u00e3o Inicial do Diagrama\n\n\nFelipe Hargreaves\n\n\n\n\n\n\n04/04/2018\n\n\n1.1\n\n\nCardinalidades e sem\u00e2ntica\n\n\nClarissa Borges\n\n\n\n\n\n\n05/04/2018\n\n\n1.2\n\n\nEsbo\u00e7os Iniciais\n\n\nFelipe Hargreaves\n\n\n\n\n\n\n\n\n\n\nVers\u00e3o Atual\n\n\nAqui se encontra a vers\u00e3o mais atual do diagrama. \u00c0 medida que o sistema evolui, deve ser gerada uma vers\u00e3o nova do modelo, se necess\u00e1rio.\n\n\n\n\nEsbo\u00e7os Iniciais\n\n\nA t\u00edtulo de rastreabilidade, se incluem aqui algumas vers\u00f5es primitivas do diagrama. Nestas o foco maior era em se modelar o dom\u00ednio geral da aplica\u00e7\u00e3o, e destaca-se que n\u00e3o h\u00e1 grande precis\u00e3o com as particularidades t\u00e9cnicas do artefato.\n\n\nA mudan\u00e7a mais importante destes esbo\u00e7os iniciais em compara\u00e7\u00e3o a vers\u00f5es mais sofisticadas do diagrama diz respeito \u00e0 organiza\u00e7\u00e3o dos diferentes tipos de usu\u00e1rio e suas permiss\u00f5es no sistema. Aqui se visualiza uma estrutura de heran\u00e7as que corresponde de certa forma \u00e0 hierarquia que existe nos diferentes setores do Projeto. Essa abordagem se mostrou dif\u00edcil de transcrever para o modelo, pois as fun\u00e7\u00f5es diferentes exercidas por cada tipo de membro n\u00e3o se adaptam de forma clara a um sistema de heran\u00e7as. A alternativa adotada foi a de um sistema de grupos e permiss\u00f5es, removendo essas responsabilidades das classes de usu\u00e1rio.",
             "title": "Diagrama de Classes"
-        },
-        {
-            "location": "/arquitetura/diagrama_classes/#historico-de-revisoes",
-            "text": "Data  Vers\u00e3o  Descri\u00e7\u00e3o  Autor(es)      02/04/2018  1.0  Vers\u00e3o Inicial do Diagrama  Felipe Hargreaves",
-            "title": "Hist\u00f3rico de Revis\u00f5es"
         },
         {
             "location": "/arquitetura/diagrama_classes/#diagrama-de-classes",
             "text": "",
             "title": "Diagrama de Classes"
+        },
+        {
+            "location": "/arquitetura/diagrama_classes/#historico-de-revisoes",
+            "text": "Data  Vers\u00e3o  Descri\u00e7\u00e3o  Autor(es)      02/04/2018  1.0  Vers\u00e3o Inicial do Diagrama  Felipe Hargreaves    04/04/2018  1.1  Cardinalidades e sem\u00e2ntica  Clarissa Borges    05/04/2018  1.2  Esbo\u00e7os Iniciais  Felipe Hargreaves",
+            "title": "Hist\u00f3rico de Revis\u00f5es"
+        },
+        {
+            "location": "/arquitetura/diagrama_classes/#versao-atual",
+            "text": "Aqui se encontra a vers\u00e3o mais atual do diagrama. \u00c0 medida que o sistema evolui, deve ser gerada uma vers\u00e3o nova do modelo, se necess\u00e1rio.",
+            "title": "Vers\u00e3o Atual"
+        },
+        {
+            "location": "/arquitetura/diagrama_classes/#esbocos-iniciais",
+            "text": "A t\u00edtulo de rastreabilidade, se incluem aqui algumas vers\u00f5es primitivas do diagrama. Nestas o foco maior era em se modelar o dom\u00ednio geral da aplica\u00e7\u00e3o, e destaca-se que n\u00e3o h\u00e1 grande precis\u00e3o com as particularidades t\u00e9cnicas do artefato.  A mudan\u00e7a mais importante destes esbo\u00e7os iniciais em compara\u00e7\u00e3o a vers\u00f5es mais sofisticadas do diagrama diz respeito \u00e0 organiza\u00e7\u00e3o dos diferentes tipos de usu\u00e1rio e suas permiss\u00f5es no sistema. Aqui se visualiza uma estrutura de heran\u00e7as que corresponde de certa forma \u00e0 hierarquia que existe nos diferentes setores do Projeto. Essa abordagem se mostrou dif\u00edcil de transcrever para o modelo, pois as fun\u00e7\u00f5es diferentes exercidas por cada tipo de membro n\u00e3o se adaptam de forma clara a um sistema de heran\u00e7as. A alternativa adotada foi a de um sistema de grupos e permiss\u00f5es, removendo essas responsabilidades das classes de usu\u00e1rio.",
+            "title": "Esbo\u00e7os Iniciais"
         },
         {
             "location": "/gerenciamento/cronograma/",
