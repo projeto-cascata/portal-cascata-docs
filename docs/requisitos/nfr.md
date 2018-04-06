@@ -13,6 +13,9 @@ O NFR Framework visa priorizar os requisitos não funcionais como usabilidade, s
 
 ![Requisitos não funcionais](../img/NFR/NFRprojetoCascata.png)
 
+## Modelo NFR - Versão SR_revisado_Leticia
+![Requisitos não funcionais revisados](../img/NFR/NFR_Revisado.png)
+
 ## **Referências**
 
 1. Chung L., Nixon B.A., Yu E., Mylopoulos J. (2000) The NFR Framework in Action. In: Non-Functional Requirements in Software Engineering. International Series in Software Engineering, vol 5. Springer, Boston, MA
