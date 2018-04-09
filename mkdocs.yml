@@ -3,6 +3,7 @@ site_name: Portal Cascata - Docs
 pages:
   - Home: index.md
   - Justificativa Metodológica: justificativa.md
+  - Modelagem de Processo: processo.md
   - Engenharia de Requisitos:
     - Documento de Visão: requisitos/visao.md
     - Introdução: requisitos/requisitos.md
