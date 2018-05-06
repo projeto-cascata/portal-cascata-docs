@@ -34,6 +34,9 @@ pages:
     - Épicos: requisitos/epicos.md
     - Features: requisitos/features.md
     - Histórias de Usuários: requisitos/backlogproduct.md
+  - Padrões de Projeto:
+    - GRASPs: padroes/grasp.md
+    - GOFs: padroes/gof.md
 
 
 theme: material
