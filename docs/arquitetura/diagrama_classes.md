@@ -10,9 +10,13 @@
 ---
 
 
-## Versão Atual
-Aqui se encontra a versão mais atual do diagrama. À medida que o sistema evolui, deve ser gerada uma versão nova do modelo, se necessário.<br><br>
+## Versão Atual - 06/05/2018
+Aqui se encontra a versão mais atual do diagrama, de acordo com a implementação. À medida que o sistema evolui, deve ser gerada uma versão nova do modelo, se necessário.<br><br>
 
+![Diagrama de Classes](../img/Classes/Classes-pc2.png)
+
+## Modelo Base
+Esta versão corresponde ao primeiro modelo estável realizado antes do início da implementação, e serve de base para versões futuras, contemplando o sistema como um todo.
 ![Diagrama de Classes](../img/Classes/class_diagram.png)
 
 ## Esboços Iniciais
