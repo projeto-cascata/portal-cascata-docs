@@ -1,6 +1,9 @@
-# ** Sprint 0 **
+<style> p { text-align: justify; text-indent: 30px; } </style>
 
-Número da Sprint: 0
+
+# ** <i>Sprint</i> 0 **
+
+Número da <i>Sprint</i>: 0
 
 Data de Início: 06/04/2017
 
@@ -16,7 +19,7 @@ Scrum Master: Bernardo Henrique
 
 
 ## ** 1. Planejamento das Histórias ** 
-Para esta sprint foram constatadas depedências entre features, sendo então focada a feature E1FE1 - Manter Usuários. Sendo as histórias de usuário planejadas derivando desta. 
+Para esta <i>sprint</i> foram constatadas depedências entre features, sendo então focada a feature E1FE1 - Manter Usuários. Sendo as histórias de usuário planejadas derivando desta. 
 
 Além das histórias de usuário, foram realizadas também algumas histórias técnicas, que por sua vez foram importantes para manter a continuidade da entrega de valor (como dockerizar aplicação), melhorar o SGBD (migrar o banco de dados do projeto para postgree) e mudanças no layout.
 
@@ -59,7 +62,7 @@ Exibir o perfil de um administrador.
 
 Devem ser exibidos campos de nome, matrícula, e-mail e telefone, além de uma possível foto enviada pelo usuário.
 
-** Responsáveis: ** Clarissa Lima e Felipe Hargrives.
+** Responsáveis: ** Clarissa Lima e Felipe Hargreaves.
 <br><br>
 
 
@@ -109,7 +112,7 @@ Apenas os grupos de usuários apropriados terão permissão para acessar notíci
 <br><br>
 
 
-## ** 4. Fechamento da Sprint **
+## ** 4. Fechamento da <i>Sprint</i> **
 | Histórias Planejadas | Status |
 |----------------------|--------|
 | US01: Realizar Login | ** Completo ** |
@@ -130,11 +133,11 @@ Apenas os grupos de usuários apropriados terão permissão para acessar notíci
 
 
 ## ** 5. Análise do Scrum Master **
-Nesta sprint, foram realizadas cinco histórias técnicas e três, das seis, histórias de usuário planejadas. Estas histórias não foram entregues pelos seguintes fatos: 
+Nesta <i>sprint</i>, foram realizadas cinco histórias técnicas e três, das seis, histórias de usuário planejadas. Estas histórias não foram entregues pelos seguintes fatos: 
 
-* Durante o período da Sprint 0 os membros se encontraram atarefados com outras disciplinas.
+* Durante o período da <i>Sprint</i> 0, os membros se encontraram atarefados com outras disciplinas.
 * Alguns membros possuem dificuldade na tecnologia usada.
 * Dificuldade de encontrar horários com a dupla de pareamento.
 
 
-A não entrega das tarefas pode dificultar o desenvolvimento das tarefas a seguir, uma vez que as histórias priorizadas para essa sprint são base para o restante do software. As histórias que não foram concluídas serão replanejadas para as próximas sprints.
+A não entrega das tarefas pode dificultar o desenvolvimento das tarefas a seguir, uma vez que as histórias priorizadas para essa <i>sprint</i> são base para o restante do software. As histórias que não foram concluídas serão replanejadas para as próximas <i>sprints</i>.

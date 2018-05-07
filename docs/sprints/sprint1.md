@@ -1,6 +1,9 @@
-# ** Sprint 1 **
+<style> p { text-align: justify; text-indent: 30px; } </style>
 
-Número da Sprint: 0
+
+# ** <i>Sprint</i> 1 **
+
+Número da <i>sprint</i>: 0
 
 Data de Início: 20/04/2017
 
@@ -17,7 +20,7 @@ Scrum Master: Mariana Pícolo
 
 
 ## ** 1. Planejamento das Histórias ** 
-Para esta sprint, foram continuadas histórias que não foram fechadas na sprint anterior, além de serem designadas novas histórias. Nesta sprint não foram realizadas histórias técnicas.
+Para esta <i>sprint</i>, foram continuadas histórias que não foram fechadas na <i>sprint</i> anterior, além de serem designadas novas histórias. Nesta <i>sprint</i> não foram realizadas histórias técnicas.
 
 
 ## ** 2. Histórias **
@@ -67,7 +70,7 @@ Apenas os grupos de usuários apropriados terão permissão para criar notícias
 
 O usuário pode indicar quais grupos terão acesso a uma determinada notícia (pública, apenas usuários cadastrados, funções específicas).
 
-** Responsáveis: ** Bruna Pinos e Felipe Hargrives.
+** Responsáveis: ** Bruna Pinos e Felipe Hargreaves.
 <br><br>
 
 
@@ -80,7 +83,7 @@ O usuário pode indicar quais grupos terão acesso a uma determinada notícia (p
 
 
 
-## ** 4. Fechamento da Sprint **
+## ** 4. Fechamento da <i>Sprint</i> **
 | Histórias Planejadas | Status |
 |----------------------|--------|
 | US07: Ver perfil | Incompleto |
@@ -92,12 +95,15 @@ O usuário pode indicar quais grupos terão acesso a uma determinada notícia (p
 
 
 ## ** 4. Análise do Scrum Master **
-Nesta sprint, não foram realizadas histórias técnicas e duas, das cinco, histórias de usuário planejadas foram implementadas. Estas histórias não foram entregues pelos seguintes fatos: 
+Nesta <i>sprint</i>, não foram realizadas histórias técnicas e duas, das cinco, histórias de usuário planejadas foram implementadas. Estas histórias não foram entregues pelos seguintes fatos: 
 
-* Durante o período da Sprint 1 os membros se encontraram atarefados com outras disciplinas.
+* Durante o período da <i>Sprint</i> 1 os membros se encontraram atarefados com outras disciplinas.
 * Alguns membros ainda possuem dificuldade na tecnologia usada.
 * Dificuldade de encontrar horários com a dupla de pareamento.
 
-Nesta sprint, foi constatada uma queda na produtividade dos membros em comparação com a sprint anterior. Os pareamentos continuaram os mesmo, com o objetivo de sanar as dívidas técnicas das sprints anteriores. 
+Nesta <i>sprint</i>, foi constatada uma queda na produtividade dos membros em comparação com a <i>sprint</i> anterior. Os pareamentos continuaram os mesmos, com o objetivo de sanar as dívidas técnicas das <i>sprints</i> anteriores.    
 
-A não entrega das tarefas pode dificultar o desenvolvimento das tarefas a seguir, uma vez que as histórias priorizadas para essa sprint são base para o restante do software. As histórias que não foram concluídas serão replanejadas para as próximas sprints.
+Um dos problemas constatados durante a <i>sprint</i>, foi a falta de disponibilidade dos membros do grupo para pareamentos, por conta da proximidade da data da prova 1.   
+Os membros optaram por priorizar os estudos para a prova, que também traria benefícios ao projeto, já que o conhecimento dos padrões estaria solidificado, uma vez que foram estudados extensivamente para a prova.
+
+A não entrega das tarefas pode dificultar o desenvolvimento das tarefas a seguir, uma vez que as histórias priorizadas para essa <i>sprint</i> são base para o restante do software. As histórias que não foram concluídas serão replanejadas para as próximas <i>sprints</i>.
