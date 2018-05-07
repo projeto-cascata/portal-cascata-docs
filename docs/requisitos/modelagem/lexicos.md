@@ -8,15 +8,15 @@
 | Nome | Presença |
 |:---------:|---------|
 | Sinônimos | Frequência |
-| Noção | Confirmação de que o estudante/membro esteve presente na aula ou reunião |
-| Impacto | Professor marca presença ao aluno; Aluno vai a aula |
+| Noção | Confirmação de que o [estudante](#aluno)/membro esteve presente na aula ou [reunião](#reunião) |
+| Impacto | [Professor](#professor) marca [presença](#presença) ao aluno; [Aluno](#aluno) vai a aula |
 | Classificação | Objeto |
 
 ## Aluno
 
 | Nome | Aluno |
 |:---------:|---------|
-| Sinônimos | Estudante|
+| Sinônimos | [estudante](#aluno)|
 | Noção | Pessoa inscrita no Projeto Cascata que frequenta as aulas ministradas|
 | Impacto | Pessoa se inscreve no Projeto |
 | Classificação | Pessoa |
@@ -27,7 +27,7 @@
 |:---------:|---------|
 | Sinônimos | Membro, Voluntário |
 | Noção | Pessoa inscrita como voluntário do Projeto Cascata responsável por ministrar as aulas| 
-| Impacto | Pessoa se candidata a membro; Professor ministra a aula; Professor marca presença ao alunos; Membros frequentam a reunião; Professor divulga o conteúdo |
+| Impacto | Pessoa se candidata a membro; [Professor](#professor) ministra a aula; [Professor](#professor) marca [presença](#presença) ao [alunos](#aluno); Membros frequentam a [reunião](#reunião); [Professor](#professor) [divulga](#compartilhar) o [conteúdo](#material) |
 | Classificação | Pessoa |
 
 ## Google Drive
@@ -36,7 +36,7 @@
 |:---------:|---------|
 | Sinônimos | Drive |
 | Noção | Espaço de armazenamento em nuvem para manter documentos internos aos membros.|
-| Impacto | Pessoa se candidata a membro; Atualizar a Planilha de Frequência; Pessoa se inscreve no Projeto; Alunos acessam os materiais; Professor disponibiliza o conteúdo |
+| Impacto | Pessoa se candidata a membro; Atualizar a Planilha de Frequência; Pessoa se inscreve no Projeto; [Alunos](#aluno) acessam os materiais; [Professor](#professor) disponibiliza o [conteúdo](#material) |
 | Classificação | Objeto |
 
 ## Notícia
@@ -44,8 +44,8 @@
 | Nome | Notícia |
 |:---------:|---------|
 | Sinônimos | informação, Aviso |
-| Noção | Informações importantes que devem ser conhecidas por todos os integrantes(alunos e membros) do projeto.|
-| Impacto | Membros divulgam a notícia |
+| Noção | Informações importantes que devem ser conhecidas por todos os integrantes([alunos](#aluno) e membros) do projeto.|
+| Impacto | Membros [divulgam](#compartilhar) a [notícia](#notícia) |
 | Classificação | Objeto |
 
 ## Material
@@ -53,8 +53,8 @@
 | Nome | Material |
 |:---------:|---------|
 | Sinônimos | Conteúdos, textos bases, referências, videos|
-| Noção | Toda informação atrelada ao conteúdo passado pelo professor que é relevante aos estudos dos alunos|
-| Impacto | Membros divulgam a notícia; Alunos acessam os materiais; Professor divulga o conteúdo|
+| Noção | Toda informação atrelada ao conteúdo passado pelo professor que é relevante aos estudos dos [alunos](#aluno)|
+| Impacto | Membros [divulgam](#compartilhar) a [notícia](#notícia); [Alunos](#aluno) acessam os materiais; [Professor](#professor) [divulga](#compartilhar) o [conteúdo](#material)|
 | Classificação | Objeto |
 
 ## Termo de Voluntariado
@@ -72,9 +72,9 @@ do projeto |
 | Nome | Compartilhar |
 |:---------:|---------|
 | Sinônimos | Divulgar, postar|
-| Noção | Ação de divulgar conhecimento, materiais ou notícias aos integrantes do projeto. Normalmente nos grupos
+| Noção | Ação de divulgar conhecimento, materiais ou [notícias](#notícia) aos integrantes do projeto. Normalmente nos grupos
 dos integrantes, tais como o do Facebook e Whatsapp |
-| Impacto | Professor divulga o conteúdo; Membros divulgam a notícia; Alunos acessam os materiais |
+| Impacto | [Professor](#professor) [divulga](#compartilhar) o [conteúdo](#material); Membros [divulgam](#compartilhar) a [notícia](#notícia); [Alunos](#aluno) acessam os materiais |
 | Classificação | Verbo |
 
 ## Grupo
@@ -82,9 +82,9 @@ dos integrantes, tais como o do Facebook e Whatsapp |
 | Nome | Grupo |
 |:---------:|---------|
 | Sinônimos | Grupo do Whatsapp, Grupo do Facebook, Whatsapp, Facebook, "Face" |
-| Noção | Lugar reservado para os integrantes do Projeto interagir entre si, com notícias, documentos e outras coisas. Estes grupos estão
+| Noção | Lugar reservado para os integrantes do Projeto interagir entre si, com [notícias](#notícia), documentos e outras coisas. Estes grupos estão
 situados nas redes sociais Facebook e Whatsapp |
-| Impacto | Professor divulga o conteúdo; Membros divulgam a notícia; Pessoa; Pessoa se candidata a membro; Pessoa se inscreve no Projeto |
+| Impacto | [Professor](#professor) divulga o [conteúdo](#material); Membros [divulgam](#compartilhar) a [notícia](#notícia); Pessoa; Pessoa se candidata a membro; Pessoa se inscreve no Projeto |
 | Classificação | Objeto |
 
 ## Chamada
@@ -92,9 +92,8 @@ situados nas redes sociais Facebook e Whatsapp |
 | Nome | Chamada |
 |:---------:|---------|
 | Sinônimos | - | 
-| Noção | Ato do professor verificar se todos os alunos estão presentes; Papel no qual o aluno assina 
-confirmando sua presença em certa aula |
-| Impacto | Aluno vai a aula; Professor marca presença ao aluno |
+| Noção | Ato do professor verificar se todos os [alunos](#aluno) estão presentes; Papel no qual o aluno assina confirmando sua [presença](#presença) em certa aula |
+| Impacto | [Aluno](#aluno) vai a aula; [Professor](#professor) marca [presença](#presença) ao aluno |
 | Classificação | |
 
 ## Diretor
@@ -121,7 +120,7 @@ confirmando sua presença em certa aula |
 |:---------:|---------|
 | Sinônimos | - |
 | Noção | Encontro entre membros do projeto para tratar assuntos internos |
-| Impacto | Membros frequentam a reunião |
+| Impacto | Membros frequentam a [reunião](#reunião) |
 | Classificação | Objeto |
 
 ## RH
@@ -138,8 +137,8 @@ confirmando sua presença em certa aula |
 | Nome | Falta |
 |:---------:|---------|
 | Sinônimos | Ausência |
-| Noção | Ato de não comparecer a aulas ou reuniões. Tanto membros, quanto alunos faltam. |
-| Impacto | Membro justifica a falta |
+| Noção | Ato de não comparecer a aulas ou reuniões. Tanto membros, quanto [alunos](#aluno) [faltam](#falta). |
+| Impacto | Membro justifica a [falta](#falta) |
 | Classificação | Objeto |
 
 ## Pedagogia
@@ -147,7 +146,7 @@ confirmando sua presença em certa aula |
 | Nome | Pedagogia |
 |:---------:|---------|
 | Sinônimos | - |
-| Noção | Área responsável pelo gestão de alunos |
+| Noção | Área responsável pelo gestão de [alunos](#aluno) |
 | Impacto | - |
 | Classificação | Objeto | 
 
@@ -156,7 +155,7 @@ confirmando sua presença em certa aula |
 | Nome | Conteúdo |
 |:---------:|---------|
 | Sinônimos | - |
-| Noção | Área responsável por organizar o material e conteúdo do Projeto de maneira alinhada com o que o MEC(Ministério da Educação) |
+| Noção | Área responsável por organizar o [material](#material) e conteúdo do Projeto de maneira alinhada com o que o MEC(Ministério da Educação) |
 | Impacto | - |
 | Classificação | Objeto | 
 
@@ -183,8 +182,8 @@ confirmando sua presença em certa aula |
 | Nome | Registro de Frequêcia |
 |:---------:|---------|
 | Sinônimos | Planilha de Frequência |
-| Noção | Documento/planilha onde arquiva-se as frequências e faltas dos membros |
-| Impacto | Membro justifica a falta |
+| Noção | Documento/planilha onde arquiva-se as frequências e [faltas](#falta) dos membros |
+| Impacto | Membro justifica a [falta](#falta) |
 | Classificação | Objeto | 
 
 ## Estatuto
@@ -193,7 +192,7 @@ confirmando sua presença em certa aula |
 |:---------:|---------|
 | Sinônimos | - |
 | Noção | Documento que descreve as condutas esperadas dos membros voluntários do projeto, assim como seus deveres e direitos |
-| Impacto | Membro justifica a falta |
+| Impacto | Membro justifica a [falta](#falta) |
 | Classificação | Objeto |
 
 ## Advertência
@@ -201,8 +200,8 @@ confirmando sua presença em certa aula |
 | Nome | Advertência |
 |:---------:|---------|
 | Sinônimos | Penalidade |
-| Noção | Gerar punição aqueles membros que descumpriram alguma regra imposta pelo estatuto, como por exemplo falta excessiva |
-| Impacto | Membro justifica a falta |
+| Noção | Gerar punição aqueles membros que descumpriram alguma regra imposta pelo estatuto, como por exemplo [falta](#falta) excessiva |
+| Impacto | Membro justifica a [falta](#falta) |
 | Classificação | Objeto | 
 
 ## Processo Seltivo
