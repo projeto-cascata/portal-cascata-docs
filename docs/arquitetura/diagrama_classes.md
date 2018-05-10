@@ -6,18 +6,21 @@
 |02/04/2018| 1.0    | Versão Inicial do Diagrama  | Felipe Hargreaves |
 |04/04/2018| 1.1    | Cardinalidades e semântica  | Clarissa Borges   |
 |05/04/2018| 1.2    | Esboços Iniciais            | Felipe Hargreaves |
-
 ---
 
 
-## Versão Atual - 06/05/2018
+## Versão Atual - 10/05/2018
 Aqui se encontra a versão mais atual do diagrama, de acordo com a implementação. À medida que o sistema evolui, deve ser gerada uma versão nova do modelo, se necessário.<br><br>
 
-![Diagrama de Classes](../img/Classes/Classes-pc2.png)
+![Diagrama de Classes](../img/Classes/Classes-pc2-1005.png)
 
 ## Modelo Base
 Esta versão corresponde ao primeiro modelo estável realizado antes do início da implementação, e serve de base para versões futuras, contemplando o sistema como um todo.
 ![Diagrama de Classes](../img/Classes/class_diagram.png)
+
+## Versões Anteriores - 
+### 06/05/2018
+![Diagrama de Classes](../img/Classes/Classes-pc2.png)
 
 ## Esboços Iniciais
 A título de rastreabilidade, se incluem aqui algumas versões primitivas do diagrama. Nestas o foco maior era em se modelar o domínio geral da aplicação, e destaca-se que não há grande precisão com as particularidades técnicas do artefato.

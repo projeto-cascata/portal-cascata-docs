@@ -8,7 +8,7 @@ Uma das primeiras tentativas de estudo e documentação de padrões de projeto f
 
 Os 23 padrões tem sido classificados da seguinte forma:
 
-- **Criacionas**, são padrões voltados para a criação de objetos.
+- **Criacionais**, são padrões voltados para a criação de objetos.
     - Abstract Factory
     - Builder
     - Factory Method
@@ -43,7 +43,8 @@ Os 23 padrões tem sido classificados da seguinte forma:
 | Estrutural     |  *Decorator*      | Equipe           | Na *feature* de gerenciamento de notícias em um dado momento é requisitado que as permissões sejam adequadas ao tipo de usuário que está logado no sistema. Para adaptar a permissão ao usuário atual foi utilizado um *decorator*.                                                                                           |
 | Estrutural     | *Facade*          | *Django*         | O *Django* em sua estrutura já implementa o padrão *Facade*, o arquivo de *URL's* (gerado pelo *framework*) é onde é feito todo o gerenciamento de rotas da aplicação. Dentro do *Django* existem vários *apps* e cada um tem a sua *url*, o arquivo *urls.py* nada mais é do que uma fachada que gerencia outras fachadas.   |
 | Comportamental | *Command*         | *Django*         | Visto que o *Django* utiliza *class based views* em sua estrutura, sempre que é realizada uma requisição é necessário resolvê-la. É aí que entra o padrão *command*, que trata de encapsular a requisição em um objeto.                                                                                                       |
-| Comportamental | *Template Method* | *Django*         | O *Template Method* é implementado devido a utilização de *class based generic views* pelo *Django*, é possível observar isso ao alterar os passos de um algoritmo sem necessidade de mudança na sua estrutura.                                                                                                               |
+| Comportamental | *Template Method* | *Django*         | O *Template Method* é implementado devido a utilização de *class based generic views* pelo *Django*, é possível observar isso ao alterar os passos de um algoritmo sem necessidade de mudança na sua estrutura.                                                                                                               
+| Comportamental | *Composite* | Equipe         | O *Composite* foi aplicado durante a criação do sistema de disciplinas, ao se considerar a agregação existente entre Disciplinas (por exemplo, Matemática) com suas respectivas frentes (Matemática 1, Matemática 2). No caso as Frentes representam as Leaves do padrão, enquanto a Disciplina agregadora representa o Composite.                                                                                                              |
 
 
 ## Referências
