@@ -44,6 +44,14 @@ Além da modelagem estratégica de dependência, foi elaborado mais um modelo, q
 
 ![Segunda versão](../img/istar/SR_revisado_Leticia.png)
 
+### Versão SR de Visão de Candidato a Usuário
+
+![Visão de Usuário](../img/istar/SR_candidato_usuario.png)
+
+### Versão SR de Membro
+
+![Visão de Usuário](../img/istar/SR_membro.png)
+
 ## **Referências**
 
 1.CS Toronto. i* an agent- and goal-oriented modelling framework. Disponível Aqui. Acesso em: 1 de outubro de 2017.
