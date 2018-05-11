@@ -14,7 +14,7 @@ O NFR Framework visa priorizar os requisitos não funcionais como usabilidade, s
 ![Requisitos não funcionais](../img/NFR/NFRprojetoCascata.png)
 
 ## Modelo NFR - Versão SR_revisado_Leticia
-![Requisitos não funcionais revisados](../img/NFR/NFR_Revisado.png)
+![Requisitos não funcionais revisados](../img/NFR/NFR_Revisado_PC2.png)
 
 ## **Referências**
 
