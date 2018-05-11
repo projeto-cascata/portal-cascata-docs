@@ -3,7 +3,7 @@
 
 # ** <i>Sprint</i> 1 **
 
-Número da <i>sprint</i>: 0
+Número da <i>sprint</i>: 1
 
 Data de Início: 20/04/2017
 
@@ -11,7 +11,7 @@ Data de Término: 04/05/2017
 
 Duração: Quatorze Dias (Duas Semanas)
 
-Scrum Master: Mariana Pícolo
+Scrum Master: Bernardo Henrique
 
 
 ## ** 1. Pareamento** 
