@@ -193,6 +193,12 @@
      <changefreq>daily</changefreq>
     </url>
         
+    <url>
+     <loc>/sprints/sprint2/</loc>
+     <lastmod>2018-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
 </urlset>
