@@ -32,7 +32,7 @@
         <meta name="lang:search.tokenizer" content="[\s\-]+">
       
       <link rel="shortcut icon" href="../../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-0.17.3, mkdocs-material-2.7.1">
+      <meta name="generator" content="mkdocs-0.17.3, mkdocs-material-2.7.0">
     
     
       
@@ -66,8 +66,8 @@
         
       </defs>
     </svg>
-    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="drawer" autocomplete="off">
-    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="search" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="drawer">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="search">
     <label class="md-overlay" data-md-component="overlay" for="drawer"></label>
     
       <a href="#padroes-gof" tabindex="1" class="md-skip">
@@ -844,7 +844,7 @@
 <p>Uma das primeiras tentativas de estudo e documentação de padrões de projeto foi um livro chamado <strong>Padrões de Projeto - Soluções Reutilizaveis de Software Orientado a Objetos</strong>, escrito por <em>Erich Gamma, Richard Helm, Ralph Johnson</em>, e <em>John Vlissides</em>, que posteriormente ficariam conhecidos como <em>Gang of Four</em> (GoF). O trabalho realizado por eles e documentado neste livro se tornou tão importante que para muitos os 23 padrões de projeto descritos na obra são peças fundamentais na Engenharia de <em>Software</em></p>
 <p>Os 23 padrões tem sido classificados da seguinte forma:</p>
 <ul>
-<li><strong>Criacionas</strong>, são padrões voltados para a criação de objetos.<ul>
+<li><strong>Criacionais</strong>, são padrões voltados para a criação de objetos.<ul>
 <li>Abstract Factory</li>
 <li>Builder</li>
 <li>Factory Method</li>
@@ -918,6 +918,12 @@
 <td align="center"><em>Django</em></td>
 <td>O <em>Template Method</em> é implementado devido a utilização de <em>class based generic views</em> pelo <em>Django</em>, é possível observar isso ao alterar os passos de um algoritmo sem necessidade de mudança na sua estrutura.</td>
 </tr>
+<tr>
+<td align="center">Comportamental</td>
+<td align="center"><em>Composite</em></td>
+<td align="center">Equipe</td>
+<td>O <em>Composite</em> foi aplicado durante a criação do sistema de disciplinas, ao se considerar a agregação existente entre Disciplinas (por exemplo, Matemática) com suas respectivas frentes (Matemática 1, Matemática 2). No caso as Frentes representam as Leaves do padrão, enquanto a Disciplina agregadora representa o Composite.</td>
+</tr>
 </tbody>
 </table>
 <h2 id="referencias">Referências</h2>
@@ -930,8 +936,6 @@
               
               
                 
-
-
               
             </article>
           </div>
