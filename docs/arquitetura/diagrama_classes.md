@@ -9,10 +9,13 @@
 ---
 
 
-## Versão Atual - 10/05/2018
+## Versão Atual - 13/05/2018
 Aqui se encontra a versão mais atual do diagrama, de acordo com a implementação. À medida que o sistema evolui, deve ser gerada uma versão nova do modelo, se necessário.<br><br>
 
-![Diagrama de Classes](../img/Classes/Classes-pc2-1005.png)
+### Models
+![Diagrama de Classes](../img/Classes/Classes-models-1305.png)
+### Views
+![Diagrama de Classes](../img/Classes/classes-views.png)
 
 ## Modelo Base
 Esta versão corresponde ao primeiro modelo estável realizado antes do início da implementação, e serve de base para versões futuras, contemplando o sistema como um todo.
@@ -21,6 +24,8 @@ Esta versão corresponde ao primeiro modelo estável realizado antes do início 
 ## Versões Anteriores - 
 ### 06/05/2018
 ![Diagrama de Classes](../img/Classes/Classes-pc2.png)
+### 10/05/2018
+![Diagrama de Classes](../img/Classes/Classes-pc2-1005.png)
 
 ## Esboços Iniciais
 A título de rastreabilidade, se incluem aqui algumas versões primitivas do diagrama. Nestas o foco maior era em se modelar o domínio geral da aplicação, e destaca-se que não há grande precisão com as particularidades técnicas do artefato.

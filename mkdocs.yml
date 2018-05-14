@@ -23,6 +23,7 @@ pages:
       - Documento de Arquitetura: requisitos/modelagem/arquitetura.md
   - Arquitetura:
     - Diagrama de Classes: arquitetura/diagrama_classes.md
+    - Diagrama de Pacotes: arquitetura/diagrama_pacotes.md
   - Gerenciamento do Projeto:
     - Cronograma: gerenciamento/cronograma.md
     - Plano de Gerenciamento de Riscos: gerenciamento/riscos.md
