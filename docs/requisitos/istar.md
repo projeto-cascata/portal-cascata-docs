@@ -36,6 +36,11 @@ A figura abaixo representa um modelo estratégico de dependência que apresenta 
 
 Além da modelagem estratégica de dependência, foi elaborado mais um modelo, que representa os atores e suas áreas de fronteiras, que limitam o escopo da atuação de cada um dos atores, sendo a representação de seus Rationales.
 
+### piStar - online iStar modelling
+
+![Ferramenta online](../img/istar/ferramenta_online.png)
+
+
 ### 1ª Versão
 
 ![Outro Modelo representativo](../img/istar/SR_Leticia.png)
