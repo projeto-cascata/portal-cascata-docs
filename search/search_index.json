@@ -762,7 +762,7 @@
         },
         {
             "location": "/arquitetura/diagrama_classes/",
-            "text": "Diagrama de Classes\n\n\nHist\u00f3rico de Revis\u00f5es\n\n\n\n\n\n\n\n\nData\n\n\nVers\u00e3o\n\n\nDescri\u00e7\u00e3o\n\n\nAutor(es)\n\n\n\n\n\n\n\n\n\n\n02/04/2018\n\n\n1.0\n\n\nVers\u00e3o Inicial do Diagrama\n\n\nFelipe Hargreaves\n\n\n\n\n\n\n04/04/2018\n\n\n1.1\n\n\nCardinalidades e sem\u00e2ntica\n\n\nClarissa Borges\n\n\n\n\n\n\n05/04/2018\n\n\n1.2\n\n\nEsbo\u00e7os Iniciais\n\n\nFelipe Hargreaves\n\n\n\n\n\n\n---\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVers\u00e3o Atual - 10/05/2018\n\n\nAqui se encontra a vers\u00e3o mais atual do diagrama, de acordo com a implementa\u00e7\u00e3o. \u00c0 medida que o sistema evolui, deve ser gerada uma vers\u00e3o nova do modelo, se necess\u00e1rio.\n\n\n\n\nModelo Base\n\n\nEsta vers\u00e3o corresponde ao primeiro modelo est\u00e1vel realizado antes do in\u00edcio da implementa\u00e7\u00e3o, e serve de base para vers\u00f5es futuras, contemplando o sistema como um todo.\n\n\n\nVers\u00f5es Anteriores -\n\n\n06/05/2018\n\n\n\n\nEsbo\u00e7os Iniciais\n\n\nA t\u00edtulo de rastreabilidade, se incluem aqui algumas vers\u00f5es primitivas do diagrama. Nestas o foco maior era em se modelar o dom\u00ednio geral da aplica\u00e7\u00e3o, e destaca-se que n\u00e3o h\u00e1 grande precis\u00e3o com as particularidades t\u00e9cnicas do artefato.\n\n\nA mudan\u00e7a mais importante destes esbo\u00e7os iniciais em compara\u00e7\u00e3o a vers\u00f5es mais sofisticadas do diagrama diz respeito \u00e0 organiza\u00e7\u00e3o dos diferentes tipos de usu\u00e1rio e suas permiss\u00f5es no sistema. Aqui se visualiza uma estrutura de heran\u00e7as que corresponde de certa forma \u00e0 hierarquia que existe nos diferentes setores do Projeto. Essa abordagem se mostrou dif\u00edcil de transcrever para o modelo, pois as fun\u00e7\u00f5es diferentes exercidas por cada tipo de membro n\u00e3o se adaptam de forma clara a um sistema de heran\u00e7as. A alternativa adotada foi a de um sistema de grupos e permiss\u00f5es, removendo essas responsabilidades das classes de usu\u00e1rio.",
+            "text": "Diagrama de Classes\n\n\nHist\u00f3rico de Revis\u00f5es\n\n\n\n\n\n\n\n\nData\n\n\nVers\u00e3o\n\n\nDescri\u00e7\u00e3o\n\n\nAutor(es)\n\n\n\n\n\n\n\n\n\n\n02/04/2018\n\n\n1.0\n\n\nVers\u00e3o Inicial do Diagrama\n\n\nFelipe Hargreaves\n\n\n\n\n\n\n04/04/2018\n\n\n1.1\n\n\nCardinalidades e sem\u00e2ntica\n\n\nClarissa Borges\n\n\n\n\n\n\n05/04/2018\n\n\n1.2\n\n\nEsbo\u00e7os Iniciais\n\n\nFelipe Hargreaves\n\n\n\n\n\n\n---\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVers\u00e3o Atual - 13/05/2018\n\n\nAqui se encontra a vers\u00e3o mais atual do diagrama, de acordo com a implementa\u00e7\u00e3o. \u00c0 medida que o sistema evolui, deve ser gerada uma vers\u00e3o nova do modelo, se necess\u00e1rio.\n\n\nModels\n\n\n\n\nViews\n\n\n\n\nModelo Base\n\n\nEsta vers\u00e3o corresponde ao primeiro modelo est\u00e1vel realizado antes do in\u00edcio da implementa\u00e7\u00e3o, e serve de base para vers\u00f5es futuras, contemplando o sistema como um todo.\n\n\n\nVers\u00f5es Anteriores -\n\n\n06/05/2018\n\n\n\n\n10/05/2018\n\n\n\n\nEsbo\u00e7os Iniciais\n\n\nA t\u00edtulo de rastreabilidade, se incluem aqui algumas vers\u00f5es primitivas do diagrama. Nestas o foco maior era em se modelar o dom\u00ednio geral da aplica\u00e7\u00e3o, e destaca-se que n\u00e3o h\u00e1 grande precis\u00e3o com as particularidades t\u00e9cnicas do artefato.\n\n\nA mudan\u00e7a mais importante destes esbo\u00e7os iniciais em compara\u00e7\u00e3o a vers\u00f5es mais sofisticadas do diagrama diz respeito \u00e0 organiza\u00e7\u00e3o dos diferentes tipos de usu\u00e1rio e suas permiss\u00f5es no sistema. Aqui se visualiza uma estrutura de heran\u00e7as que corresponde de certa forma \u00e0 hierarquia que existe nos diferentes setores do Projeto. Essa abordagem se mostrou dif\u00edcil de transcrever para o modelo, pois as fun\u00e7\u00f5es diferentes exercidas por cada tipo de membro n\u00e3o se adaptam de forma clara a um sistema de heran\u00e7as. A alternativa adotada foi a de um sistema de grupos e permiss\u00f5es, removendo essas responsabilidades das classes de usu\u00e1rio.",
             "title": "Diagrama de Classes"
         },
         {
@@ -776,9 +776,19 @@
             "title": "Hist\u00f3rico de Revis\u00f5es"
         },
         {
-            "location": "/arquitetura/diagrama_classes/#versao-atual-10052018",
+            "location": "/arquitetura/diagrama_classes/#versao-atual-13052018",
             "text": "Aqui se encontra a vers\u00e3o mais atual do diagrama, de acordo com a implementa\u00e7\u00e3o. \u00c0 medida que o sistema evolui, deve ser gerada uma vers\u00e3o nova do modelo, se necess\u00e1rio.",
-            "title": "Vers\u00e3o Atual - 10/05/2018"
+            "title": "Vers\u00e3o Atual - 13/05/2018"
+        },
+        {
+            "location": "/arquitetura/diagrama_classes/#models",
+            "text": "",
+            "title": "Models"
+        },
+        {
+            "location": "/arquitetura/diagrama_classes/#views",
+            "text": "",
+            "title": "Views"
         },
         {
             "location": "/arquitetura/diagrama_classes/#modelo-base",
@@ -796,9 +806,29 @@
             "title": "06/05/2018"
         },
         {
+            "location": "/arquitetura/diagrama_classes/#10052018",
+            "text": "",
+            "title": "10/05/2018"
+        },
+        {
             "location": "/arquitetura/diagrama_classes/#esbocos-iniciais",
             "text": "A t\u00edtulo de rastreabilidade, se incluem aqui algumas vers\u00f5es primitivas do diagrama. Nestas o foco maior era em se modelar o dom\u00ednio geral da aplica\u00e7\u00e3o, e destaca-se que n\u00e3o h\u00e1 grande precis\u00e3o com as particularidades t\u00e9cnicas do artefato.  A mudan\u00e7a mais importante destes esbo\u00e7os iniciais em compara\u00e7\u00e3o a vers\u00f5es mais sofisticadas do diagrama diz respeito \u00e0 organiza\u00e7\u00e3o dos diferentes tipos de usu\u00e1rio e suas permiss\u00f5es no sistema. Aqui se visualiza uma estrutura de heran\u00e7as que corresponde de certa forma \u00e0 hierarquia que existe nos diferentes setores do Projeto. Essa abordagem se mostrou dif\u00edcil de transcrever para o modelo, pois as fun\u00e7\u00f5es diferentes exercidas por cada tipo de membro n\u00e3o se adaptam de forma clara a um sistema de heran\u00e7as. A alternativa adotada foi a de um sistema de grupos e permiss\u00f5es, removendo essas responsabilidades das classes de usu\u00e1rio.",
             "title": "Esbo\u00e7os Iniciais"
+        },
+        {
+            "location": "/arquitetura/diagrama_pacotes/",
+            "text": "Diagrama de Pacotes\n\n\nVers\u00e3o Atual - 13/05/2018",
+            "title": "Diagrama de Pacotes"
+        },
+        {
+            "location": "/arquitetura/diagrama_pacotes/#diagrama-de-pacotes",
+            "text": "",
+            "title": "Diagrama de Pacotes"
+        },
+        {
+            "location": "/arquitetura/diagrama_pacotes/#versao-atual-13052018",
+            "text": "",
+            "title": "Vers\u00e3o Atual - 13/05/2018"
         },
         {
             "location": "/gerenciamento/cronograma/",
